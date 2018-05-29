@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Concise Handlebars.js</title>
+    <!-- 0a. CSS -->
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="http://mikeozornin.ru/blog/themes/plain/styles/main.css?1511434730">
+
+    <!-- 0a. JS -->
+    <script src="//code.jquery.com/jquery-2.0.3.min.js"></script><!-- online jquery.js -->
+    <script src="//cdnjs.cloudflare.com/ajax/libs/handlebars.js/1.1.2/handlebars.min.js"></script><!-- online handlebars.js-->
+</head>
+
+<body>
+<!--1. Data (json format!) -->
+<script>
+    var url='data.json'; // relative url : 'data.json'; protocole-relative absolute url: '//website.org/path/to/data.json';
+</script>
+
+<!-- 2. Anchor -->
+<div id="anchor">&nbsp;</div>
+
+<!-- 3. Template -->
+<script id="tpl" type="text/template">
+    <div class="e2-text-table" style="font-size: 80%; line-height: 1.4">
+        <table cellpadding="0" cellspacing="0" border="0">
+            <tbody><tr>
+                <td>Выпуск</td>
+                <td>Требования к&nbsp;вину</td>
+                <td>Вино Парфенова</td>
+                <td>Магазины</td>
+            </tr>
+            {{#wines}}
+            <tr>
+                <td>{{#if release.title}}<a href="{{release.video-url}}"><img style="width: 210px; float: left; margin-right: 10px;" src="{{release.cover-url}}" />{{release.title}}</a>
+                {{/if}}</td>
+                <td>{{requirements}}</td>
+                <td>{{#if wine.title}}<a href="{{wine.vivino-url}}"><img style="height: 117.5px; float: left; margin-right: 30px;" src="{{wine.cover-url}}"/>{{wine.title}}</a><br/>{{wine.type}}<br/>Регион: {{wine.region}}<br/></a>Виноград: {{wine.grape}}{{/if}}</td>
+                <td>{{#shops}}
+                    <a href="{{url}}/" style="white-space: nowrap;">{{title}}</a> {{price}}
+                    {{/shops}}
+                </td>
+
+            </tr>
+            {{/wines}}
+            </tbody></table>
+    </div>
+
+</script>
+
+<!--4. Handlebars.js slingshot -->
+<script>
+    //4a.function creation
+    var slingshot = function (url, tplId, anchor) {
+        $.getJSON(url, function(data) {
+            var template = $(tplId).html();
+            var stone = Handlebars.compile(template)(data);
+            $(anchor).append(stone);
+        });
+    }
+    //4b.function firing
+    slingshot('data.json', '#tpl', '#anchor'); // since url = 'data.json' , we can use both notations.
+</script>
+</body>
+</html>
