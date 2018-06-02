@@ -167,7 +167,7 @@
       "requirements": "Розовое",
       "wine": {
         "region": "Франция, Прованс",
-        "grape": "65 % Гренаш, 20 % Сира, 5 % Каберне Совиньон, 5 % Кариньян, 5 % Сенсо",
+        "grape": "65 % Гренаш, 20 % Сира, 5 % Каберне Совиньон, 5 % Кариньян, 5 % Сенсо",
         "type": "Розовое",
         "title": "Chateau Gassier Rose 946",
         "vivino-url": "https://www.vivino.com/wineries/gassier/wines/gassier-chateau-gassier-946-sainte-victoire-selection-parcellaire-rose-uv",
@@ -336,7 +336,7 @@
         "type": "Оранжевое",
         "title": "Askaneli Brothers, Rkatsiteli Qvevri",
         "vivino-url": "https://www.vivino.com/wineries/ge-askaneli-brothers/wines/ge-askaneli-brothers-rkatsiteli-qvevri-uv",
-        "vivino-rating": "3,6",
+        "vivino-rating": "3,7",
         "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-12@2x.jpg"
       },
       "shops": [
@@ -357,7 +357,7 @@
       "requirements": "Бордо",
       "wine": {
         "region": "Франция, Бордо, Сент-Эмилион",
-        "grape": "80 % Мерло, 20 % Каберне Фран",
+        "grape": "80 % Мерло, 20 % Каберне Фран",
         "type": "Красное",
         "title": "Chateau Cadet Bon Grand Cru",
         "vivino-url": "https://www.vivino.com/wineries/cadet-bon/wines/cadet-bon-saint-emilion-grand-cru-classe-uv",

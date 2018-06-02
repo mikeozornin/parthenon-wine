@@ -5,6 +5,7 @@
     <title>Concise Handlebars.js</title>
     <!-- 0a. CSS -->
     <link rel="stylesheet" href="http://mikeozornin.ru/blog/themes/plain/styles/main.css?1511434730">
+    <link rel="stylesheet" href="http://mikeozornin.ru/blog/themes/my/css/style.css">
 
     <!-- 0a. JS -->
     <script src="//code.jquery.com/jquery-2.0.3.min.js"></script><!-- online jquery.js -->
@@ -23,19 +24,21 @@
 <!-- 3. Template -->
 <script id="tpl" type="text/template">
     <div class="e2-text-table" style="font-size: 80%; line-height: 1.4">
-        <table cellpadding="0" cellspacing="0" border="0">
-            <tbody><tr>
+        <table cellpadding="0" cellspacing="0" border="0" class="sticky-header">
+            <thead><tr>
                 <td>Выпуск</td>
                 <td>Требования к&nbsp;вину</td>
                 <td>Вино Парфенова</td>
                 <td>Магазины</td>
             </tr>
+        </thead>
+        <tbody>
             {{#wines}}
             <tr>
                 <td>{{#if release.title}}<a href="{{release.video-url}}"><img style="width: 210px; float: left; margin-right: 10px;" src="{{release.cover-url}}" />{{release.title}}</a>
                 {{/if}}</td>
                 <td>{{requirements}}</td>
-                <td>{{#if wine.title}}<a href="{{wine.vivino-url}}"><img style="height: 117.5px; float: left; margin-right: 30px;" src="{{wine.cover-url}}"/>{{wine.title}}</a><br/>{{wine.type}}<br/>Регион: {{wine.region}}<br/></a>Виноград: {{wine.grape}}{{/if}}</td>
+                <td>{{#if wine.title}}<a href="{{wine.vivino-url}}"><img style="align: right; height: 117.5px; max-width: 35px; float: left; margin-right: 30px;" src="{{wine.cover-url}}"/>{{wine.title}}</a> · {{wine.vivino-rating}} ★<br/>{{wine.type}}<br/>Регион: {{wine.region}}<br/></a>Виноград: {{wine.grape}}{{/if}}</td>
                 <td>{{#shops}}
                     <a href="{{url}}" style="white-space: nowrap;">{{title}}</a> {{price}}
                     {{/shops}}
