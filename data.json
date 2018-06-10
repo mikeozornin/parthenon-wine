@@ -167,7 +167,7 @@
       "requirements": "Розовое",
       "wine": {
         "region": "Франция, Прованс",
-        "grape": "65 % Гренаш, 20 % Сира, 5 % Каберне Совиньон, 5 % Кариньян, 5 % Сенсо",
+        "grape": "65 ⁠% Гренаш, 20 ⁠% Сира, 5 ⁠% Каберне Совиньон, 5 ⁠% Кариньян, 5 ⁠% Сенсо",
         "type": "Розовое",
         "title": "Chateau Gassier Rose 946",
         "vivino-url": "https://www.vivino.com/wineries/gassier/wines/gassier-chateau-gassier-946-sainte-victoire-selection-parcellaire-rose-uv",
@@ -357,7 +357,7 @@
       "requirements": "Бордо",
       "wine": {
         "region": "Франция, Бордо, Сент-Эмилион",
-        "grape": "80 % Мерло, 20 % Каберне Фран",
+        "grape": "80 ⁠% Мерло, 20 ⁠% Каберне Фран",
         "type": "Красное",
         "title": "Chateau Cadet Bon Grand Cru",
         "vivino-url": "https://www.vivino.com/wineries/cadet-bon/wines/cadet-bon-saint-emilion-grand-cru-classe-uv",
@@ -380,11 +380,69 @@
     {
       "release": {
         "number": 16,
+        "title":
+          "Парфенон #14: «Лето» в прокате, Бэнкси в Москве, Гуриев об экономике РФ, своё вино, родная Улома",
+        "video-url": "https://www.youtube.com/watch?v=P9X2ezIGcOQ",
+        "cover-url": "http://mikeozornin.ru/blog/pictures/cover-14@2x.jpg"
+      },
+      "requirements": "Российское",
+      "wine": {
+        "region": "Россия, Краснодарский край",
+        "grape": "Пино Нуар",
+        "type": "Красное",
+        "title": "Fanagoria Cru Lermont Pinot Noir",
+        "vivino-url":
+          "https://www.vivino.com/wineries/fanagoria/wines/cru-lermont-pinot-noir-9999",
+        "vivino-rating": "3,4",
+        "cover-url":
+          "http://mikeozornin.ru/blog/pictures/wine-cover-14@2x.jpg"
+      },
+      "shops": [
+        {
+          "title": "WineStyle",
+          "url":
+            "https://winestyle.ru/products/Fanagoria-Cru-Lermont-Pinot-Noir.html",
+          "price": "868 ₽"
+        }
+      ]
+    },
+    {
+      "release": {
+        "number": 16,
+        "title":
+          "",
+        "video-url": "",
+        "cover-url": ""
+      },
+      "requirements": "",
+      "wine": {
+        "region": "Россия, Краснодарский край, Тамань",
+        "grape": "Пино Нуар",
+        "type": "Красное",
+        "title": "Villa Romanov Meotida Pinot Noir",
+        "vivino-url":
+          "https://www.vivino.com/wineries/villa-romanov/wines/villa-romanov-meotida-pinot-noir-uv",
+        "vivino-rating": "3,5",
+        "cover-url":
+          "http://mikeozornin.ru/blog/pictures/wine-cover-14-2@2x.png"
+      },
+      "shops": [
+        {
+          "title": "WineHelp",
+          "url":
+            "https://winehelp.ru/vino/vino_villa_romanov_meotida_pinot_noir_villa_romanov_meotida_pino_nuar_750_ml/",
+          "price": "1656 ₽"
+        }
+      ]
+    },
+    {
+      "release": {
+        "number": 17,
         "title": "",
         "video-url": "",
         "cover-url": ""
       },
-      "requirements": "Российское",
+      "requirements": "Красная Рона (Долина реки Роны, Франция)",
       "wine": {
         "region": "",
         "grape": "",
@@ -394,8 +452,7 @@
         "vivino-rating": "",
         "cover-url": ""
       },
-      "shops": [
-      ]
+      "shops": []
     }
   ]
 }
