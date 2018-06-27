@@ -479,7 +479,7 @@
     {
       "release": {
         "number": 17,
-        "title": "«Цвет нации». Фильм Леонида Парфенова с предисловием автора.",
+        "title": "«Цвет нации». Фильм Леонида Парфенова с предисловием автора",
         "video-url": "https://www.youtube.com/watch?v=QaeRj-ApktY",
         "cover-url":
           "http://mikeozornin.ru/blog/pictures/cover-color-of-nation@2x.jpg"
@@ -510,6 +510,30 @@
           "price": "6606 ₽"
         }
       ]
+    },
+    {
+      "release": {
+        "number": 18,
+        "title": "Первый прямой эфир \"Парфенона\"",
+        "video-url": "https://www.youtube.com/watch?v=kCCFvwejFc0",
+        "cover-url": "http://mikeozornin.ru/blog/pictures/cover-online-1@2x.jpg"
+      },
+      "requirements": "Свободный выбор",
+      "wine": {
+        "region": "Грузия, Кахетия",
+        "grape": "Хихви (khikhvi)",
+        "type": "Оранжевое",
+        "title": "Tchotiashvili Khikhvi Rcheli Qvevri Dry",
+        "vivino-url": "https://www.vivino.com/wineries/tchotiashvili/wines/tchotiashvili-khikhvi-rcheli-qvevri-dry-white-2014",
+        "vivino-rating": "3.9",
+        "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-online-1@2x.jpg"
+      },
+      "shops": [{
+        "title": "Винодельня",
+        "url":
+          "http://tchotiashvili.com",
+        "price": " "
+      }]
     },
     {
       "release": {
