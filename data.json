@@ -538,11 +538,35 @@
     {
       "release": {
         "number": 18,
+        "title": "Парфенон #15: О, мир, ты - футбол! Пенсии от Путина, Собчак о Собчаке и коллекционное искусство",
+        "video-url": "https://www.youtube.com/watch?v=ECFltWFIHOg",
+        "cover-url": "http://mikeozornin.ru/blog/pictures/cover-15@2x.jpg"
+      },
+      "requirements": "",
+      "wine": {
+        "region": "Испания, Наварра",
+        "grape": "Шардоне",
+        "type": "Белое",
+        "title": "Arínzano Gran Vino Blanco",
+        "vivino-url": "https://www.vivino.com/wineries/arinzano/wines/arinzano-gran-vino-blanco-2014",
+        "vivino-rating": "4.0",
+        "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-15@2x.png"
+      },
+      "shops": [{
+        "title": "Винодельня",
+        "url":
+          "https://arinzano.com",
+        "price": " "
+      }]
+    },
+    {
+      "release": {
+        "number": 19,
         "title": "",
         "video-url": "",
         "cover-url": ""
       },
-      "requirements": "Свободный выбор",
+      "requirements": "",
       "wine": {
         "region": "",
         "grape": "",
