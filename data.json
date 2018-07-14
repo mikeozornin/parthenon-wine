@@ -53,7 +53,7 @@
       "release": {
         "number": 3,
         "title":
-          "Парфенон #3: Леонид Парфенов о Канаде, Довлатове, Гайавате и том самом Послании",
+          "Парфенон #3: Леонид Парфенов о Канаде, Довлатове, Гайавате и том самом Послании",
         "video-url": "https://www.youtube.com/watch?v=RghX43tU1ds",
         "cover-url": "http://mikeozornin.ru/blog/pictures/cover-3@2x.jpg"
       },
@@ -150,7 +150,7 @@
       "release": {
         "number": 7,
         "title":
-          "Парфенон #7: Кемерово: мы и власть, Ферапонтово: стихи и фрески, Большой: Каренина - первая леди",
+          "Парфенон #7: Кемерово: мы и власть, Ферапонтово: стихи и фрески, Большой: Каренина — первая леди",
         "video-url": "https://www.youtube.com/watch?v=Di_CY3j_0xU",
         "cover-url": "http://mikeozornin.ru/blog/pictures/cover-7@2x.jpg"
       },
@@ -233,7 +233,7 @@
       "release": {
         "number": 10,
         "title":
-          "Парфенон. Специальный выпуск: Русские Евреи. Фильм первый. С предисловием Леонида Парфенова.",
+          "Парфенон. Специальный выпуск: Русские Евреи. Фильм первый. С предисловием Леонида Парфенова.",
         "video-url": "https://www.youtube.com/watch?v=AaNjPAFD-UI",
         "cover-url": "http://mikeozornin.ru/blog/pictures/jewish-1@2x.jpg"
       },
@@ -424,7 +424,7 @@
       "release": {
         "number": 16,
         "title":
-          "Парфенон #14: «Лето» в прокате, Бэнкси в Москве, Гуриев об экономике РФ, своё вино, родная Улома",
+          "Парфенон #14: «Лето» в прокате, Бэнкси в Москве, Гуриев об экономике РФ, своё вино, родная Улома",
         "video-url": "https://www.youtube.com/watch?v=P9X2ezIGcOQ",
         "cover-url": "http://mikeozornin.ru/blog/pictures/cover-14@2x.jpg"
       },
@@ -524,21 +524,25 @@
         "grape": "Хихви (khikhvi)",
         "type": "Оранжевое",
         "title": "Tchotiashvili Khikhvi Rcheli Qvevri Dry",
-        "vivino-url": "https://www.vivino.com/wineries/tchotiashvili/wines/tchotiashvili-khikhvi-rcheli-qvevri-dry-white-2014",
+        "vivino-url":
+          "https://www.vivino.com/wineries/tchotiashvili/wines/tchotiashvili-khikhvi-rcheli-qvevri-dry-white-2014",
         "vivino-rating": "3.9",
-        "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-online-1@2x.jpg"
+        "cover-url":
+          "http://mikeozornin.ru/blog/pictures/wine-cover-online-1@2x.jpg"
       },
-      "shops": [{
-        "title": "Винодельня",
-        "url":
-          "http://tchotiashvili.com",
-        "price": " "
-      }]
+      "shops": [
+        {
+          "title": "Винодельня",
+          "url": "http://tchotiashvili.com",
+          "price": " "
+        }
+      ]
     },
     {
       "release": {
         "number": 18,
-        "title": "Парфенон #15: О, мир, ты - футбол! Пенсии от Путина, Собчак о Собчаке и коллекционное искусство",
+        "title":
+          "Парфенон #15: О, мир, ты — футбол! Пенсии от Путина, Собчак о Собчаке и коллекционное искусство",
         "video-url": "https://www.youtube.com/watch?v=ECFltWFIHOg",
         "cover-url": "http://mikeozornin.ru/blog/pictures/cover-15@2x.jpg"
       },
@@ -548,16 +552,37 @@
         "grape": "Шардоне",
         "type": "Белое",
         "title": "Arínzano Gran Vino Blanco",
-        "vivino-url": "https://www.vivino.com/wineries/arinzano/wines/arinzano-gran-vino-blanco-2014",
+        "vivino-url":
+          "https://www.vivino.com/wineries/arinzano/wines/arinzano-gran-vino-blanco-2014",
         "vivino-rating": "4.0",
         "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-15@2x.png"
       },
-      "shops": [{
-        "title": "Винодельня",
-        "url":
-          "https://arinzano.com",
-        "price": " "
-      }]
+      "shops": [
+        {
+          "title": "Винодельня",
+          "url": "https://arinzano.com",
+          "price": " "
+        }
+      ]
+    },
+    {
+      "release": {
+        "number": 20,
+        "title": "Глаз Божий. Фильм первый. С предисловием Леонида Парфенова.",
+        "video-url": "https://www.youtube.com/watch?v=KIU8dZD4Mbs",
+        "cover-url": "http://mikeozornin.ru/blog/pictures/cover-gods-eye@2x.jpg"
+      },
+      "requirements": "Выпуск был без вина",
+      "wine": {
+        "region": "",
+        "grape": "",
+        "type": "",
+        "title": "",
+        "vivino-url": "",
+        "vivino-rating": "",
+        "cover-url": ""
+      },
+      "shops": []
     },
     {
       "release": {
