@@ -586,6 +586,26 @@
     },
     {
       "release": {
+        "number": 21,
+        "title": "Глаз Божий. Фильм второй. С предисловием Леонида Парфенова",
+        "video-url": "https://www.youtube.com/watch?v=qk989s8vfh4",
+        "cover-url":
+          "http://mikeozornin.ru/blog/pictures/cover-gods-eye-2@2x.jpg"
+      },
+      "requirements": "Выпуск был без вина",
+      "wine": {
+        "region": "",
+        "grape": "",
+        "type": "",
+        "title": "",
+        "vivino-url": "",
+        "vivino-rating": "",
+        "cover-url": ""
+      },
+      "shops": []
+    },
+    {
+      "release": {
         "number": 19,
         "title": "",
         "video-url": "",
