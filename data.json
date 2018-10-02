@@ -603,6 +603,31 @@
         "cover-url": ""
       },
       "shops": []
+    },{
+      "release": {
+        "number": 22,
+        "title": "Парфенон №16. Новый сезон: Вирт от Wylsacom, лето, Япония от классики до аниме, Кабаков всех дороже",
+        "video-url": "https://www.youtube.com/watch?v=_7ZttBEZpFc",
+        "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-16@2x.jpg"
+      },
+      "requirements": "",
+      "wine": {
+        "region": "Аргентина",
+        "grape": "Мальбек",
+        "type": "Красное",
+        "title": "Finca Altamira, 2014",
+        "vivino-url": "https://www.vivino.com/achaval-ferrer-finca-altamira-malbec/w/1176258?year=2014",
+        "vivino-rating": "4.5",
+        "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-16@2x.png"
+      },
+      "shops": [
+        {
+          "title": "SimpleWine",
+          "url":
+            "https://simplewine.ru/catalog/product/achaval_ferrer_2014_075/",
+          "price": "13 490 ₽"
+        }
+      ]
     },
     {
       "release": {
