@@ -631,6 +631,32 @@
     },
     {
       "release": {
+        "number": 23,
+        "title": "Парфенон #17: Гражданин Face. Какая сука разбудила?(с). «Кислота» вокруг. Полюбить Киберслава.",
+        "video-url": "https://www.youtube.com/watch?v=DqVj1KwQ9jI",
+        "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-17@2x.jpg"
+      },
+      "requirements": "",
+      "wine": {
+        "region": "Италия, Тоскана, Болгери",
+        "grape": "51 ⁠% Каберне Совиньон, 32 ⁠% Мерло, 11 ⁠% Каберне Фран, 6 ⁠% Пти Вердо",
+        "type": "Красное",
+        "title": "Ornellaia, Bolgheri Superiore DOC, 2011",
+        "vivino-url": "https://www.vivino.com/ornellaia-bolgheri-superiore/w/22447?year=2011",
+        "vivino-rating": "4.6",
+        "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-17@2x.png"
+      },
+      "shops": [
+        {
+          "title": "WineStyle",
+          "url":
+            "https://winestyle.ru/products/Ornellaia-Bolgheri-Superiore-DOC-2011.html",
+          "price": "37 584 ₽"
+        }
+      ]
+    },
+    {
+      "release": {
         "number": 19,
         "title": "",
         "video-url": "",
