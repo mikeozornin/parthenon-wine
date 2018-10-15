@@ -657,6 +657,78 @@
     },
     {
       "release": {
+        "number": 24,
+        "title": "Парфенон #18: Жесть Слепакова. Духан Пиросмани. Опера - тоже мода. \"Берегись автомобиля!\".",
+        "video-url": "https://www.youtube.com/watch?v=9Wsuml3SVDg",
+        "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-18@2x.jpg"
+      },
+      "requirements": "Грузинское",
+      "wine": {
+        "region": "Грузия, Картли",
+        "grape": "Мцване",
+        "type": "Оранжевое",
+        "title": "DO-RE-MI, Mtsvane, 2016",
+        "vivino-url": "https://www.vivino.com/do-re-mi-emhaan-kisi-white-dry-kvevri-white-wine-v-0rm8y/w/3894429?year=2016",
+        "vivino-rating": "4.1",
+        "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-18@2x.png"
+      },
+      "shops": [
+        {
+          "title": "Винодельня",
+          "url":
+            "https://www.facebook.com/doremiwine",
+          "price": ""
+        }
+      ]
+    },
+    {
+      "release": {
+        "number": 24,
+        "title": "",
+        "video-url": "",
+        "cover-url": ""
+      },
+      "requirements": "",
+      "wine": {
+        "region": "Грузия, Кахетия",
+        "grape": "Ркацители",
+        "type": "Оранжевое",
+        "title": "DO-RE-MI, Rkatsiteli, 2016",
+        "vivino-url": "https://www.vivino.com/do-re-mi-rk-acit-eli-k-arva-dri-rkatsiteli-unfiltered-amber-dry/w/6413251?year=2016",
+        "vivino-rating": "3.9",
+        "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-18-2@2x.jpg"
+      },
+      "shops": [
+        {
+          "title": "Винодельня",
+          "url":
+            "https://www.facebook.com/doremiwine",
+          "price": ""
+        }
+      ]
+    },
+    {
+      "release": {
+        "number": 25,
+        "title": "",
+        "video-url": "",
+        "cover-url": ""
+      },
+      "requirements": "Барбареско",
+      "wine": {
+        "region": "",
+        "grape": "",
+        "type": "",
+        "title": "",
+        "vivino-url": "",
+        "vivino-rating": "",
+        "cover-url": ""
+      },
+      "shops": []
+    },
+
+    {
+      "release": {
         "number": 19,
         "title": "",
         "video-url": "",
