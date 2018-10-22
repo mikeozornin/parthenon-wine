@@ -89,7 +89,12 @@
         "vivino-rating": "3,7",
         "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-4@2x.png"
       },
-      "shops": []
+      "shops": [{
+        "title": "Real authentic wine",
+        "url":
+          "http://realauthenticwine.ru/catalog/product/o6166/",
+        "price": "1200 ₽"
+      }]
     },
     {
       "release": {
