@@ -715,21 +715,32 @@
     {
       "release": {
         "number": 25,
-        "title": "",
-        "video-url": "",
-        "cover-url": ""
+        "title": "Парфенон #19: драки парами, \"Экстаз\", зачем мне Грузия, «Сердце мира», бегом на «Бег»!",
+        "video-url": "https://www.youtube.com/watch?v=GuUcIY7fdlc",
+        "cover-url": "http://mikeozornin.ru/blog/pictures/cover-19@2x.jpg"
       },
       "requirements": "Барбареско",
       "wine": {
-        "region": "",
-        "grape": "",
-        "type": "",
-        "title": "",
-        "vivino-url": "",
-        "vivino-rating": "",
-        "cover-url": ""
+        "region": "Италия, Пьемонт, Барбареско",
+        "grape": "Неббиоло",
+        "type": "Красное",
+        "title": "Barbaresco Bricco Asili Bernardot DOCG, 2008",
+        "vivino-url": "https://www.vivino.com/ceretto-aziende-vitivinicole-srl-bricco-asili-barbaresco-bernadot/w/7138",
+        "vivino-rating": "4.2",
+        "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-19@2x.jpg"
       },
-      "shops": []
+      "shops": [{
+        "title": "Winestyle",
+        "url":
+          "https://winestyle.ru/products/Barbaresco-Bricco-Asili-Bernardot-DOCG-2008.html",
+        "price": "16 990 ₽ (2010 год)"
+      },
+      {"title": "WineHelp",
+        "url":
+          "https://winehelp.ru/vino/nebbiolo/bolee-5000-rub/vino-barbaresco-bricco-asili-bernardot-docg-barbaresko-brikko-azili-bernardot-2008-750-ml/",
+        "price": "15 139 ₽"
+      }
+    ]
     },
 
     {
