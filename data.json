@@ -742,6 +742,31 @@
       }
     ]
     },
+    {
+      "release": {
+        "number": 27,
+        "title": "Парфенон #20: Человек, который удивил всех, Медведев и \"ничего\", чудаки Шотландии и винные мемы",
+        "video-url": "https://www.youtube.com/watch?v=1ueuDhDxp_Y",
+        "cover-url": "http://mikeozornin.ru/blog/pictures/cover-20@2x.jpg"
+      },
+      "requirements": "Тоскана",
+      "wine": {
+        "region": "Италия, Тоскана",
+        "grape": "Санджовезе",
+        "type": "Красное",
+        "title": "Brunello di Montalcino Castelgiocondo, 2013",
+        "vivino-url": "https://www.vivino.com/it-castelgiocondo-brunello-di-montalcino/w/1098912",
+        "vivino-rating": "4.2",
+        "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-20@2x.png"
+      },
+      "shops": [{
+        "title": "SimpleWine",
+        "url":
+          "https://simplewine.ru/catalog/product/marchesi_de_frescobaldi_brunello_di_montalcino_castelgiocondo_2013_075/",
+        "price": "6 140 ₽"
+      }
+    ]
+    },
 
     {
       "release": {
