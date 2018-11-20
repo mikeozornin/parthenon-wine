@@ -770,6 +770,70 @@
 
     {
       "release": {
+        "number": 28,
+        "title": "Парфенон #21: Радзинский-мл и разные жизни, Бекмамбетов и кино с компа, иконы, «Холодная война»",
+        "video-url": "https://www.youtube.com/watch?v=yUUmyjo64Jc",
+        "cover-url": "http://mikeozornin.ru/blog/pictures/cover-21@2x.jpg"
+      },
+      "requirements": "Пино нуар",
+      "wine": {
+        "region": "Франция, Бургундия, Жевре-Шамбертен",
+        "grape": "Пино Нуар",
+        "type": "Красное",
+        "title": "Domaine des Varoilles Gevrey-Chambertin Clos du Meix Ouches Monopole, 2013",
+        "vivino-url": "https://www.vivino.com/domaine-des-varoilles-gevrey-chambertin-clos-du-meix-des-ouches/w/1164442",
+        "vivino-rating": "3.9",
+        "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-21@2x.jpg"
+      },
+      "shops": [
+    ]
+    },
+    {
+      "release": {
+        "number": 28,
+        "title": "Парфенон #22: Шоу-выборы в Приморье. Серебренников: суд и опера. Соцреализм в ГТГ. Михалков-77",
+        "video-url": "https://www.youtube.com/watch?v=enH172iIREE",
+        "cover-url": "http://mikeozornin.ru/blog/pictures/cover-22@2x.jpg"
+      },
+      "requirements": "Долина Роны",
+      "wine": {
+        "region": "Франция, Долина Роны, Шатонёф-дю-Пап",
+        "grape": "Гренаш, Сира, Мурведр, Сенсо",
+        "type": "Красное",
+        "title": "Chateauneuf-Du-Pape Télégramme, 2016",
+        "vivino-url": "https://www.vivino.com/vieux-telegraphe-telegramme-chateauneuf-du-pape/w/77716?year=U.V.",
+        "vivino-rating": "4.1",
+        "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-22@2x.png"
+      },
+      "shops": [{
+        "title": "SimpleWine",
+        "url":
+          "https://simplewine.ru/catalog/product/vignobles_brunier_chateauneuf_du_pape_telegramme_2016_075/",
+        "price": "4 640 ₽"
+      }
+    ]
+    },
+    {
+      "release": {
+        "number": 19,
+        "title": "",
+        "video-url": "",
+        "cover-url": ""
+      },
+      "requirements": "Шардоне",
+      "wine": {
+        "region": "",
+        "grape": "",
+        "type": "",
+        "title": "",
+        "vivino-url": "",
+        "vivino-rating": "",
+        "cover-url": ""
+      },
+      "shops": []
+    },
+    {
+      "release": {
         "number": 19,
         "title": "",
         "video-url": "",
