@@ -815,12 +815,32 @@
     },
     {
       "release": {
+        "number": 29,
+        "title": "Парфенон #23: Имена аэропортов. Париж - универ от музея до реста. «Свадьба» и «Драма». Пой, Миранда!",
+        "video-url": "https://www.youtube.com/watch?v=vTOItpL-F2M",
+        "cover-url": "http://mikeozornin.ru/blog/pictures/cover-23@2x.jpg"
+      },
+      "requirements": "Шардоне",
+      "wine": {
+        "region": "Франция, Бургундия",
+        "grape": "Шардоне, зимнее",
+        "type": "Белое",
+        "title": "Bourgogne Chardonnay 2016 Chantereve",
+        "vivino-url": "https://www.vivino.com/chantereves-bourgogne-chardonnay/w/2740977?year=2016",
+        "vivino-rating": "3.7",
+        "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-23@2x.png"
+      },
+      "shops": [
+    ]
+    },
+    {
+      "release": {
         "number": 19,
         "title": "",
         "video-url": "",
         "cover-url": ""
       },
-      "requirements": "Шардоне",
+      "requirements": "Что-нибудь новое",
       "wine": {
         "region": "",
         "grape": "",
