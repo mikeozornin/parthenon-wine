@@ -820,10 +820,10 @@
         "video-url": "https://www.youtube.com/watch?v=vTOItpL-F2M",
         "cover-url": "http://mikeozornin.ru/blog/pictures/cover-23@2x.jpg"
       },
-      "requirements": "Шардоне",
+      "requirements": "Шардоне, зимнее",
       "wine": {
         "region": "Франция, Бургундия",
-        "grape": "Шардоне, зимнее",
+        "grape": "Шардоне",
         "type": "Белое",
         "title": "Bourgogne Chardonnay 2016 Chantereve",
         "vivino-url": "https://www.vivino.com/chantereves-bourgogne-chardonnay/w/2740977?year=2016",
@@ -835,12 +835,63 @@
     },
     {
       "release": {
+        "number": 30,
+        "title": "Парфенон #24: Свободу Хаски! Жуть Триера, Боня ждёт, «Бел Вокзал», Пикассо-Дейнека.",
+        "video-url": "https://www.youtube.com/watch?v=enH172iIREE",
+        "cover-url": "http://mikeozornin.ru/blog/pictures/cover-24@2x.jpg"
+      },
+      "requirements": "Что-нибудь новое",
+      "wine": {
+        "region": "Италия, Лацио",
+        "grape": "Санджовезе, Мерло, Чильеджоло",
+        "type": "Красное",
+        "title": "Le Coste Litrozzo VdT, 2018",
+        "vivino-url": "https://www.vivino.com/it-le-coste-litrozzo-rosso/w/2269463",
+        "vivino-rating": "3.6",
+        "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-24@2x.png"
+      },
+      "shops": [{
+        "title": "Real authentic wine",
+        "url":
+          "https://realauthenticwine.ru/catalog/product/-6966/",
+        "price": "2 550 ₽"
+      }
+    ]
+    },
+
+    {
+      "release": {
+        "number": 30,
+        "title": "",
+        "video-url": "",
+        "cover-url": ""
+      },
+      "requirements": "Luce della Vite, можно другую Тоскану",
+      "wine": {
+        "region": "Италия, Тоскана, Монтальчино",
+        "grape": "55 ⁠% Мерло, 45 ⁠% Санджовезе",
+        "type": "Красное",
+        "title": "Luce della Vite, 2013",
+        "vivino-url": "https://www.vivino.com/luce-della-vite-luce/w/83594?ref=nav-search",
+        "vivino-rating": "4.3",
+        "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-25@2x.jpg"
+      },
+      "shops": [{
+        "title": "Ароматный мир",
+        "url":
+          "https://amwine.ru/catalog/vino/luce_della_vite_luce/",
+        "price": "11 999 ₽"
+      }
+    ]
+    },
+    {
+      "release": {
         "number": 19,
         "title": "",
         "video-url": "",
         "cover-url": ""
       },
-      "requirements": "Что-нибудь новое",
+      "requirements": "",
       "wine": {
         "region": "",
         "grape": "",
