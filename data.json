@@ -858,13 +858,12 @@
       }
     ]
     },
-
     {
       "release": {
         "number": 30,
-        "title": "",
-        "video-url": "",
-        "cover-url": ""
+        "title": "Парфенон #25: Рэп-запрет. Вена-универ: Брейгель и опера. Пиросмани и «Не горюй!»",
+        "video-url": "https://www.youtube.com/watch?v=FhbtKQXsHdA",
+        "cover-url": "http://mikeozornin.ru/blog/pictures/cover-25@2x.jpg"
       },
       "requirements": "Luce della Vite, можно другую Тоскану",
       "wine": {
@@ -886,12 +885,12 @@
     },
     {
       "release": {
-        "number": 19,
+        "number": 31,
         "title": "",
         "video-url": "",
         "cover-url": ""
       },
-      "requirements": "",
+      "requirements": "Новый свет",
       "wine": {
         "region": "",
         "grape": "",
