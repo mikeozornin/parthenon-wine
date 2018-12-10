@@ -886,21 +886,26 @@
     {
       "release": {
         "number": 31,
-        "title": "",
-        "video-url": "",
-        "cover-url": ""
+        "title": "Парфенон #26: Солженицын-100. Филонов и соцреализм. Артдокфест. Имена аэропортов, итоги.",
+        "video-url": "https://www.youtube.com/watch?v=mgvFT1nuTog",
+        "cover-url": "http://mikeozornin.ru/blog/pictures/cover-26@2x.jpg"
       },
       "requirements": "Новый свет",
       "wine": {
-        "region": "",
-        "grape": "",
-        "type": "",
-        "title": "",
-        "vivino-url": "",
-        "vivino-rating": "",
-        "cover-url": ""
+        "region": "Аргентина, Мендоса",
+        "grape": "Мальбек",
+        "type": "Красное",
+        "title": "Achaval Ferrer, «Finca Mirador», Mendoza, 2013",
+        "vivino-url": "https://www.vivino.com/achaval-ferrer-finca-mirador-medrano-mendoza-red-wine/w/6137652",
+        "vivino-rating": "4.2",
+        "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-26@2x.jpg"
       },
-      "shops": []
+      "shops": [{
+        "title": "Winestyle",
+        "url":
+          "https://winestyle.ru/products/Achaval-Ferrer-Finca-Mirador-Mendoza-2014.html",
+        "price": "13 490 ₽"
+      }]
     },
     {
       "release": {
