@@ -5,7 +5,7 @@
     <title>Concise Handlebars.js</title>
     <!-- 0a. CSS -->
     <link rel="stylesheet" href="http://mikeozornin.ru/blog/themes/plain/styles/main.css?1511434730">
-    <link rel="stylesheet" href="http://mikeozornin.ru/blog/themes/my/css/style.css">
+    <link rel="stylesheet" href="http://mikeozornin.ru/blog/themes/my/styles/style.css">
 
     <!-- 0a. JS -->
     <script src="//code.jquery.com/jquery-2.0.3.min.js"></script><!-- online jquery.js -->
@@ -23,8 +23,8 @@
 
 <!-- 3. Template -->
 <script id="tpl" type="text/template">
-    <div class="e2-text-table" style="font-size: 80%; line-height: 1.4">
-        <table cellpadding="0" cellspacing="0" border="0" class="sticky-header">
+    <div class="e2-text-table" style="font-size: 80%; line-height: 1.4; margin-left: -20px; margin-right: -20px;">
+        <table cellpadding="0" cellspacing="0" border="0" class="sticky-header parfenon-table">
             <thead><tr>
                 <td>Выпуск</td>
                 <td>Требования к&nbsp;вину</td>
@@ -35,13 +35,14 @@
         <tbody>
             {{#wines}}
             <tr>
-                <td>{{#if release.title}}<a href="{{release.video-url}}"><img style="width: 210px; float: left; margin-right: 10px;" src="{{release.cover-url}}" />{{release.title}}</a>
+                <td data-label="Выпуск">{{#if release.title}}<a href="{{release.video-url}}"><img class="parfenon-cover" src="{{release.cover-url}}" /><span class="parfenon-release-title">{{release.title}}</span></a>
                 {{/if}}</td>
-                <td>{{requirements}}</td>
-                <td>{{#if wine.title}}<a href="{{wine.vivino-url}}"><img style="align: right; max-height: 117.5px; max-width: 35px; float: left; margin-right: 30px;" src="{{wine.cover-url}}"/>{{wine.title}}</a> · {{wine.vivino-rating}} ★<br/>{{wine.type}}<br/>Регион: {{wine.region}}<br/></a>Виноград: {{wine.grape}}{{/if}}</td>
-                <td>{{#shops}}
+                <td data-label="Требования к&nbsp;вину">{{requirements}}</td>
+                <td data-label="Вино Парфенова">{{#if wine.title}}<a href="{{wine.vivino-url}}"><img style="align: right; max-height: 117.5px; max-width: 35px; float: left; margin-right: 30px;" src="{{wine.cover-url}}"/>{{wine.title}}</a> · {{wine.vivino-rating}} ★<br/>{{wine.type}}<br/>Регион: {{wine.region}}<br/></a>Виноград: {{wine.grape}}{{/if}}</td>
+                <td data-label="Магазины">{{#shops}}
                     <a href="{{url}}" style="white-space: nowrap;">{{title}}</a> {{price}}
                     {{/shops}}
+                    {{#unless shops.length}}&nbsp;{{/unless}}
                 </td>
 
             </tr>
