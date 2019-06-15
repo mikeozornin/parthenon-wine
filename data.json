@@ -10,12 +10,14 @@
       },
       "requirements": "—",
       "wine": {
+        "lat": 47.024180,
+        "lon": 4.842422,
         "region": "Франция, Бургундия",
         "grape": "Пино Нуар",
-        "type": "Красное",
+        "color": "Красное",
         "title": "Bourgogne Pinot Noir La Vignee",
         "vivino-url":
-          "https://www.vivino.com/wineries/bouchard-pere-and-fils/wines/bouchard-pere-and-fils-la-vignee-bourgogne-pinot-noir-2015",
+          "https://www.vivino.com/bouchard-pere-and-fils-bourgogne-pinot-noir-la-vignee/w/4923426?year=2015",
         "vivino-rating": "3,6",
         "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-1@2x.png"
       },
@@ -37,10 +39,12 @@
         "cover-url": "http://mikeozornin.ru/blog/pictures/cover-2@2x.jpg"
       },
       "requirements": "—",
-      "wine": {
+      "wine": {        
+        "lat": 45.371075,
+        "lon": -122.848092,
         "region": "США, Уилламетт",
         "grape": "Пино Нуар",
-        "type": "Красное",
+        "color": "Красное",
         "title": "The Vegetable Lamb",
         "vivino-url":
           "https://www.vivino.com/wineries/fausse-piste/wines/fausse-piste-the-vegetable-lamb-uv",
@@ -59,9 +63,11 @@
       },
       "requirements": "—",
       "wine": {
+        "lat": 43.166294,
+        "lon": -79.477385,
         "region": "Канада, Beamsville Bench",
         "grape": "Пино Нуар",
-        "type": "Красное",
+        "color": "Красное",
         "title": "Hidden Bench Pinot Noir",
         "vivino-url":
           "https://www.vivino.com/wineries/hidden-bench/wines/hidden-bench-pinot-noir-2014",
@@ -80,9 +86,11 @@
       },
       "requirements": "—",
       "wine": {
+        "lat": 39.51002,
+        "lon": -3.251599,
         "region": "Испания, Кастилия ла Манча",
         "grape": "Айрен",
-        "type": "Оранжевое",
+        "color": "Оранжевое",
         "title": "Airen Pampaneo, 2016",
         "vivino-url":
           "https://www.vivino.com/wineries/ecologica-bruno-ruiz/wines/ecologica-bruno-ruiz-pampaneo-airen-natural-2016",
@@ -106,9 +114,11 @@
       },
       "requirements": "Испания, Риоха",
       "wine": {
+        "lat": 42.4801323,
+        "lon": -2.6385229,
         "region": "Испания, Риоха",
         "grape": "Темпранильо",
-        "type": "Красное",
+        "color": "Красное",
         "title": "Marques de Caceres Excellens Cuvee Especial Crianza",
         "vivino-url":
           "https://www.vivino.com/wineries/marques-de-caceres/wines/marques-de-caceres-excellens-cuvee-especial-rioja-uv",
@@ -134,9 +144,11 @@
       },
       "requirements": "—",
       "wine": {
+        "lat": 43.522774,
+        "lon": 11.3040573,
         "region": "Италия, Тоскана",
         "grape": "Санджовезе",
-        "type": "Красное",
+        "color": "Красное",
         "title": "Chianti Classico",
         "vivino-url":
           "https://www.vivino.com/wineries/il-molino-di-grace/wines/il-molino-di-grace-chianti-classico-uv",
@@ -161,9 +173,11 @@
       },
       "requirements": "Красный Пьемонт",
       "wine": {
+        "lat": 44.583677,
+        "lon": 7.9524246,
         "region": "Италия, Пьемонт",
         "grape": "Барбера",
-        "type": "Красное",
+        "color": "Красное",
         "title": "Gianfranco Alessandria Barbera d’Alba",
         "vivino-url":
           "https://www.vivino.com/wineries/gianfranco-alessandria/wines/gianfranco-alessandria-barbera-d-alba-uv",
@@ -188,10 +202,12 @@
       },
       "requirements": "Розовое",
       "wine": {
+        "lat": 43.4719211,
+        "lon": 5.4378578,
         "region": "Франция, Прованс",
         "grape":
           "65 ⁠% Гренаш, 20 ⁠% Сира, 5 ⁠% Каберне Совиньон, 5 ⁠% Кариньян, 5 ⁠% Сенсо",
-        "type": "Розовое",
+        "color": "Розовое",
         "title": "Chateau Gassier Rose 946",
         "vivino-url":
           "https://www.vivino.com/wineries/gassier/wines/gassier-chateau-gassier-946-sainte-victoire-selection-parcellaire-rose-uv",
@@ -216,9 +232,11 @@
       },
       "requirements": "Белая Бургундия",
       "wine": {
+        "lat": 47.816225,
+        "lon": 3.7981573,
         "region": "Франция, Бургундия",
         "grape": "Шардоне",
-        "type": "Белое",
+        "color": "Белое",
         "title": "Chablis Grand Cru Les Blanchots",
         "vivino-url":
           "https://www.vivino.com/wineries/domaine-laroche/wines/domaine-laroche-chablis-grand-cru-les-blanchots-uv",
@@ -244,9 +262,11 @@
       },
       "requirements": "Игристое",
       "wine": {
+        "lat": 46.0891992,
+        "lon": 12.7731301,
         "region": "Италия, Венето, Тревизо",
         "grape": "Глера",
-        "type": "Белое игристое",
+        "color": "Белое игристое",
         "title": "Villa Sandi Prosecco Il Fresco",
         "vivino-url":
           "https://www.vivino.com/wineries/villa-sandi/wines/villa-sandi-prosecco-il-fresco-nv",
@@ -273,9 +293,11 @@
       },
       "requirements": "—",
       "wine": {
+        "lat": 46.9358104,
+        "lon": 4.7226862,
         "region": "Франция, Бургундия",
         "grape": "Пино Нуар",
-        "type": "Красное",
+        "color": "Красное",
         "title": "Domaine Paul Pillot Bourgogne Pinot Noir, 2014",
         "vivino-url":
           "https://www.vivino.com/wineries/azienda-agricola-gini-sandro-e-claudio/wines/azienda-agricola-gini-sandro-e-claudio-pinot-noir-bourgogne-2014",
@@ -294,9 +316,11 @@
       },
       "requirements": "Что-то понравившееся особенно в последнее время",
       "wine": {
+        "lat": 45.741807,
+        "lon": 13.743443,
         "region": "Италия, Фриули-Венеция-Джулия",
         "grape": "Витовска",
-        "type": "Оранжевое",
+        "color": "Оранжевое",
         "title": "Vodopivec Vitovska carso",
         "vivino-url":
           "https://www.vivino.com/wineries/vodopivec/wines/vodopivec-vitovska-2012",
@@ -323,9 +347,11 @@
       },
       "requirements": "Что-то понравившееся особенно в последнее время",
       "wine": {
+        "lat": 45.982689,
+        "lon": 13.604379,
         "region": "Италия, Фриули-Венеция-Джулия",
         "grape": "Риболла Джалла",
-        "type": "Оранжевое",
+        "color": "Оранжевое",
         "title": "Gravner Anfora Ribolla Gialla Venezia Giulia IGT, 2002",
         "vivino-url":
           "https://www.vivino.com/wineries/gravner/wines/gravner-anfora-ribolla-gialla-2002",
@@ -352,9 +378,11 @@
       },
       "requirements": "Испания, красное",
       "wine": {
-        "region": "Испания, Наварро",
+        "lat": 42.6302168,
+        "lon": -2.0066441,
+        "region": "Испания, Наварра",
         "grape": "Темпранильо",
-        "type": "Красное",
+        "color": "Красное",
         "title": "Arinzano Grand Vino, 2010",
         "vivino-url":
           "https://www.vivino.com/wineries/arinzano/wines/gran-vino-de-2010",
@@ -373,9 +401,11 @@
       },
       "requirements": "Грузинское оранжевое, Асканели ркацители квеври",
       "wine": {
+        "lat": 41.811274, 
+        "lon": 45.705132,
         "region": "Грузия, Кахетия",
         "grape": "Ркацители",
-        "type": "Оранжевое",
+        "color": "Оранжевое",
         "title": "Askaneli Brothers, Rkatsiteli Qvevri",
         "vivino-url":
           "https://www.vivino.com/wineries/ge-askaneli-brothers/wines/ge-askaneli-brothers-rkatsiteli-qvevri-uv",
@@ -401,12 +431,14 @@
       },
       "requirements": "Бордо",
       "wine": {
+        "lat": 44.9012075,
+        "lon": -0.1556844,
         "region": "Франция, Бордо, Сент-Эмилион",
         "grape": "80 ⁠% Мерло, 20 ⁠% Каберне Фран",
-        "type": "Красное",
+        "color": "Красное",
         "title": "Chateau Cadet Bon Grand Cru",
         "vivino-url":
-          "https://www.vivino.com/wineries/cadet-bon/wines/cadet-bon-saint-emilion-grand-cru-classe-uv",
+          "https://www.vivino.com/cadet-bon-saint-emilion-grand-cru-grand-cru-classe/w/1232315",
         "vivino-rating": "4,0",
         "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-13@2x.png"
       },
@@ -435,9 +467,11 @@
       },
       "requirements": "Российское",
       "wine": {
+        "lat": 45.283553,
+        "lon": 36.990620,
         "region": "Россия, Краснодарский край",
         "grape": "Пино Нуар",
-        "type": "Красное",
+        "color": "Красное",
         "title": "Fanagoria Cru Lermont Pinot Noir",
         "vivino-url":
           "https://www.vivino.com/wineries/fanagoria/wines/cru-lermont-pinot-noir-9999",
@@ -462,12 +496,14 @@
       },
       "requirements": "",
       "wine": {
+        "lat": 45.320253,
+        "lon": 37.277794,
         "region": "Россия, Краснодарский край, Тамань",
         "grape": "Пино Нуар",
-        "type": "Красное",
+        "color": "Красное",
         "title": "Villa Romanov Meotida Pinot Noir",
         "vivino-url":
-          "https://www.vivino.com/wineries/villa-romanov/wines/villa-romanov-meotida-pinot-noir-uv",
+          "https://www.vivino.com/golubitskoe-estate-villa-romanov-meotida-pinot-noir/w/6157144",
         "vivino-rating": "3,5",
         "cover-url":
           "http://mikeozornin.ru/blog/pictures/wine-cover-14-2@2x.png"
@@ -491,9 +527,11 @@
       },
       "requirements": "Красная Рона (Долина реки Роны, Франция)",
       "wine": {
+        "lat": 45.4881336,
+        "lon": 4.8045676,
         "region": "Долина Роны, Франция",
         "grape": "Сира",
-        "type": "Красное",
+        "color": "Красное",
         "title": "Saint-Joseph Rouge Lieu-dit",
         "vivino-url":
           "https://www.vivino.com/wineries/e-guigal/wines/saint-joseph-lieu-dit-rouge-2015",
@@ -525,9 +563,11 @@
       },
       "requirements": "Свободный выбор",
       "wine": {
+        "lat": 42.0486864,
+        "lon": 45.4829264,
         "region": "Грузия, Кахетия",
         "grape": "Хихви (khikhvi)",
-        "type": "Оранжевое",
+        "color": "Оранжевое",
         "title": "Tchotiashvili Khikhvi Rcheli Qvevri Dry",
         "vivino-url":
           "https://www.vivino.com/wineries/tchotiashvili/wines/tchotiashvili-khikhvi-rcheli-qvevri-dry-white-2014",
@@ -553,9 +593,11 @@
       },
       "requirements": "",
       "wine": {
+        "lat": 42.630641,
+        "lon": -1.995558,
         "region": "Испания, Наварра",
         "grape": "Шардоне",
-        "type": "Белое",
+        "color": "Белое",
         "title": "Arínzano Gran Vino Blanco",
         "vivino-url":
           "https://www.vivino.com/wineries/arinzano/wines/arinzano-gran-vino-blanco-2014",
@@ -581,7 +623,7 @@
       "wine": {
         "region": "",
         "grape": "",
-        "type": "",
+        "color": "",
         "title": "",
         "vivino-url": "",
         "vivino-rating": "",
@@ -601,7 +643,7 @@
       "wine": {
         "region": "",
         "grape": "",
-        "type": "",
+        "color": "",
         "title": "",
         "vivino-url": "",
         "vivino-rating": "",
@@ -617,9 +659,11 @@
       },
       "requirements": "",
       "wine": {
+        "lat": -33.0556089,
+        "lon": -68.9084585,
         "region": "Аргентина",
         "grape": "Мальбек",
-        "type": "Красное",
+        "color": "Красное",
         "title": "Finca Altamira, 2014",
         "vivino-url": "https://www.vivino.com/achaval-ferrer-finca-altamira-malbec/w/1176258?year=2014",
         "vivino-rating": "4.5",
@@ -643,9 +687,11 @@
       },
       "requirements": "Супертоскана",
       "wine": {
+        "lat": 43.2115188,
+        "lon": 10.6094568,
         "region": "Италия, Тоскана, Болгери",
         "grape": "51 ⁠% Каберне Совиньон, 32 ⁠% Мерло, 11 ⁠% Каберне Фран, 6 ⁠% Пти Вердо",
-        "type": "Красное",
+        "color": "Красное",
         "title": "Ornellaia, Bolgheri Superiore DOC, 2011",
         "vivino-url": "https://www.vivino.com/ornellaia-bolgheri-superiore/w/22447?year=2011",
         "vivino-rating": "4.6",
@@ -669,9 +715,11 @@
       },
       "requirements": "Грузинское",
       "wine": {
+        "lat": 41.521948,
+        "lon": 44.365780,
         "region": "Грузия, Картли",
         "grape": "Мцване",
-        "type": "Оранжевое",
+        "color": "Оранжевое",
         "title": "DO-RE-MI, Mtsvane, 2016",
         "vivino-url": "https://www.vivino.com/do-re-mi-emhaan-kisi-white-dry-kvevri-white-wine-v-0rm8y/w/3894429?year=2016",
         "vivino-rating": "4.1",
@@ -695,9 +743,11 @@
       },
       "requirements": "",
       "wine": {
+        "lat": 41.7, 
+        "lon": 45.6,
         "region": "Грузия, Кахетия",
         "grape": "Ркацители",
-        "type": "Оранжевое",
+        "color": "Оранжевое",
         "title": "DO-RE-MI, Rkatsiteli, 2016",
         "vivino-url": "https://www.vivino.com/do-re-mi-rk-acit-eli-k-arva-dri-rkatsiteli-unfiltered-amber-dry/w/6413251?year=2016",
         "vivino-rating": "3.9",
@@ -721,9 +771,11 @@
       },
       "requirements": "Барбареско",
       "wine": {
+        "lat": 44.6722678,
+        "lon": 7.9950725,
         "region": "Италия, Пьемонт, Барбареско",
         "grape": "Неббиоло",
-        "type": "Красное",
+        "color": "Красное",
         "title": "Barbaresco Bricco Asili Bernardot DOCG, 2008",
         "vivino-url": "https://www.vivino.com/ceretto-aziende-vitivinicole-srl-bricco-asili-barbaresco-bernadot/w/7138",
         "vivino-rating": "4.2",
@@ -751,9 +803,11 @@
       },
       "requirements": "Тоскана",
       "wine": {
+        "lat": 43.0391804,
+        "lon": 11.4052469,
         "region": "Италия, Тоскана",
         "grape": "Санджовезе",
-        "type": "Красное",
+        "color": "Красное",
         "title": "Brunello di Montalcino Castelgiocondo, 2013",
         "vivino-url": "https://www.vivino.com/it-castelgiocondo-brunello-di-montalcino/w/1098912",
         "vivino-rating": "4.2",
@@ -777,9 +831,11 @@
       },
       "requirements": "Пино нуар",
       "wine": {
+        "lat": 47.2251562,
+        "lon": 4.9689676,
         "region": "Франция, Бургундия, Жевре-Шамбертен",
         "grape": "Пино Нуар",
-        "type": "Красное",
+        "color": "Красное",
         "title": "Domaine des Varoilles Gevrey-Chambertin Clos du Meix Ouches Monopole, 2013",
         "vivino-url": "https://www.vivino.com/domaine-des-varoilles-gevrey-chambertin-clos-du-meix-des-ouches/w/1164442",
         "vivino-rating": "3.9",
@@ -797,9 +853,11 @@
       },
       "requirements": "Долина Роны",
       "wine": {
+        "lat": 44.0428788,
+        "lon": 4.8506675,
         "region": "Франция, Долина Роны, Шатонёф-дю-Пап",
         "grape": "Гренаш, Сира, Мурведр, Сенсо",
-        "type": "Красное",
+        "color": "Красное",
         "title": "Chateauneuf-Du-Pape Télégramme, 2016",
         "vivino-url": "https://www.vivino.com/vieux-telegraphe-telegramme-chateauneuf-du-pape/w/77716?year=U.V.",
         "vivino-rating": "4.1",
@@ -822,9 +880,11 @@
       },
       "requirements": "Шардоне, зимнее",
       "wine": {
+        "lat": 47.069886,
+        "lon": 4.8007257,
         "region": "Франция, Бургундия",
         "grape": "Шардоне",
-        "type": "Белое",
+        "color": "Белое",
         "title": "Bourgogne Chardonnay 2016 Chantereve",
         "vivino-url": "https://www.vivino.com/chantereves-bourgogne-chardonnay/w/2740977?year=2016",
         "vivino-rating": "3.7",
@@ -842,9 +902,11 @@
       },
       "requirements": "Что-нибудь новое",
       "wine": {
+        "lat": 42.6439499,
+        "lon": 11.851626,
         "region": "Италия, Лацио",
         "grape": "Санджовезе, Мерло, Чильеджоло",
-        "type": "Красное",
+        "color": "Красное",
         "title": "Le Coste Litrozzo VdT, 2018",
         "vivino-url": "https://www.vivino.com/it-le-coste-litrozzo-rosso/w/2269463",
         "vivino-rating": "3.6",
@@ -867,9 +929,11 @@
       },
       "requirements": "Luce della Vite, можно другую Тоскану",
       "wine": {
+        "lat": 43.0444058,
+        "lon": 11.4149645,
         "region": "Италия, Тоскана, Монтальчино",
         "grape": "55 ⁠% Мерло, 45 ⁠% Санджовезе",
-        "type": "Красное",
+        "color": "Красное",
         "title": "Luce della Vite, 2013",
         "vivino-url": "https://www.vivino.com/luce-della-vite-luce/w/83594?ref=nav-search",
         "vivino-rating": "4.3",
@@ -892,9 +956,11 @@
       },
       "requirements": "Новый свет",
       "wine": {
+        "lat": -33.0066629,
+        "lon": -68.5758043,
         "region": "Аргентина, Мендоса",
         "grape": "Мальбек",
-        "type": "Красное",
+        "color": "Красное",
         "title": "Achaval Ferrer, «Finca Mirador», Mendoza, 2013",
         "vivino-url": "https://www.vivino.com/achaval-ferrer-finca-mirador-medrano-mendoza-red-wine/w/6137652",
         "vivino-rating": "4.2",
@@ -918,7 +984,7 @@
       "wine": {
         "region": "",
         "grape": "",
-        "type": "",
+        "color": "",
         "title": "",
         "vivino-url": "",
         "vivino-rating": "",
