@@ -3,10 +3,10 @@
     {
       "release": {
         "number": 1,
-        "title":
-          "Парфенон #1: Леонид Парфенов о дагестанском деле, Берлине, Башлачеве и Березовском",
+        "title": "Парфенон #1: Леонид Парфенов о дагестанском деле, Берлине, Башлачеве и Березовском",
         "video-url": "https://www.youtube.com/watch?v=sqEt9l57YNY",
-        "cover-url": "http://mikeozornin.ru/blog/pictures/cover-1@2x.jpg"
+        "cover-url": "http://mikeozornin.ru/blog/pictures/cover-1@2x.jpg",
+        "show-release": true
       },
       "requirements": "—",
       "wine": {
@@ -16,16 +16,14 @@
         "grape": "Пино Нуар",
         "color": "Красное",
         "title": "Bourgogne Pinot Noir La Vignee",
-        "vivino-url":
-          "https://www.vivino.com/bouchard-pere-and-fils-bourgogne-pinot-noir-la-vignee/w/4923426?year=2015",
+        "vivino-url": "https://www.vivino.com/bouchard-pere-and-fils-bourgogne-pinot-noir-la-vignee/w/4923426?year=2015",
         "vivino-rating": "3,6",
         "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-1@2x.png"
       },
       "shops": [
         {
           "title": "SimpleWine",
-          "url":
-            "https://simplewine.ru/catalog/product/bouchard_pere_fils_bourgogne_pinot_noir_la_vignee_2015_075/",
+          "url": "https://simplewine.ru/catalog/product/bouchard_pere_fils_bourgogne_pinot_noir_la_vignee_2015_075/",
           "price": "1990 ₽"
         }
       ]
@@ -33,21 +31,20 @@
     {
       "release": {
         "number": 2,
-        "title":
-          "Парфенон #2: Леонид Парфенов о Нью-Йорке, русской армии, Череповце и рокировке",
+        "title": "Парфенон #2: Леонид Парфенов о Нью-Йорке, русской армии, Череповце и рокировке",
         "video-url": "https://www.youtube.com/watch?v=nu5fpjQXliY",
-        "cover-url": "http://mikeozornin.ru/blog/pictures/cover-2@2x.jpg"
+        "cover-url": "http://mikeozornin.ru/blog/pictures/cover-2@2x.jpg",
+        "show-release": true
       },
       "requirements": "—",
-      "wine": {        
+      "wine": {
         "lat": 45.371075,
         "lon": -122.848092,
         "region": "США, Уилламетт",
         "grape": "Пино Нуар",
         "color": "Красное",
         "title": "The Vegetable Lamb",
-        "vivino-url":
-          "https://www.vivino.com/wineries/fausse-piste/wines/fausse-piste-the-vegetable-lamb-uv",
+        "vivino-url": "https://www.vivino.com/wineries/fausse-piste/wines/fausse-piste-the-vegetable-lamb-uv",
         "vivino-rating": "3,8",
         "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-2@2x.png"
       },
@@ -56,10 +53,10 @@
     {
       "release": {
         "number": 3,
-        "title":
-          "Парфенон #3: Леонид Парфенов о Канаде, Довлатове, Гайавате и том самом Послании",
+        "title": "Парфенон #3: Леонид Парфенов о Канаде, Довлатове, Гайавате и том самом Послании",
         "video-url": "https://www.youtube.com/watch?v=RghX43tU1ds",
-        "cover-url": "http://mikeozornin.ru/blog/pictures/cover-3@2x.jpg"
+        "cover-url": "http://mikeozornin.ru/blog/pictures/cover-3@2x.jpg",
+        "show-release": true
       },
       "requirements": "—",
       "wine": {
@@ -69,8 +66,7 @@
         "grape": "Пино Нуар",
         "color": "Красное",
         "title": "Hidden Bench Pinot Noir",
-        "vivino-url":
-          "https://www.vivino.com/wineries/hidden-bench/wines/hidden-bench-pinot-noir-2014",
+        "vivino-url": "https://www.vivino.com/wineries/hidden-bench/wines/hidden-bench-pinot-noir-2014",
         "vivino-rating": "3,5",
         "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-3@2x.png"
       },
@@ -79,10 +75,10 @@
     {
       "release": {
         "number": 4,
-        "title":
-          "Парфенон #4: Леонид Парфенов о российском двустоличии, либералах, о Щукине и «зелёных колготках»",
+        "title": "Парфенон #4: Леонид Парфенов о российском двустоличии, либералах, о Щукине и «зелёных колготках»",
         "video-url": "https://www.youtube.com/watch?v=TO_sGQ8axEU",
-        "cover-url": "http://mikeozornin.ru/blog/pictures/cover-4@2x.jpg"
+        "cover-url": "http://mikeozornin.ru/blog/pictures/cover-4@2x.jpg",
+        "show-release": true
       },
       "requirements": "—",
       "wine": {
@@ -92,25 +88,25 @@
         "grape": "Айрен",
         "color": "Оранжевое",
         "title": "Airen Pampaneo, 2016",
-        "vivino-url":
-          "https://www.vivino.com/wineries/ecologica-bruno-ruiz/wines/ecologica-bruno-ruiz-pampaneo-airen-natural-2016",
+        "vivino-url": "https://www.vivino.com/wineries/ecologica-bruno-ruiz/wines/ecologica-bruno-ruiz-pampaneo-airen-natural-2016",
         "vivino-rating": "3,7",
         "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-4@2x.png"
       },
-      "shops": [{
-        "title": "Real authentic wine",
-        "url":
-          "http://realauthenticwine.ru/catalog/product/o6166/",
-        "price": "1200 ₽"
-      }]
+      "shops": [
+        {
+          "title": "Real authentic wine",
+          "url": "http://realauthenticwine.ru/catalog/product/o6166/",
+          "price": "1200 ₽"
+        }
+      ]
     },
     {
       "release": {
         "number": 5,
-        "title":
-          "Парфенон#5 Леонид Парфёнов о самовыдвиженце Путине, лженауках, Риохе, билбордах и рэпе в «Грозе»",
+        "title": "Парфенон#5 Леонид Парфёнов о самовыдвиженце Путине, лженауках, Риохе, билбордах и рэпе в «Грозе»",
         "video-url": "https://www.youtube.com/watch?v=B0ry4CFZwfQ",
-        "cover-url": "http://mikeozornin.ru/blog/pictures/cover-5@2x.jpg"
+        "cover-url": "http://mikeozornin.ru/blog/pictures/cover-5@2x.jpg",
+        "show-release": true
       },
       "requirements": "Испания, Риоха",
       "wine": {
@@ -120,16 +116,14 @@
         "grape": "Темпранильо",
         "color": "Красное",
         "title": "Marques de Caceres Excellens Cuvee Especial Crianza",
-        "vivino-url":
-          "https://www.vivino.com/wineries/marques-de-caceres/wines/marques-de-caceres-excellens-cuvee-especial-rioja-uv",
+        "vivino-url": "https://www.vivino.com/wineries/marques-de-caceres/wines/marques-de-caceres-excellens-cuvee-especial-rioja-uv",
         "vivino-rating": "3,7",
         "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-5@2x.png"
       },
       "shops": [
         {
           "title": "EuroWine",
-          "url":
-            "https://www.eurowine.ru/wine/6344/marques-de-caceres-excellens-cuvee-especial-crianza/",
+          "url": "https://www.eurowine.ru/wine/6344/marques-de-caceres-excellens-cuvee-especial-crianza/",
           "price": "1528 ₽"
         }
       ]
@@ -137,10 +131,10 @@
     {
       "release": {
         "number": 6,
-        "title":
-          "Парфенон #6: Жизнь до Кемерово - Кустодиев, Волоколамск, Верещагин и гастрономия Березуцких",
+        "title": "Парфенон #6: Жизнь до Кемерово - Кустодиев, Волоколамск, Верещагин и гастрономия Березуцких",
         "video-url": "https://www.youtube.com/watch?v=HUjpyjRgOdo",
-        "cover-url": "http://mikeozornin.ru/blog/pictures/cover-6@2x.jpg"
+        "cover-url": "http://mikeozornin.ru/blog/pictures/cover-6@2x.jpg",
+        "show-release": true
       },
       "requirements": "—",
       "wine": {
@@ -150,8 +144,7 @@
         "grape": "Санджовезе",
         "color": "Красное",
         "title": "Chianti Classico",
-        "vivino-url":
-          "https://www.vivino.com/wineries/il-molino-di-grace/wines/il-molino-di-grace-chianti-classico-uv",
+        "vivino-url": "https://www.vivino.com/wineries/il-molino-di-grace/wines/il-molino-di-grace-chianti-classico-uv",
         "vivino-rating": "3,6",
         "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-6@2x.jpg"
       },
@@ -166,10 +159,10 @@
     {
       "release": {
         "number": 7,
-        "title":
-          "Парфенон #7: Кемерово: мы и власть, Ферапонтово: стихи и фрески, Большой: Каренина — первая леди",
+        "title": "Парфенон #7: Кемерово: мы и власть, Ферапонтово: стихи и фрески, Большой: Каренина — первая леди",
         "video-url": "https://www.youtube.com/watch?v=Di_CY3j_0xU",
-        "cover-url": "http://mikeozornin.ru/blog/pictures/cover-7@2x.jpg"
+        "cover-url": "http://mikeozornin.ru/blog/pictures/cover-7@2x.jpg",
+        "show-release": true
       },
       "requirements": "Красный Пьемонт",
       "wine": {
@@ -179,8 +172,7 @@
         "grape": "Барбера",
         "color": "Красное",
         "title": "Gianfranco Alessandria Barbera d’Alba",
-        "vivino-url":
-          "https://www.vivino.com/wineries/gianfranco-alessandria/wines/gianfranco-alessandria-barbera-d-alba-uv",
+        "vivino-url": "https://www.vivino.com/wineries/gianfranco-alessandria/wines/gianfranco-alessandria-barbera-d-alba-uv",
         "vivino-rating": "3,7",
         "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-7@2x.jpg"
       },
@@ -195,22 +187,20 @@
     {
       "release": {
         "number": 8,
-        "title":
-          "Парфенон #8: Копенгаген: дизайн и Noma, частный Рембрандт, «Люся» Гурченко и жизнь как песня",
+        "title": "Парфенон #8: Копенгаген: дизайн и Noma, частный Рембрандт, «Люся» Гурченко и жизнь как песня",
         "video-url": "https://www.youtube.com/watch?v=1M7ou616WK8",
-        "cover-url": "http://mikeozornin.ru/blog/pictures/cover-8@2x.jpg"
+        "cover-url": "http://mikeozornin.ru/blog/pictures/cover-8@2x.jpg",
+        "show-release": true
       },
       "requirements": "Розовое",
       "wine": {
         "lat": 43.4719211,
         "lon": 5.4378578,
         "region": "Франция, Прованс",
-        "grape":
-          "65 ⁠% Гренаш, 20 ⁠% Сира, 5 ⁠% Каберне Совиньон, 5 ⁠% Кариньян, 5 ⁠% Сенсо",
+        "grape": "65 ⁠% Гренаш, 20 ⁠% Сира, 5 ⁠% Каберне Совиньон, 5 ⁠% Кариньян, 5 ⁠% Сенсо",
         "color": "Розовое",
         "title": "Chateau Gassier Rose 946",
-        "vivino-url":
-          "https://www.vivino.com/wineries/gassier/wines/gassier-chateau-gassier-946-sainte-victoire-selection-parcellaire-rose-uv",
+        "vivino-url": "https://www.vivino.com/wineries/gassier/wines/gassier-chateau-gassier-946-sainte-victoire-selection-parcellaire-rose-uv",
         "vivino-rating": "4,1",
         "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-8@2x.png"
       },
@@ -225,10 +215,10 @@
     {
       "release": {
         "number": 9,
-        "title":
-          "Парфенон#9: Запрет Telegram, Мандельштам vs Брежнев, #плейлистпарфенона, сказочник Горький",
+        "title": "Парфенон#9: Запрет Telegram, Мандельштам vs Брежнев, #плейлистпарфенона, сказочник Горький",
         "video-url": "https://www.youtube.com/watch?v=G7P5gHEgOas",
-        "cover-url": "http://mikeozornin.ru/blog/pictures/cover-9@2x.jpg"
+        "cover-url": "http://mikeozornin.ru/blog/pictures/cover-9@2x.jpg",
+        "show-release": true
       },
       "requirements": "Белая Бургундия",
       "wine": {
@@ -238,16 +228,14 @@
         "grape": "Шардоне",
         "color": "Белое",
         "title": "Chablis Grand Cru Les Blanchots",
-        "vivino-url":
-          "https://www.vivino.com/wineries/domaine-laroche/wines/domaine-laroche-chablis-grand-cru-les-blanchots-uv",
+        "vivino-url": "https://www.vivino.com/wineries/domaine-laroche/wines/domaine-laroche-chablis-grand-cru-les-blanchots-uv",
         "vivino-rating": "4,2",
         "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-9@2x.png"
       },
       "shops": [
         {
           "title": "EuroWine",
-          "url":
-            "https://www.eurowine.ru/wine/4516/chablis-grand-cru-les-blanchots/",
+          "url": "https://www.eurowine.ru/wine/4516/chablis-grand-cru-les-blanchots/",
           "price": "8906 ₽"
         }
       ]
@@ -255,10 +243,10 @@
     {
       "release": {
         "number": 10,
-        "title":
-          "Парфенон. Специальный выпуск: Русские Евреи. Фильм первый. С предисловием Леонида Парфенова.",
+        "title": "Парфенон. Специальный выпуск: Русские Евреи. Фильм первый. С предисловием Леонида Парфенова.",
         "video-url": "https://www.youtube.com/watch?v=AaNjPAFD-UI",
-        "cover-url": "http://mikeozornin.ru/blog/pictures/jewish-1@2x.jpg"
+        "cover-url": "http://mikeozornin.ru/blog/pictures/jewish-1@2x.jpg",
+        "show-release": true
       },
       "requirements": "Игристое",
       "wine": {
@@ -268,17 +256,14 @@
         "grape": "Глера",
         "color": "Белое игристое",
         "title": "Villa Sandi Prosecco Il Fresco",
-        "vivino-url":
-          "https://www.vivino.com/wineries/villa-sandi/wines/villa-sandi-prosecco-il-fresco-nv",
+        "vivino-url": "https://www.vivino.com/wineries/villa-sandi/wines/villa-sandi-prosecco-il-fresco-nv",
         "vivino-rating": "3,6",
-        "cover-url":
-          "http://mikeozornin.ru/blog/pictures/wine-cover-jewish-1@2x.jpg"
+        "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-jewish-1@2x.jpg"
       },
       "shops": [
         {
           "title": "WineStyle",
-          "url":
-            "https://winestyle.ru/products/Villa-Sandi-Il-Fresco-Prosecco-DOC.html",
+          "url": "https://winestyle.ru/products/Villa-Sandi-Il-Fresco-Prosecco-DOC.html",
           "price": "1267 ₽"
         }
       ]
@@ -286,10 +271,10 @@
     {
       "release": {
         "number": 11,
-        "title":
-          "Парфенон #10: Британские каникулы, Пикассо, Дунаевский, ВМаяковский и dolce vita Чичваркина",
+        "title": "Парфенон #10: Британские каникулы, Пикассо, Дунаевский, ВМаяковский и dolce vita Чичваркина",
         "video-url": "https://www.youtube.com/watch?v=0643SThj6Yk",
-        "cover-url": "http://mikeozornin.ru/blog/pictures/cover-10@2x.jpg"
+        "cover-url": "http://mikeozornin.ru/blog/pictures/cover-10@2x.jpg",
+        "show-release": true
       },
       "requirements": "—",
       "wine": {
@@ -299,8 +284,7 @@
         "grape": "Пино Нуар",
         "color": "Красное",
         "title": "Domaine Paul Pillot Bourgogne Pinot Noir, 2014",
-        "vivino-url":
-          "https://www.vivino.com/wineries/azienda-agricola-gini-sandro-e-claudio/wines/azienda-agricola-gini-sandro-e-claudio-pinot-noir-bourgogne-2014",
+        "vivino-url": "https://www.vivino.com/wineries/azienda-agricola-gini-sandro-e-claudio/wines/azienda-agricola-gini-sandro-e-claudio-pinot-noir-bourgogne-2014",
         "vivino-rating": "3,4",
         "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-10@2x.png"
       },
@@ -309,10 +293,10 @@
     {
       "release": {
         "number": 12,
-        "title":
-          "Русские Евреи. Фильм второй. С предисловием Леонида Парфенова.",
+        "title": "Русские Евреи. Фильм второй. С предисловием Леонида Парфенова.",
         "video-url": "https://www.youtube.com/watch?v=HcV8-I_zgC8",
-        "cover-url": "http://mikeozornin.ru/blog/pictures/jewish-2@2x.jpg"
+        "cover-url": "http://mikeozornin.ru/blog/pictures/jewish-2@2x.jpg",
+        "show-release": true
       },
       "requirements": "Что-то понравившееся особенно в последнее время",
       "wine": {
@@ -322,17 +306,14 @@
         "grape": "Витовска",
         "color": "Оранжевое",
         "title": "Vodopivec Vitovska carso",
-        "vivino-url":
-          "https://www.vivino.com/wineries/vodopivec/wines/vodopivec-vitovska-2012",
+        "vivino-url": "https://www.vivino.com/wineries/vodopivec/wines/vodopivec-vitovska-2012",
         "vivino-rating": "3,8",
-        "cover-url":
-          "http://mikeozornin.ru/blog/pictures/wine-cover-jewish-2@2x.png"
+        "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-jewish-2@2x.png"
       },
       "shops": [
         {
           "title": "SimpleWine",
-          "url":
-            "https://simplewine.ru/catalog/product/vodopivec_vitovska_2012_075/",
+          "url": "https://simplewine.ru/catalog/product/vodopivec_vitovska_2012_075/",
           "price": "4490 ₽"
         }
       ]
@@ -340,10 +321,10 @@
     {
       "release": {
         "number": 12,
-        "title":
-          "Русские Евреи. Фильм третий. С предисловием Леонида Парфенова.",
+        "title": "Русские Евреи. Фильм третий. С предисловием Леонида Парфенова.",
         "video-url": "https://www.youtube.com/watch?v=zQbxN_c3tMY",
-        "cover-url": "http://mikeozornin.ru/blog/pictures/jewish-3@2x.jpg"
+        "cover-url": "http://mikeozornin.ru/blog/pictures/jewish-3@2x.jpg",
+        "show-release": true
       },
       "requirements": "Что-то понравившееся особенно в последнее время",
       "wine": {
@@ -353,17 +334,14 @@
         "grape": "Риболла Джалла",
         "color": "Оранжевое",
         "title": "Gravner Anfora Ribolla Gialla Venezia Giulia IGT, 2002",
-        "vivino-url":
-          "https://www.vivino.com/wineries/gravner/wines/gravner-anfora-ribolla-gialla-2002",
+        "vivino-url": "https://www.vivino.com/wineries/gravner/wines/gravner-anfora-ribolla-gialla-2002",
         "vivino-rating": "4,1",
-        "cover-url":
-          "http://mikeozornin.ru/blog/pictures/wine-cover-jewish-3@2x.jpg"
+        "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-jewish-3@2x.jpg"
       },
       "shops": [
         {
           "title": "WineStyle",
-          "url":
-            "https://winestyle.ru/products/Gravner-Anfora-Ribolla-Giala-Venezia-Giulia-IGT-2002.html",
+          "url": "https://winestyle.ru/products/Gravner-Anfora-Ribolla-Giala-Venezia-Giulia-IGT-2002.html",
           "price": "11 462 ₽"
         }
       ]
@@ -371,10 +349,10 @@
     {
       "release": {
         "number": 13,
-        "title":
-          "Парфенон#11: ГЭС-2, Зверев-гала, Маяковский vs комменты, компаньон Боня",
+        "title": "Парфенон#11: ГЭС-2, Зверев-гала, Маяковский vs комменты, компаньон Боня",
         "video-url": "https://www.youtube.com/watch?v=zO8BAmC4ZN8",
-        "cover-url": "http://mikeozornin.ru/blog/pictures/cover-11@2x.jpg"
+        "cover-url": "http://mikeozornin.ru/blog/pictures/cover-11@2x.jpg",
+        "show-release": true
       },
       "requirements": "Испания, красное",
       "wine": {
@@ -384,8 +362,7 @@
         "grape": "Темпранильо",
         "color": "Красное",
         "title": "Arinzano Grand Vino, 2010",
-        "vivino-url":
-          "https://www.vivino.com/wineries/arinzano/wines/gran-vino-de-2010",
+        "vivino-url": "https://www.vivino.com/wineries/arinzano/wines/gran-vino-de-2010",
         "vivino-rating": "4,2",
         "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-11@2x.png"
       },
@@ -394,29 +371,27 @@
     {
       "release": {
         "number": 14,
-        "title":
-          "Парфенон #12: Опять нагайки? Грузины пьют и поют. Как перебили дворян. Жизнь - сплошное фото",
+        "title": "Парфенон #12: Опять нагайки? Грузины пьют и поют. Как перебили дворян. Жизнь - сплошное фото",
         "video-url": "https://www.youtube.com/watch?v=8_sSN83opW4",
-        "cover-url": "http://mikeozornin.ru/blog/pictures/cover-12@2x.jpg"
+        "cover-url": "http://mikeozornin.ru/blog/pictures/cover-12@2x.jpg",
+        "show-release": true
       },
       "requirements": "Грузинское оранжевое, Асканели ркацители квеври",
       "wine": {
-        "lat": 41.811274, 
+        "lat": 41.811274,
         "lon": 45.705132,
         "region": "Грузия, Кахетия",
         "grape": "Ркацители",
         "color": "Оранжевое",
         "title": "Askaneli Brothers, Rkatsiteli Qvevri",
-        "vivino-url":
-          "https://www.vivino.com/wineries/ge-askaneli-brothers/wines/ge-askaneli-brothers-rkatsiteli-qvevri-uv",
+        "vivino-url": "https://www.vivino.com/wineries/ge-askaneli-brothers/wines/ge-askaneli-brothers-rkatsiteli-qvevri-uv",
         "vivino-rating": "3,7",
         "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-12@2x.jpg"
       },
       "shops": [
         {
           "title": "WineStyle",
-          "url":
-            "https://winestyle.ru/products/Askaneli-Brothers-Rkatsiteli-Qvevri.html",
+          "url": "https://winestyle.ru/products/Askaneli-Brothers-Rkatsiteli-Qvevri.html",
           "price": "733 ₽"
         }
       ]
@@ -424,10 +399,10 @@
     {
       "release": {
         "number": 15,
-        "title":
-          "Парфенон #13: Париж: адрес Бунина, Витебск в Помпиду, Акунин - когда я вернусь?, супершеф Камдеборд",
+        "title": "Парфенон #13: Париж: адрес Бунина, Витебск в Помпиду, Акунин - когда я вернусь?, супершеф Камдеборд",
         "video-url": "https://www.youtube.com/watch?v=0v3y3uQ8W3Y",
-        "cover-url": "http://mikeozornin.ru/blog/pictures/cover-13@2x.jpg"
+        "cover-url": "http://mikeozornin.ru/blog/pictures/cover-13@2x.jpg",
+        "show-release": true
       },
       "requirements": "Бордо",
       "wine": {
@@ -437,22 +412,19 @@
         "grape": "80 ⁠% Мерло, 20 ⁠% Каберне Фран",
         "color": "Красное",
         "title": "Chateau Cadet Bon Grand Cru",
-        "vivino-url":
-          "https://www.vivino.com/cadet-bon-saint-emilion-grand-cru-grand-cru-classe/w/1232315",
+        "vivino-url": "https://www.vivino.com/cadet-bon-saint-emilion-grand-cru-grand-cru-classe/w/1232315",
         "vivino-rating": "4,0",
         "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-13@2x.png"
       },
       "shops": [
         {
           "title": "EuroWine",
-          "url":
-            "https://www.eurowine.ru/wine/6592/chateau-cadet-bon-grand-cru/",
+          "url": "https://www.eurowine.ru/wine/6592/chateau-cadet-bon-grand-cru/",
           "price": "7155 ₽"
         },
         {
           "title": "WineStyle",
-          "url":
-            "https://winestyle.ru/products/Chateau-Cadet-Bon-Saint-Emilion-Grand-Cru-Classe-AOC-2004.html",
+          "url": "https://winestyle.ru/products/Chateau-Cadet-Bon-Saint-Emilion-Grand-Cru-Classe-AOC-2004.html",
           "price": "7512 ₽"
         }
       ]
@@ -460,10 +432,10 @@
     {
       "release": {
         "number": 16,
-        "title":
-          "Парфенон #14: «Лето» в прокате, Бэнкси в Москве, Гуриев об экономике РФ, своё вино, родная Улома",
+        "title": "Парфенон #14: «Лето» в прокате, Бэнкси в Москве, Гуриев об экономике РФ, своё вино, родная Улома",
         "video-url": "https://www.youtube.com/watch?v=P9X2ezIGcOQ",
-        "cover-url": "http://mikeozornin.ru/blog/pictures/cover-14@2x.jpg"
+        "cover-url": "http://mikeozornin.ru/blog/pictures/cover-14@2x.jpg",
+        "show-release": true
       },
       "requirements": "Российское",
       "wine": {
@@ -473,16 +445,14 @@
         "grape": "Пино Нуар",
         "color": "Красное",
         "title": "Fanagoria Cru Lermont Pinot Noir",
-        "vivino-url":
-          "https://www.vivino.com/wineries/fanagoria/wines/cru-lermont-pinot-noir-9999",
+        "vivino-url": "https://www.vivino.com/wineries/fanagoria/wines/cru-lermont-pinot-noir-9999",
         "vivino-rating": "3,4",
         "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-14@2x.jpg"
       },
       "shops": [
         {
           "title": "WineStyle",
-          "url":
-            "https://winestyle.ru/products/Fanagoria-Cru-Lermont-Pinot-Noir.html",
+          "url": "https://winestyle.ru/products/Fanagoria-Cru-Lermont-Pinot-Noir.html",
           "price": "868 ₽"
         }
       ]
@@ -490,9 +460,10 @@
     {
       "release": {
         "number": 16,
-        "title": "",
-        "video-url": "",
-        "cover-url": ""
+        "title": "Парфенон #14: «Лето» в прокате, Бэнкси в Москве, Гуриев об экономике РФ, своё вино, родная Улома",
+        "video-url": "https://www.youtube.com/watch?v=P9X2ezIGcOQ",
+        "cover-url": "http://mikeozornin.ru/blog/pictures/cover-14@2x.jpg",
+        "show-release": false
       },
       "requirements": "",
       "wine": {
@@ -502,17 +473,14 @@
         "grape": "Пино Нуар",
         "color": "Красное",
         "title": "Villa Romanov Meotida Pinot Noir",
-        "vivino-url":
-          "https://www.vivino.com/golubitskoe-estate-villa-romanov-meotida-pinot-noir/w/6157144",
+        "vivino-url": "https://www.vivino.com/golubitskoe-estate-villa-romanov-meotida-pinot-noir/w/6157144",
         "vivino-rating": "3,5",
-        "cover-url":
-          "http://mikeozornin.ru/blog/pictures/wine-cover-14-2@2x.png"
+        "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-14-2@2x.png"
       },
       "shops": [
         {
           "title": "WineHelp",
-          "url":
-            "https://winehelp.ru/vino/vino_villa_romanov_meotida_pinot_noir_villa_romanov_meotida_pino_nuar_750_ml/",
+          "url": "https://winehelp.ru/vino/vino_villa_romanov_meotida_pinot_noir_villa_romanov_meotida_pino_nuar_750_ml/",
           "price": "1656 ₽"
         }
       ]
@@ -522,8 +490,8 @@
         "number": 17,
         "title": "«Цвет нации». Фильм Леонида Парфенова с предисловием автора",
         "video-url": "https://www.youtube.com/watch?v=QaeRj-ApktY",
-        "cover-url":
-          "http://mikeozornin.ru/blog/pictures/cover-color-of-nation@2x.jpg"
+        "cover-url": "http://mikeozornin.ru/blog/pictures/cover-color-of-nation@2x.jpg",
+        "show-release": true
       },
       "requirements": "Красная Рона (Долина реки Роны, Франция)",
       "wine": {
@@ -533,23 +501,19 @@
         "grape": "Сира",
         "color": "Красное",
         "title": "Saint-Joseph Rouge Lieu-dit",
-        "vivino-url":
-          "https://www.vivino.com/wineries/e-guigal/wines/saint-joseph-lieu-dit-rouge-2015",
+        "vivino-url": "https://www.vivino.com/wineries/e-guigal/wines/saint-joseph-lieu-dit-rouge-2015",
         "vivino-rating": "4.2",
-        "cover-url":
-          "http://mikeozornin.ru/blog/pictures/wine-cover-color-of-nation@2x.png"
+        "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-color-of-nation@2x.png"
       },
       "shops": [
         {
           "title": "EuroWine",
-          "url":
-            "https://www.eurowine.ru/wine/7077/saint-joseph-rouge-lieu-dit/",
+          "url": "https://www.eurowine.ru/wine/7077/saint-joseph-rouge-lieu-dit/",
           "price": "6292 ₽"
         },
         {
           "title": "WineStyle",
-          "url":
-            "https://winestyle.ru/products/E-Guigal-Lieu-dit-Rouge-Saint-Joseph-AOC-2015.html",
+          "url": "https://winestyle.ru/products/E-Guigal-Lieu-dit-Rouge-Saint-Joseph-AOC-2015.html",
           "price": "6606 ₽"
         }
       ]
@@ -559,7 +523,8 @@
         "number": 18,
         "title": "Первый прямой эфир \"Парфенона\"",
         "video-url": "https://www.youtube.com/watch?v=kCCFvwejFc0",
-        "cover-url": "http://mikeozornin.ru/blog/pictures/cover-online-1@2x.jpg"
+        "cover-url": "http://mikeozornin.ru/blog/pictures/cover-online-1@2x.jpg",
+        "show-release": true
       },
       "requirements": "Свободный выбор",
       "wine": {
@@ -569,11 +534,9 @@
         "grape": "Хихви (khikhvi)",
         "color": "Оранжевое",
         "title": "Tchotiashvili Khikhvi Rcheli Qvevri Dry",
-        "vivino-url":
-          "https://www.vivino.com/wineries/tchotiashvili/wines/tchotiashvili-khikhvi-rcheli-qvevri-dry-white-2014",
+        "vivino-url": "https://www.vivino.com/wineries/tchotiashvili/wines/tchotiashvili-khikhvi-rcheli-qvevri-dry-white-2014",
         "vivino-rating": "3.9",
-        "cover-url":
-          "http://mikeozornin.ru/blog/pictures/wine-cover-online-1@2x.jpg"
+        "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-online-1@2x.jpg"
       },
       "shops": [
         {
@@ -586,10 +549,10 @@
     {
       "release": {
         "number": 18,
-        "title":
-          "Парфенон #15: О, мир, ты — футбол! Пенсии от Путина, Собчак о Собчаке и коллекционное искусство",
+        "title": "Парфенон #15: О, мир, ты — футбол! Пенсии от Путина, Собчак о Собчаке и коллекционное искусство",
         "video-url": "https://www.youtube.com/watch?v=ECFltWFIHOg",
-        "cover-url": "http://mikeozornin.ru/blog/pictures/cover-15@2x.jpg"
+        "cover-url": "http://mikeozornin.ru/blog/pictures/cover-15@2x.jpg",
+        "show-release": true
       },
       "requirements": "",
       "wine": {
@@ -599,8 +562,7 @@
         "grape": "Шардоне",
         "color": "Белое",
         "title": "Arínzano Gran Vino Blanco",
-        "vivino-url":
-          "https://www.vivino.com/wineries/arinzano/wines/arinzano-gran-vino-blanco-2014",
+        "vivino-url": "https://www.vivino.com/wineries/arinzano/wines/arinzano-gran-vino-blanco-2014",
         "vivino-rating": "4.0",
         "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-15@2x.png"
       },
@@ -617,7 +579,8 @@
         "number": 20,
         "title": "Глаз Божий. Фильм первый. С предисловием Леонида Парфенова.",
         "video-url": "https://www.youtube.com/watch?v=KIU8dZD4Mbs",
-        "cover-url": "http://mikeozornin.ru/blog/pictures/cover-gods-eye@2x.jpg"
+        "cover-url": "http://mikeozornin.ru/blog/pictures/cover-gods-eye@2x.jpg",
+        "show-release": true
       },
       "requirements": "Выпуск был без вина",
       "wine": {
@@ -636,8 +599,8 @@
         "number": 21,
         "title": "Глаз Божий. Фильм второй. С предисловием Леонида Парфенова",
         "video-url": "https://www.youtube.com/watch?v=qk989s8vfh4",
-        "cover-url":
-          "http://mikeozornin.ru/blog/pictures/cover-gods-eye-2@2x.jpg"
+        "cover-url": "http://mikeozornin.ru/blog/pictures/cover-gods-eye-2@2x.jpg",
+        "show-release": true
       },
       "requirements": "Выпуск был без вина",
       "wine": {
@@ -650,12 +613,14 @@
         "cover-url": ""
       },
       "shops": []
-    },{
+    },
+    {
       "release": {
         "number": 22,
         "title": "Парфенон №16. Новый сезон: Вирт от Wylsacom, лето, Япония от классики до аниме, Кабаков всех дороже",
         "video-url": "https://www.youtube.com/watch?v=_7ZttBEZpFc",
-        "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-16@2x.jpg"
+        "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-16@2x.jpg",
+        "show-release": true
       },
       "requirements": "",
       "wine": {
@@ -672,8 +637,7 @@
       "shops": [
         {
           "title": "SimpleWine",
-          "url":
-            "https://simplewine.ru/catalog/product/achaval_ferrer_2014_075/",
+          "url": "https://simplewine.ru/catalog/product/achaval_ferrer_2014_075/",
           "price": "13 490 ₽"
         }
       ]
@@ -683,7 +647,8 @@
         "number": 23,
         "title": "Парфенон #17: Гражданин Face. Какая сука разбудила?(с). «Кислота» вокруг. Полюбить Киберслава.",
         "video-url": "https://www.youtube.com/watch?v=DqVj1KwQ9jI",
-        "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-17@2x.jpg"
+        "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-17@2x.jpg",
+        "show-release": true
       },
       "requirements": "Супертоскана",
       "wine": {
@@ -700,8 +665,7 @@
       "shops": [
         {
           "title": "WineStyle",
-          "url":
-            "https://winestyle.ru/products/Ornellaia-Bolgheri-Superiore-DOC-2011.html",
+          "url": "https://winestyle.ru/products/Ornellaia-Bolgheri-Superiore-DOC-2011.html",
           "price": "37 584 ₽"
         }
       ]
@@ -711,7 +675,8 @@
         "number": 24,
         "title": "Парфенон #18: Жесть Слепакова. Духан Пиросмани. Опера - тоже мода. \"Берегись автомобиля!\".",
         "video-url": "https://www.youtube.com/watch?v=9Wsuml3SVDg",
-        "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-18@2x.jpg"
+        "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-18@2x.jpg",
+        "show-release": true
       },
       "requirements": "Грузинское",
       "wine": {
@@ -728,8 +693,7 @@
       "shops": [
         {
           "title": "Винодельня",
-          "url":
-            "https://www.facebook.com/doremiwine",
+          "url": "https://www.facebook.com/doremiwine",
           "price": ""
         }
       ]
@@ -737,13 +701,14 @@
     {
       "release": {
         "number": 24,
-        "title": "",
-        "video-url": "",
-        "cover-url": ""
+        "title": "Парфенон #18: Жесть Слепакова. Духан Пиросмани. Опера - тоже мода. \"Берегись автомобиля!\".",
+        "video-url": "https://www.youtube.com/watch?v=9Wsuml3SVDg",
+        "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-18@2x.jpg",
+        "show-release": false
       },
       "requirements": "",
       "wine": {
-        "lat": 41.7, 
+        "lat": 41.7,
         "lon": 45.6,
         "region": "Грузия, Кахетия",
         "grape": "Ркацители",
@@ -756,8 +721,7 @@
       "shops": [
         {
           "title": "Винодельня",
-          "url":
-            "https://www.facebook.com/doremiwine",
+          "url": "https://www.facebook.com/doremiwine",
           "price": ""
         }
       ]
@@ -767,7 +731,8 @@
         "number": 25,
         "title": "Парфенон #19: драки парами, \"Экстаз\", зачем мне Грузия, «Сердце мира», бегом на «Бег»!",
         "video-url": "https://www.youtube.com/watch?v=GuUcIY7fdlc",
-        "cover-url": "http://mikeozornin.ru/blog/pictures/cover-19@2x.jpg"
+        "cover-url": "http://mikeozornin.ru/blog/pictures/cover-19@2x.jpg",
+        "show-release": true
       },
       "requirements": "Барбареско",
       "wine": {
@@ -781,25 +746,26 @@
         "vivino-rating": "4.2",
         "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-19@2x.jpg"
       },
-      "shops": [{
-        "title": "Winestyle",
-        "url":
-          "https://winestyle.ru/products/Barbaresco-Bricco-Asili-Bernardot-DOCG-2008.html",
-        "price": "16 990 ₽ (2010 год)"
-      },
-      {"title": "WineHelp",
-        "url":
-          "https://winehelp.ru/vino/nebbiolo/bolee-5000-rub/vino-barbaresco-bricco-asili-bernardot-docg-barbaresko-brikko-azili-bernardot-2008-750-ml/",
-        "price": "15 139 ₽"
-      }
-    ]
+      "shops": [
+        {
+          "title": "Winestyle",
+          "url": "https://winestyle.ru/products/Barbaresco-Bricco-Asili-Bernardot-DOCG-2008.html",
+          "price": "16 990 ₽ (2010 год)"
+        },
+        {
+          "title": "WineHelp",
+          "url": "https://winehelp.ru/vino/nebbiolo/bolee-5000-rub/vino-barbaresco-bricco-asili-bernardot-docg-barbaresko-brikko-azili-bernardot-2008-750-ml/",
+          "price": "15 139 ₽"
+        }
+      ]
     },
     {
       "release": {
         "number": 27,
         "title": "Парфенон #20: Человек, который удивил всех, Медведев и \"ничего\", чудаки Шотландии и винные мемы",
         "video-url": "https://www.youtube.com/watch?v=1ueuDhDxp_Y",
-        "cover-url": "http://mikeozornin.ru/blog/pictures/cover-20@2x.jpg"
+        "cover-url": "http://mikeozornin.ru/blog/pictures/cover-20@2x.jpg",
+        "show-release": true
       },
       "requirements": "Тоскана",
       "wine": {
@@ -813,21 +779,21 @@
         "vivino-rating": "4.2",
         "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-20@2x.png"
       },
-      "shops": [{
-        "title": "SimpleWine",
-        "url":
-          "https://simplewine.ru/catalog/product/marchesi_de_frescobaldi_brunello_di_montalcino_castelgiocondo_2013_075/",
-        "price": "6 140 ₽"
-      }
-    ]
+      "shops": [
+        {
+          "title": "SimpleWine",
+          "url": "https://simplewine.ru/catalog/product/marchesi_de_frescobaldi_brunello_di_montalcino_castelgiocondo_2013_075/",
+          "price": "6 140 ₽"
+        }
+      ]
     },
-
     {
       "release": {
         "number": 28,
         "title": "Парфенон #21: Радзинский-мл и разные жизни, Бекмамбетов и кино с компа, иконы, «Холодная война»",
         "video-url": "https://www.youtube.com/watch?v=yUUmyjo64Jc",
-        "cover-url": "http://mikeozornin.ru/blog/pictures/cover-21@2x.jpg"
+        "cover-url": "http://mikeozornin.ru/blog/pictures/cover-21@2x.jpg",
+        "show-release": true
       },
       "requirements": "Пино нуар",
       "wine": {
@@ -841,15 +807,15 @@
         "vivino-rating": "3.9",
         "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-21@2x.jpg"
       },
-      "shops": [
-    ]
+      "shops": []
     },
     {
       "release": {
         "number": 28,
         "title": "Парфенон #22: Шоу-выборы в Приморье. Серебренников: суд и опера. Соцреализм в ГТГ. Михалков-77",
         "video-url": "https://www.youtube.com/watch?v=enH172iIREE",
-        "cover-url": "http://mikeozornin.ru/blog/pictures/cover-22@2x.jpg"
+        "cover-url": "http://mikeozornin.ru/blog/pictures/cover-22@2x.jpg",
+        "show-release": true
       },
       "requirements": "Долина Роны",
       "wine": {
@@ -863,20 +829,21 @@
         "vivino-rating": "4.1",
         "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-22@2x.png"
       },
-      "shops": [{
-        "title": "SimpleWine",
-        "url":
-          "https://simplewine.ru/catalog/product/vignobles_brunier_chateauneuf_du_pape_telegramme_2016_075/",
-        "price": "4 640 ₽"
-      }
-    ]
+      "shops": [
+        {
+          "title": "SimpleWine",
+          "url": "https://simplewine.ru/catalog/product/vignobles_brunier_chateauneuf_du_pape_telegramme_2016_075/",
+          "price": "4 640 ₽"
+        }
+      ]
     },
     {
       "release": {
         "number": 29,
         "title": "Парфенон #23: Имена аэропортов. Париж - универ от музея до реста. «Свадьба» и «Драма». Пой, Миранда!",
         "video-url": "https://www.youtube.com/watch?v=vTOItpL-F2M",
-        "cover-url": "http://mikeozornin.ru/blog/pictures/cover-23@2x.jpg"
+        "cover-url": "http://mikeozornin.ru/blog/pictures/cover-23@2x.jpg",
+        "show-release": true
       },
       "requirements": "Шардоне, зимнее",
       "wine": {
@@ -890,15 +857,15 @@
         "vivino-rating": "3.7",
         "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-23@2x.png"
       },
-      "shops": [
-    ]
+      "shops": []
     },
     {
       "release": {
         "number": 30,
         "title": "Парфенон #24: Свободу Хаски! Жуть Триера, Боня ждёт, «Бел Вокзал», Пикассо-Дейнека.",
         "video-url": "https://www.youtube.com/watch?v=enH172iIREE",
-        "cover-url": "http://mikeozornin.ru/blog/pictures/cover-24@2x.jpg"
+        "cover-url": "http://mikeozornin.ru/blog/pictures/cover-24@2x.jpg",
+        "show-release": true
       },
       "requirements": "Что-нибудь новое",
       "wine": {
@@ -912,20 +879,21 @@
         "vivino-rating": "3.6",
         "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-24@2x.png"
       },
-      "shops": [{
-        "title": "Real authentic wine",
-        "url":
-          "https://realauthenticwine.ru/catalog/product/-6966/",
-        "price": "2 550 ₽"
-      }
-    ]
+      "shops": [
+        {
+          "title": "Real authentic wine",
+          "url": "https://realauthenticwine.ru/catalog/product/-6966/",
+          "price": "2 550 ₽"
+        }
+      ]
     },
     {
       "release": {
         "number": 30,
         "title": "Парфенон #25: Рэп-запрет. Вена-универ: Брейгель и опера. Пиросмани и «Не горюй!»",
         "video-url": "https://www.youtube.com/watch?v=FhbtKQXsHdA",
-        "cover-url": "http://mikeozornin.ru/blog/pictures/cover-25@2x.jpg"
+        "cover-url": "http://mikeozornin.ru/blog/pictures/cover-25@2x.jpg",
+        "show-release": true
       },
       "requirements": "Luce della Vite, можно другую Тоскану",
       "wine": {
@@ -939,20 +907,21 @@
         "vivino-rating": "4.3",
         "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-25@2x.jpg"
       },
-      "shops": [{
-        "title": "Ароматный мир",
-        "url":
-          "https://amwine.ru/catalog/vino/luce_della_vite_luce/",
-        "price": "11 999 ₽"
-      }
-    ]
+      "shops": [
+        {
+          "title": "Ароматный мир",
+          "url": "https://amwine.ru/catalog/vino/luce_della_vite_luce/",
+          "price": "11 999 ₽"
+        }
+      ]
     },
     {
       "release": {
         "number": 31,
         "title": "Парфенон #26: Солженицын-100. Филонов и соцреализм. Артдокфест. Имена аэропортов, итоги.",
         "video-url": "https://www.youtube.com/watch?v=mgvFT1nuTog",
-        "cover-url": "http://mikeozornin.ru/blog/pictures/cover-26@2x.jpg"
+        "cover-url": "http://mikeozornin.ru/blog/pictures/cover-26@2x.jpg",
+        "show-release": true
       },
       "requirements": "Новый свет",
       "wine": {
@@ -966,12 +935,13 @@
         "vivino-rating": "4.2",
         "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-26@2x.jpg"
       },
-      "shops": [{
-        "title": "Winestyle",
-        "url":
-          "https://winestyle.ru/products/Achaval-Ferrer-Finca-Mirador-Mendoza-2014.html",
-        "price": "13 490 ₽"
-      }]
+      "shops": [
+        {
+          "title": "Winestyle",
+          "url": "https://winestyle.ru/products/Achaval-Ferrer-Finca-Mirador-Mendoza-2014.html",
+          "price": "13 490 ₽"
+        }
+      ]
     },
     {
       "release": {
