@@ -146,7 +146,7 @@
         "title": "Chianti Classico",
         "vivino-url": "https://www.vivino.com/wineries/il-molino-di-grace/wines/il-molino-di-grace-chianti-classico-uv",
         "vivino-rating": "3,6",
-        "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-6@2x.jpg"
+        "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-6@2x.png"
       },
       "shops": [
         {
@@ -174,7 +174,7 @@
         "title": "Gianfranco Alessandria Barbera d’Alba",
         "vivino-url": "https://www.vivino.com/wineries/gianfranco-alessandria/wines/gianfranco-alessandria-barbera-d-alba-uv",
         "vivino-rating": "3,7",
-        "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-7@2x.jpg"
+        "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-7@2x.png"
       },
       "shops": [
         {
@@ -258,7 +258,7 @@
         "title": "Villa Sandi Prosecco Il Fresco",
         "vivino-url": "https://www.vivino.com/wineries/villa-sandi/wines/villa-sandi-prosecco-il-fresco-nv",
         "vivino-rating": "3,6",
-        "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-jewish-1@2x.jpg"
+        "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-jewish-1@2x.png"
       },
       "shops": [
         {
@@ -336,7 +336,7 @@
         "title": "Gravner Anfora Ribolla Gialla Venezia Giulia IGT, 2002",
         "vivino-url": "https://www.vivino.com/wineries/gravner/wines/gravner-anfora-ribolla-gialla-2002",
         "vivino-rating": "4,1",
-        "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-jewish-3@2x.jpg"
+        "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-jewish-3@2x.png"
       },
       "shops": [
         {
@@ -386,7 +386,7 @@
         "title": "Askaneli Brothers, Rkatsiteli Qvevri",
         "vivino-url": "https://www.vivino.com/wineries/ge-askaneli-brothers/wines/ge-askaneli-brothers-rkatsiteli-qvevri-uv",
         "vivino-rating": "3,7",
-        "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-12@2x.jpg"
+        "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-12@2x.png"
       },
       "shops": [
         {
@@ -539,11 +539,6 @@
         "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-online-1@2x.jpg"
       },
       "shops": [
-        {
-          "title": "Винодельня",
-          "url": "http://tchotiashvili.com",
-          "price": " "
-        }
       ]
     },
     {
@@ -744,7 +739,7 @@
         "title": "Barbaresco Bricco Asili Bernardot DOCG, 2008",
         "vivino-url": "https://www.vivino.com/ceretto-aziende-vitivinicole-srl-bricco-asili-barbaresco-bernadot/w/7138",
         "vivino-rating": "4.2",
-        "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-19@2x.jpg"
+        "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-19@2x.png"
       },
       "shops": [
         {
@@ -805,7 +800,7 @@
         "title": "Domaine des Varoilles Gevrey-Chambertin Clos du Meix Ouches Monopole, 2013",
         "vivino-url": "https://www.vivino.com/domaine-des-varoilles-gevrey-chambertin-clos-du-meix-des-ouches/w/1164442",
         "vivino-rating": "3.9",
-        "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-21@2x.jpg"
+        "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-21@2x.png"
       },
       "shops": []
     },
@@ -905,7 +900,7 @@
         "title": "Luce della Vite, 2013",
         "vivino-url": "https://www.vivino.com/luce-della-vite-luce/w/83594?ref=nav-search",
         "vivino-rating": "4.3",
-        "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-25@2x.jpg"
+        "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-25@2x.png"
       },
       "shops": [
         {
@@ -989,7 +984,7 @@
         "title": "Mauro Molino, Barolo, 2014",
         "vivino-url": "https://www.vivino.com/mauro-molino-barolo/w/100372?year=2014",
         "vivino-rating": "4,1",
-        "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-28@2x.jpg"
+        "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-28@2x.png"
       },
       "shops": [
         {
@@ -1015,9 +1010,9 @@
         "grape": "95% Нерелло Маскалезе, 5% Нерелло Каппуччио",
         "color": "Красное",
         "title": "Tenuta delle Terre Nere, Etna Rosso DOC, 2015",
-        "vivino-url": "https://www.vivino.com/benanti-etna-rosso/w/1758784",
+        "vivino-url": "https://www.vivino.com/tenuta-delle-terre-nere-etna-rosso/w/1225467?year=2015",
         "vivino-rating": "3,7",
-        "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-29@2x.jpg"
+        "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-29@2x.png"
       },
       "shops": [
         {
@@ -1045,7 +1040,7 @@
         "title": "Benanti, Etna Rosso DOC, 2015",
         "vivino-url": "https://www.vivino.com/benanti-etna-rosso/w/1758784",
         "vivino-rating": "3,7",
-        "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-29-2@2x.jpg"
+        "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-29-2@2x.png"
       },
       "shops": []
     },
@@ -1089,7 +1084,7 @@
         "title": "Etna Rosso DOC Arcuria, 2015",
         "vivino-url": "https://www.vivino.com/graci-arcuria-etna-rosso/w/2134507",
         "vivino-rating": "4,1",
-        "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-29-4@2x.jpg"
+        "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-29-4@2x.png"
       },
       "shops": []
     },
@@ -1139,7 +1134,7 @@
         "title": "Girolamo Russo ‘San Lorenzo’ Etna Rosso, 2015",
         "vivino-url": "https://www.vivino.com/girolamo-russo-san-lorenzo-etna-rosso/w/1217639?year=2015",
         "vivino-rating": "4.1",
-        "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-30-2@2x.jpg"
+        "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-30-2@2x.png"
       },
       "shops": [
         {
