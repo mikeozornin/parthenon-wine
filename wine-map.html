@@ -1,0 +1,118 @@
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Леонид Парфенов выпил в «Парфеноне»</title>
+
+    <link rel="stylesheet" href="//unpkg.com/leaflet@1.5.1/dist/leaflet.css"/>
+
+    <script src="//yastatic.net/jquery/3.3.1/jquery.min.js"></script>
+    <script src="//unpkg.com/leaflet@1.5.1/dist/leaflet.js"></script>
+
+    <link rel="stylesheet" href="./styles/winemap.css" />
+
+</head>
+
+<body>
+    <div class="wine-map-title">Леонид Парфенов выпил в «Парфеноне»<br/><span class="wine-map-title-subtitle">Те же вина <a href="//mikeozornin.ru/blog/all/vino-iz-parfenona/">в виде таблицы</a></span></div>
+    <div class="wine-map" id="mapid"></div>
+
+    <script type="text/javascript">
+
+        function getPopupText(wine) {
+            return `<div class='wine-card'>
+                        <img class='wine-card-image' src='${wine['wine']['cover-url']}'/>
+                        <div class='wine-card-text'>
+                            <span class='wine-card-text-title'><a href='${wine['wine']['vivino-url']}' target='_blank'>${wine['wine']['title']}</a> · ${wine['wine']['vivino-rating']} ★</span>
+                            <div class='wine-card-text-params'>
+                                ${wine['wine']['color']}
+                                </br>Регион: ${wine['wine']['region']}
+                                </br>Виноград: ${wine['wine']['grape']}
+                                </br></br><a href='${wine['release']['video-url']}' target='_blank'>${wine['release']['title']}</a>
+                            </div>
+                        </div>
+                    </div>`;
+        }
+
+        var mymap = L.map('mapid').setView([25.505, 15.09], 3);
+
+        // L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
+        //     attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
+        //     minZoom: 2,
+        //     maxZoom: 16,
+        //     //detectRetina: true,
+        //     id: 'mapbox.outdoors',
+        //     accessToken: 'pk.eyJ1IjoibWlrZW96b3JuaW4iLCJhIjoiWXhJNXZwRSJ9.CerQgbE5s1B4FVMP_QyDlA'
+        // }).addTo(mymap);
+
+        L.tileLayer('https://a.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '&copy; <a href="//www.openstreetmap.org/copyright" target="_blank">OpenStreetMap</a> contributors | Icons <a href="//sergeychikin.ru/365" target="_blank">by Sergey Chikin</a>',
+            minZoom: 3,
+            maxZoom: 16,
+        }).addTo(mymap);
+
+
+        var wineIcon = L.Icon.extend({
+            options: {
+                iconSize: [24, 37],
+                iconAnchor: [12, 18],
+                popupAnchor: [0, -19]
+            }
+        });
+
+        var redWineIcon             = new wineIcon({ iconUrl: './icons/red.svg' }),
+            whiteWineIcon           = new wineIcon({ iconUrl: './icons/white.svg' }),
+            amberWineIcon           = new wineIcon({ iconUrl: './icons/amber.svg' }),
+            roseWineIcon            = new wineIcon({ iconUrl: './icons/rose.svg' })
+            
+            redSparklingWineIcon    = new wineIcon({ iconUrl: './icons/red-sparkling.svg' })
+            whiteSparklingWineIcon  = new wineIcon({ iconUrl: './icons/white-sparkling.svg' })
+            amberSparklingWineIcon  = new wineIcon({ iconUrl: './icons/amber-sparkling.svg' })
+            roseSparklingWineIcon   = new wineIcon({ iconUrl: './icons/rose-sparkling.svg' });
+
+        $.getJSON("./data.json", function (winesJson) {
+            if (winesJson.wines) {
+                winesJson.wines.forEach(function (wineReleaseItem, i, arr) {
+                    wineItem = wineReleaseItem['wine'];
+                    switch (wineItem.color) {
+                        case 'Красное':
+                            marker = L.marker([wineItem.lat, wineItem.lon], { icon: redWineIcon }).addTo(mymap);
+                            marker.bindPopup(getPopupText(wineReleaseItem));
+                            break;
+                        case 'Белое':
+                            marker = L.marker([wineItem.lat, wineItem.lon], { icon: whiteWineIcon }).addTo(mymap);
+                            marker.bindPopup(getPopupText(wineReleaseItem));
+                            break;
+                        case 'Оранжевое':
+                            marker = L.marker([wineItem.lat, wineItem.lon], { icon: amberWineIcon }).addTo(mymap);
+                            marker.bindPopup(getPopupText(wineReleaseItem));
+                            break;
+                        case 'Розовое':
+                            marker = L.marker([wineItem.lat, wineItem.lon], { icon: roseWineIcon }).addTo(mymap);
+                            marker.bindPopup(getPopupText(wineReleaseItem));
+                            break;
+
+                        case 'Красное игристое':
+                            marker = L.marker([wineItem.lat, wineItem.lon], { icon: redSparklingWineIcon }).addTo(mymap);
+                            marker.bindPopup(getPopupText(wineReleaseItem));
+                            break;
+                        case 'Белое игристое':
+                            marker = L.marker([wineItem.lat, wineItem.lon], { icon: whiteSparklingWineIcon }).addTo(mymap);
+                            marker.bindPopup(getPopupText(wineReleaseItem));
+                            break;
+                        case 'Оранжевое игристое':
+                            marker = L.marker([wineItem.lat, wineItem.lon], { icon: amberSparklingWineIcon }).addTo(mymap);
+                            marker.bindPopup(getPopupText(wineReleaseItem));
+                            break;
+                        case 'Розовое игристое':
+                            marker = L.marker([wineItem.lat, wineItem.lon], { icon: roseSparklingWineIcon }).addTo(mymap);
+                            marker.bindPopup(getPopupText(wineReleaseItem));
+                            break;
+                    }
+                });
+            }
+        });
+    </script>
+</body>
+
+</html>
