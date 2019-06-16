@@ -80,11 +80,3 @@ a img,
 .leaflet-container a img {
   text-decoration: none;
 }
-@media only screen and (max-device-width: 640px) {
-  html {
-    font-size: 32px;
-  }
-  .wine-card .wine-card-image {
-    max-width: 80px;
-  }
-}
