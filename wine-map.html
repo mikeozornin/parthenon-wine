@@ -34,6 +34,10 @@
                     </div>`;
         }
 
+        if (window.location.search == "?hide-title=1") {
+            $(".wine-map-title").hide();
+        }
+
         var mymap = L.map('mapid').setView([25.505, 15.09], 3);
 
         // L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
