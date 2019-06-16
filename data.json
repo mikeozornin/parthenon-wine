@@ -115,7 +115,7 @@
         "region": "Испания, Риоха",
         "grape": "Темпранильо",
         "color": "Красное",
-        "title": "Marques de Caceres Excellens Cuvee Especial Crianza",
+        "title": "Marques de Caceres «Excellens» Crianza Cuvee Especial, Rioja DOC, 2014",
         "vivino-url": "https://www.vivino.com/wineries/marques-de-caceres/wines/marques-de-caceres-excellens-cuvee-especial-rioja-uv",
         "vivino-rating": "3,7",
         "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-5@2x.png"
@@ -224,7 +224,7 @@
       "wine": {
         "lat": 47.816225,
         "lon": 3.7981573,
-        "region": "Франция, Бургундия",
+        "region": "Франция, Бургундия, Шабли Гран Крю",
         "grape": "Шардоне",
         "color": "Белое",
         "title": "Chablis Grand Cru Les Blanchots",
@@ -250,8 +250,8 @@
       },
       "requirements": "Игристое",
       "wine": {
-        "lat": 46.0891992,
-        "lon": 12.7731301,
+        "lat": 45.8179446,
+        "lon": 12.0198191,
         "region": "Италия, Венето, Тревизо",
         "grape": "Глера",
         "color": "Белое игристое",
@@ -497,7 +497,7 @@
       "wine": {
         "lat": 45.4881336,
         "lon": 4.8045676,
-        "region": "Долина Роны, Франция",
+        "region": "Франция, Долина Роны",
         "grape": "Сира",
         "color": "Красное",
         "title": "Saint-Joseph Rouge Lieu-dit",
@@ -626,7 +626,7 @@
       "wine": {
         "lat": -33.0556089,
         "lon": -68.9084585,
-        "region": "Аргентина",
+        "region": "Аргентина, Мендоса",
         "grape": "Мальбек",
         "color": "Красное",
         "title": "Finca Altamira, 2014",
@@ -945,13 +945,443 @@
     },
     {
       "release": {
-        "number": 19,
-        "title": "",
-        "video-url": "",
-        "cover-url": ""
+        "number": 32,
+        "title": "Парфенон #27: Новый сезон - «Барокко» и «Фаворитка», работа в Каннах, финны и «Дау», рест N1 в мире",
+        "video-url": "https://www.youtube.com/watch?v=V2Dzv5XdZZg",
+        "cover-url": "http://mikeozornin.ru/blog/pictures/cover-27@2x.jpg",
+        "show-release": true
+      },
+      "requirements": "—",
+      "wine": {
+        "lat": -33.0366629,
+        "lon": -68.5958043,
+        "region": "Аргентина, Мендоса",
+        "grape": "Мальбек",
+        "color": "Красное",
+        "title": "Achaval-Ferrer Finca Altamira, 2014",
+        "vivino-url": "https://www.vivino.com/achaval-ferrer-finca-altamira-malbec/w/1176258",
+        "vivino-rating": "4,4",
+        "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-27@2x.png"
+      },
+      "shops": [
+        {
+          "title": "Simplewine",
+          "url": "https://simplewine.ru/catalog/product/achaval_ferrer_2014_075/",
+          "price": "14 990 ₽"
+        }
+      ]
+    },
+    {
+      "release": {
+        "number": 33,
+        "title": "Парфенон #28: «Завод»-2019. Два Севера: финны и мы. «Дау», великий и ужасный",
+        "video-url": "https://www.youtube.com/watch?v=49YgawceU2g",
+        "cover-url": "http://mikeozornin.ru/blog/pictures/cover-28@2x.jpg",
+        "show-release": true
+      },
+      "requirements": "Пьемонт",
+      "wine": {
+        "lat": 44.635842,
+        "lon": 7.9575493,
+        "region": "Италия, Пьемонт, Бароло",
+        "grape": "Неббиоло",
+        "color": "Красное",
+        "title": "Mauro Molino, Barolo, 2014",
+        "vivino-url": "https://www.vivino.com/mauro-molino-barolo/w/100372?year=2014",
+        "vivino-rating": "4,1",
+        "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-28@2x.jpg"
+      },
+      "shops": [
+        {
+          "title": "Winestyle",
+          "url": "https://winestyle.ru/products/Mauro-Molino-Barolo-DOCG-2014.html",
+          "price": "5740 ₽"
+        }
+      ]
+    },
+    {
+      "release": {
+        "number": 34,
+        "title": "Парфенон #29: «Ван Гоги» - Серебряков, памяти Малашенко, красная Этна, «Юморист»",
+        "video-url": "https://www.youtube.com/watch?v=4gn22bzhr98",
+        "cover-url": "http://mikeozornin.ru/blog/pictures/cover-29@2x.jpg",
+        "show-release": true
+      },
+      "requirements": "Вино, которое удивило в последнее время. У Леонида — легкая Этна, Сицилия",
+      "wine": {
+        "lat": 37.615875,
+        "lon": 15.0968533,
+        "region": "Италия, Сицилия, Этна",
+        "grape": "95% Нерелло Маскалезе, 5% Нерелло Каппуччио",
+        "color": "Красное",
+        "title": "Tenuta delle Terre Nere, Etna Rosso DOC, 2015",
+        "vivino-url": "https://www.vivino.com/benanti-etna-rosso/w/1758784",
+        "vivino-rating": "3,7",
+        "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-29@2x.jpg"
+      },
+      "shops": [
+        {
+          "title": "Winestyle",
+          "url": "https://winestyle.ru/products/Tenuta-delle-Terre-Nere-Etna-Rosso-DOC-2015.html",
+          "price": "3371 ₽"
+        }
+      ]
+    },
+    {
+      "release": {
+        "number": 35,
+        "title": "Парфенон #29: «Ван Гоги» - Серебряков, памяти Малашенко, красная Этна, «Юморист»",
+        "video-url": "https://www.youtube.com/watch?v=4gn22bzhr98",
+        "cover-url": "http://mikeozornin.ru/blog/pictures/cover-29@2x.jpg",
+        "show-release": false
+      },
+      "requirements": " ",
+      "wine": {
+        "lat": 37.715875,
+        "lon": 15.0968533,
+        "region": "Италия, Сицилия, Этна",
+        "grape": "85% Нерелло Маскалезе, 15% Нерелло Каппуччио",
+        "color": "Красное",
+        "title": "Benanti, Etna Rosso DOC, 2015",
+        "vivino-url": "https://www.vivino.com/benanti-etna-rosso/w/1758784",
+        "vivino-rating": "3,7",
+        "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-29-2@2x.jpg"
+      },
+      "shops": []
+    },
+    {
+      "release": {
+        "number": 36,
+        "title": "Парфенон #29: «Ван Гоги» - Серебряков, памяти Малашенко, красная Этна, «Юморист»",
+        "video-url": "https://www.youtube.com/watch?v=4gn22bzhr98",
+        "cover-url": "http://mikeozornin.ru/blog/pictures/cover-29@2x.jpg",
+        "show-release": false
+      },
+      "requirements": " ",
+      "wine": {
+        "lat": 37.715875,
+        "lon": 15.0068533,
+        "region": "Италия, Сицилия, Этна",
+        "grape": "Нерелло Маскалезе",
+        "color": "Красное",
+        "title": "Graci Etna Rosso, 2016",
+        "vivino-url": "https://www.vivino.com/graci-etna-rosso/w/75659",
+        "vivino-rating": "3,7",
+        "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-29-3@2x.png"
+      },
+      "shops": []
+    },
+    {
+      "release": {
+        "number": 37,
+        "title": "Парфенон #29: «Ван Гоги» - Серебряков, памяти Малашенко, красная Этна, «Юморист»",
+        "video-url": "https://www.youtube.com/watch?v=4gn22bzhr98",
+        "cover-url": "http://mikeozornin.ru/blog/pictures/cover-29@2x.jpg",
+        "show-release": false
+      },
+      "requirements": " ",
+      "wine": {
+        "lat": 37.615875,
+        "lon": 15.0068533,
+        "region": "Италия, Сицилия, Этна",
+        "grape": "Нерелло Маскалезе",
+        "color": "Красное",
+        "title": "Etna Rosso DOC Arcuria, 2015",
+        "vivino-url": "https://www.vivino.com/graci-arcuria-etna-rosso/w/2134507",
+        "vivino-rating": "4,1",
+        "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-29-4@2x.jpg"
+      },
+      "shops": []
+    },
+    {
+      "release": {
+        "number": 37,
+        "title": "Парфенон #30: Право власти на фейки. Дом Мельникова. Постеромания. Этна-2. Попса - всегда кич?",
+        "video-url": "https://www.youtube.com/watch?v=B06werWnps0",
+        "cover-url": "http://mikeozornin.ru/blog/pictures/cover-30@2x.jpg",
+        "show-release": true
+      },
+      "requirements": "Пино Нуар из Бургундии",
+      "wine": {
+        "lat": 47.0795302,
+        "lon": 4.7341268,
+        "region": "Франция, Бургундия",
+        "grape": "Пино Нуар",
+        "color": "Красное",
+        "title": "Chanterêves Bourgogne Pinot Noir, 2016",
+        "vivino-url": "https://www.vivino.com/chantereves-bourgogne-pinot-noir/w/2922322?year=2016",
+        "vivino-rating": "3.5",
+        "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-30@2x.png"
+      },
+      "shops": [
+        {
+          "title": "Decanter",
+          "url": "https://decanter.ru/product/chantereves-pinot-noir-2016-id109995",
+          "price": "5003 ₽"
+        }
+      ]
+    },
+    {
+      "release": {
+        "number": 38,
+        "title": "Парфенон #30: Право власти на фейки. Дом Мельникова. Постеромания. Этна-2. Попса - всегда кич?",
+        "video-url": "https://www.youtube.com/watch?v=B06werWnps0",
+        "cover-url": "http://mikeozornin.ru/blog/pictures/cover-30@2x.jpg",
+        "show-release": false
       },
       "requirements": "",
       "wine": {
+        "lat": 37.872783,
+        "lon": 15.0338476,
+        "region": "Италия, Сицилия, Этна",
+        "grape": "Нерелло Маскалезе, Нерелло Каппуччио",
+        "color": "Красное",
+        "title": "Girolamo Russo ‘San Lorenzo’ Etna Rosso, 2015",
+        "vivino-url": "https://www.vivino.com/girolamo-russo-san-lorenzo-etna-rosso/w/1217639?year=2015",
+        "vivino-rating": "4.1",
+        "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-30-2@2x.jpg"
+      },
+      "shops": [
+        {
+          "title": "Real authentic wine",
+          "url": "https://realauthenticwine.ru/catalog/product/o6902/",
+          "price": "7600 ₽"
+        }
+      ]
+    },
+    {
+      "release": {
+        "number": 39,
+        "title": "Парфенон #30: Право власти на фейки. Дом Мельникова. Постеромания. Этна-2. Попса - всегда кич?",
+        "video-url": "https://www.youtube.com/watch?v=B06werWnps0",
+        "cover-url": "http://mikeozornin.ru/blog/pictures/cover-30@2x.jpg",
+        "show-release": false
+      },
+      "requirements": "",
+      "wine": {
+        "lat": 37.6396093,
+        "lon": 15.0767428,
+        "region": "Италия, Сицилия, Этна",
+        "grape": "Нерелло Маскалезе, Нерелло Каппуччио",
+        "color": "Красное",
+        "title": "Girolamo Russo ‘San Lorenzo’ Etna Rosso, 2015",
+        "vivino-url": "https://www.vivino.com/ciro-biondi-cisterna-fuori-contrada-ronzini/w/1926101",
+        "vivino-rating": "4.0",
+        "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-30-3@2x.png"
+      },
+      "shops": [
+        {
+          "title": "Real authentic wine",
+          "url": "https://realauthenticwine.ru/catalog/product/o6869/",
+          "price": "7150 ₽"
+        },
+        {
+          "title": "Winehelp",
+          "url": "https://winehelp.ru/vino/vino-azienda-agricola-ciro-biondi-cisterna-fuori-etna-doc-chiro-bondi-chisterna-fuori-etna-2015-750-/",
+          "price": "6200 ₽"
+        }
+      ]
+    },
+
+    {
+      "release": {
+        "number": 40,
+        "title": "Парфенон #31: Как в Казахстане?! Урок-1956. Боня дождался. Фрейд, да не тот. «Намедни» - навсегда",
+        "video-url": "https://www.youtube.com/watch?v=m9IA1MFyk74",
+        "cover-url": "http://mikeozornin.ru/blog/pictures/cover-31@2x.jpg",
+        "show-release": true
+      },
+      "requirements": "Тоскана",
+      "wine": {
+        "lat": 43.105494,
+        "lon": 11.8486643,
+        "region": "Италия, Тоскана, Нобиле ди Монтепульчано",
+        "grape": "85% Санджовезе, 5% Маммоло, 5% Канайоло, 5% Колорино",
+        "color": "Красное",
+        "title": "Poderi Boscarelli Vino Nobile di Montepulciano 2015",
+        "vivino-url": "https://www.vivino.com/podere-boscarelli-vino-nobile-di-montepulciano-costa-grande/w/6835233?year=2015",
+        "vivino-rating": "4.5",
+        "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-31@2x.png"
+      },
+      "shops": [
+        {
+          "title": "Winestyle",
+          "url": "https://winestyle.ru/products/Boscarelli-Vino-Nobile-di-Montepulciano-2015.html",
+          "price": "4619 ₽"
+        }
+      ]
+    },
+    {
+      "release": {
+        "number": 41,
+        "title": "Парфенон #32: Опера мода-2. Двушка 16 века. Оба К(к)арпаччо. Звезда Сталина",
+        "video-url": "https://www.youtube.com/watch?v=XchP6hIH2eE",
+        "cover-url": "http://mikeozornin.ru/blog/pictures/cover-32@2x.jpg",
+        "show-release": true
+      },
+      "requirements": "—",
+      "wine": {
+        "lat": 46.0468605,
+        "lon": 13.4761091,
+        "region": "Италия, Венето, Венеция",
+        "grape": "Риболла Джалла",
+        "color": "Белое",
+        "title": "Ronco Severo Ribolla Gialla delle Venezie IGT, 2016",
+        "vivino-url": "https://www.vivino.com/ronco-severo-ribolla-gialla/w/3566460?year=2016",
+        "vivino-rating": "4,5",
+        "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-32@2x.png"
+      },
+      "shops": [
+      ]
+    },
+
+    {
+      "release": {
+        "number": 42,
+        "title": "Парфенон #32: Опера мода-2. Двушка 16 века. Оба К(к)арпаччо. Звезда Сталина",
+        "video-url": "https://www.youtube.com/watch?v=XchP6hIH2eE",
+        "cover-url": "http://mikeozornin.ru/blog/pictures/cover-32@2x.jpg",
+        "show-release": false
+      },
+      "requirements": "—",
+      "wine": {
+        "lat": 42.3515325,
+        "lon": 10.8833204,
+        "region": "Италия, Тоскана, Остров Джилья",
+        "grape": "Ансоника",
+        "color": "Белое",
+        "title": "Vigneto Altura Ansonaco dell’ Isola del Giglio Toscana",
+        "vivino-url": "https://www.vivino.com/altura-30027-ansonaco/w/1842084?year=2017",
+        "vivino-rating": "4,3",
+        "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-32-2@2x.png"
+      },
+      "shops": [
+      ]
+    },
+    {
+      "release": {
+        "number": 43,
+        "title": "Парфенон №33: Чо там у Зеленского?! «Синонимы». Мунк: «Крик» и др.",
+        "video-url": "https://www.youtube.com/watch?v=YOzAkWbxdxo",
+        "cover-url": "http://mikeozornin.ru/blog/pictures/cover-33@2x.jpg",
+        "show-release": true
+      },
+      "requirements": "Из Венето",
+      "wine": {
+        "lat": 45.4223008,
+        "lon": 11.2463981,
+        "region": "Италия, Венето, Вальполичелла",
+        "grape": "60% Корвина, 12% Корвиноне, 12% Рондинелла, 11% Кроатина, 5% Красные сорта винограда",
+        "color": "Красное",
+        "title": "Pieropan, Amarone della Valpolicella DOCG, 2013 ",
+        "vivino-url": "https://www.vivino.com/pieropan-amarone-della-valpolicella/w/4398766?price_id=11886870&year=2013",
+        "vivino-rating": "4.4",
+        "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-33@2x.png"
+      },
+      "shops": [
+        {
+          "title": "Winestyle",
+          "url": "https://winestyle.ru/products/Pieropan-Amarone-della-Valpolicella-DOCG-2013.html",
+          "price": "9737 ₽"
+        }
+      ]
+    },
+    {
+      "release": {
+        "number": 44,
+        "title": "Парфенон #34: Интернет без «интер». «Война Анны». «Братство». «Наша Алла». Новая Третьяковка",
+        "video-url": "https://www.youtube.com/watch?v=_UoNFoenS4U",
+        "cover-url": "http://mikeozornin.ru/blog/pictures/cover-34@2x.jpg",
+        "show-release": true
+      },
+      "requirements": "Испания, какая угодно",
+      "wine": {
+        "lat": 42.545015,
+        "lon": -2.6681537,
+        "region": "Испания, Риоха",
+        "grape": "Темпранильо, Гренаш",
+        "color": "Розовое",
+        "title": "Izadi Larrosa DOCa Rioja Bodegas Izadi, 2017",
+        "vivino-url": "https://www.vivino.com/izadi-rioja-larrosa/w/2211676?year=2017",
+        "vivino-rating": "3,8",
+        "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-34@2x.png"
+      },
+      "shops": [
+        {
+          "title": "Азбука вкуса",
+          "url": "https://av.ru/i/299990/",
+          "price": "1415 ₽"
+        },
+        {
+          "title": "Winehelp",
+          "url": "https://winehelp.ru/vino/vino-bodegas-izadi-larrosa-doca-rioja-bodegas-isadi-larrosa-rioha-2014-750-ml/",
+          "price": "1121 ₽"
+        }
+      ]
+    },
+    {
+      "release": {
+        "number": 45,
+        "title": "Парфенон #35: Как в Екатеринбурге?! Веласкес - вид снизу. Русское вино у Паркера",
+        "video-url": "https://www.youtube.com/watch?v=8mSP0FpNBII",
+        "cover-url": "http://mikeozornin.ru/blog/pictures/cover-35@2x.jpg",
+        "show-release": true
+      },
+      "requirements": "Испания",
+      "wine": {
+        "lat": 41.6431265,
+        "lon": -4.1530853,
+        "region": "Испания, Рибера-дель-Дуэро",
+        "grape": "Темпранильо",
+        "color": "Красное",
+        "title": "Emilio Moro Malleolus, 2015",
+        "vivino-url": "https://www.vivino.com/emilio-moro-malleolus/w/11604?year=2015",
+        "vivino-rating": "4,3",
+        "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-35@2x.png"
+      },
+      "shops": [
+        {
+          "title": "Simplewine",
+          "url": "https://simplewine.ru/catalog/product/malleolus_ribera_del_duero_in_gift_box_2015_075/",
+          "price": "5640 ₽"
+        }
+      ]
+    },
+    {
+      "release": {
+        "number": 46,
+        "title": "Третий прямой эфир \"Парфенона\"",
+        "video-url": "https://www.youtube.com/watch?v=v21mTm2mLeE",
+        "cover-url": "http://mikeozornin.ru/blog/pictures/cover-online-3@2x.jpg",
+        "show-release": true
+      },
+      "requirements": "",
+      "wine": {
+        "lat": 41.8868141,
+        "lon": 44.6284603,
+        "region": "Грузия, Мцхета-Мтианети",
+        "grape": "Чинури",
+        "color": "Оранжевое",
+        "title": "Iago's Wine Chinuri",
+        "vivino-url": "https://www.vivino.com/iagos-iago-chinuri-unknown-v-0sr8p/w/5714269",
+        "vivino-rating": "4.0",
+        "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-online-3@2x.png"
+      },
+      "shops": [
+      ]
+    },
+    {
+      "release": {
+        "number": 19,
+        "title": "",
+        "video-url": "",
+        "cover-url": "",
+        "show-release": true
+      },
+      "requirements": "",
+      "wine": {
+        "lat": 1,
+        "lon": 1,
         "region": "",
         "grape": "",
         "color": "",
@@ -960,7 +1390,13 @@
         "vivino-rating": "",
         "cover-url": ""
       },
-      "shops": []
+      "shops": [
+        {
+          "title": "",
+          "url": "",
+          "price": ""
+        }
+      ]
     }
   ]
 }
