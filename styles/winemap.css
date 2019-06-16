@@ -62,19 +62,22 @@ body {
 .wine-card .wine-card-text .wine-card-text-params {
   margin-top: 4px;
 }
-a {
+a,
+.leaflet-container a {
   color: var(--link-color);
   border-bottom: 1px solid var(--link-border-color);
   text-decoration: none;
   transition: 0.25s cubic-bezier(0.33, 0.66, 0.66, 1);
 }
-a:hover {
+a:hover,
+.leaflet-container a:hover {
   color: var(--link-hover-color);
   border-bottom: 1px solid var(--link-border-hover-color);
   text-decoration: none;
   transition: 0.05s cubic-bezier(0.33, 0.66, 0.66, 1);
 }
-a img {
+a img,
+.leaflet-container a img {
   text-decoration: none;
 }
 @media only screen and (max-device-width: 640px) {
