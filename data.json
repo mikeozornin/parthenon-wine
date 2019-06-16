@@ -538,8 +538,7 @@
         "vivino-rating": "3.9",
         "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-online-1@2x.jpg"
       },
-      "shops": [
-      ]
+      "shops": []
     },
     {
       "release": {
@@ -1177,7 +1176,6 @@
         }
       ]
     },
-
     {
       "release": {
         "number": 40,
@@ -1226,10 +1224,8 @@
         "vivino-rating": "4,5",
         "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-32@2x.png"
       },
-      "shops": [
-      ]
+      "shops": []
     },
-
     {
       "release": {
         "number": 42,
@@ -1250,8 +1246,7 @@
         "vivino-rating": "4,3",
         "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-32-2@2x.png"
       },
-      "shops": [
-      ]
+      "shops": []
     },
     {
       "release": {
@@ -1362,8 +1357,7 @@
         "vivino-rating": "4.0",
         "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-online-3@2x.png"
       },
-      "shops": [
-      ]
+      "shops": []
     },
     {
       "release": {
