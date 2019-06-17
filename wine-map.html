@@ -64,15 +64,23 @@
             }
         });
 
+        var sparklingWineIcon = L.Icon.extend({
+            options: {
+                iconSize: [16, 64],
+                iconAnchor: [8, 32],
+                popupAnchor: [0, -32]
+            }
+        });
+
         var redWineIcon             = new wineIcon({ iconUrl: './icons/red.svg' }),
             whiteWineIcon           = new wineIcon({ iconUrl: './icons/white.svg' }),
             amberWineIcon           = new wineIcon({ iconUrl: './icons/amber.svg' }),
             roseWineIcon            = new wineIcon({ iconUrl: './icons/rose.svg' })
             
-            redSparklingWineIcon    = new wineIcon({ iconUrl: './icons/red-sparkling.svg' })
-            whiteSparklingWineIcon  = new wineIcon({ iconUrl: './icons/white-sparkling.svg' })
-            amberSparklingWineIcon  = new wineIcon({ iconUrl: './icons/amber-sparkling.svg' })
-            roseSparklingWineIcon   = new wineIcon({ iconUrl: './icons/rose-sparkling.svg' });
+            redSparklingWineIcon    = new sparklingWineIcon({ iconUrl: './icons/red-sparkling.svg' })
+            whiteSparklingWineIcon  = new sparklingWineIcon({ iconUrl: './icons/white-sparkling.svg' })
+            amberSparklingWineIcon  = new sparklingWineIcon({ iconUrl: './icons/amber-sparkling.svg' })
+            roseSparklingWineIcon   = new sparklingWineIcon({ iconUrl: './icons/rose-sparkling.svg' });
 
         $.getJSON("./data.json", function (winesJson) {
         // $.getJSON("https://raw.githubusercontent.com/mikeozornin/parthenon-wine/master/data.json", function (winesJson) {
