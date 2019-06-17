@@ -80,3 +80,7 @@ a img,
 .leaflet-container a img {
   text-decoration: none;
 }
+a.leaflet-popup-close-button,
+a.leaflet-popup-close-button:hover {
+  border-bottom: 0;
+}
