@@ -1448,17 +1448,22 @@
       },
       "requirements": "Оранжевое, Грузия",
       "wine": {
-        "lat": 42.1588693,
-        "lon": 42.266872,
-        "region": "Грузия, Кахетия",
+        "lat": 41.9831555,
+        "lon": 44.6140717,
+        "region": "Грузия, Кахетия, Манави",
         "grape": "Мцване",
         "color": "Оранжевое",
-        "title": "Не смог найти",
-        "vivino-url": "",
-        "vivino-rating": "",
-        "cover-url": ""
+        "title": "Gvymarani Mtsvane",
+        "vivino-url": "https://www.vivino.com/gvymarani-mtsvane-unknown-v-luoex/w/2376280",
+        "vivino-rating": "4,1",
+        "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-online-2019@2x.png"
       },
       "shops": [
+        {
+          "title": "Винодельня",
+          "url": "http://www.gvymarani.com/index.ru.html",
+          "price": ""
+        }
       ]
     }
   ]
