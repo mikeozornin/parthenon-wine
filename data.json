@@ -1361,16 +1361,44 @@
     },
     {
       "release": {
-        "number": 19,
-        "title": "",
-        "video-url": "",
-        "cover-url": "",
+        "number": 46,
+        "title": "Парфенон #37: Ярды, хрущоба, митинг, опера, бордо, тачка-1932",
+        "video-url": "https://www.youtube.com/watch?v=IwJL1CM7EuQ",
+        "cover-url": "http://mikeozornin.ru/blog/pictures/cover-37@2x.jpg",
         "show-release": true
       },
-      "requirements": "",
+      "requirements": "Бордо (не предупреждал)",
       "wine": {
-        "lat": 1,
-        "lon": 1,
+        "lat": 45.0817137,
+        "lon": -0.6055759,
+        "region": "Франция, Бордо, Кот де Бур",
+        "grape": "65% Мерло, 30% Каберне Совиньон, 5% Мальбек",
+        "color": "Красное",
+        "title": "Chateau La Grolet, Cotes de Bourg AOC",
+        "vivino-url": "https://www.vivino.com/la-grolet-cotes-de-bourg/w/1154419",
+        "vivino-rating": "3,5",
+        "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-37@2x.png"
+      },
+      "shops": [
+        {
+          "title": "WineStyle",
+          "url": "https://winestyle.ru/products/Chateau-La-Grolet-Cotes-de-Bourg-AOC-2016.html",
+          "price": "2586 ₽"
+        }
+      ]
+    },
+    {
+      "release": {
+        "number": 47,
+        "title": "Как братья Бухманы стали миллиардерами, а онлайн Вологда - глобальной",
+        "video-url": "https://www.youtube.com/watch?v=PvZZxXpfmtw",
+        "cover-url": "http://mikeozornin.ru/blog/pictures/cover-38@2x.jpg",
+        "show-release": true
+      },
+      "requirements": "Ничего не пил",
+      "wine": {
+        "lat": null,
+        "lon": null,
         "region": "",
         "grape": "",
         "color": "",
@@ -1380,11 +1408,57 @@
         "cover-url": ""
       },
       "shops": [
+      ]
+    },
+    {
+      "release": {
+        "number": 48,
+        "title": "Парфенон #39: «Ирландец» против «Джокера». Вена-универ-2. Лена Белкина в Москве. Обрусение Пиросмани",
+        "video-url": "https://www.youtube.com/watch?v=23xE2xFhEFo",
+        "cover-url": "http://mikeozornin.ru/blog/pictures/cover-39@2x.jpg",
+        "show-release": true
+      },
+      "requirements": "Красная Этна",
+      "wine": {
+        "lat": 37.86449,
+        "lon": 15.063003,
+        "region": "Италия, Сицилия, Этна",
+        "grape": "Нерелло Маскалезе",
+        "color": "Красное",
+        "title": "Tenuta di Aglaea, «Contrada Santo Spirito», Etna DOC, 2015",
+        "vivino-url": "https://www.vivino.com/aglaea-contrada-santo-spirito-etna/w/6033472?year=2015",
+        "vivino-rating": "3,8",
+        "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-39@2x.png"
+      },
+      "shops": [
         {
-          "title": "",
-          "url": "",
-          "price": ""
+          "title": "WineStyle",
+          "url": "https://winestyle.ru/products/Chateau-La-Grolet-Cotes-de-Bourg-AOC-2016.html",
+          "price": "2586 ₽"
         }
+      ]
+    },
+    {
+      "release": {
+        "number": 49,
+        "title": "Новогодний прямой эфир \"Парфенона\"",
+        "video-url": "https://www.youtube.com/watch?v=i9YefICyVU8",
+        "cover-url": "http://mikeozornin.ru/blog/pictures/cover-online-2019@2x.jpg",
+        "show-release": true
+      },
+      "requirements": "Оранжевое, Грузия",
+      "wine": {
+        "lat": 42.1588693,
+        "lon": 42.266872,
+        "region": "Грузия, Кахетия",
+        "grape": "Мцване",
+        "color": "Оранжевое",
+        "title": "Не смог найти",
+        "vivino-url": "",
+        "vivino-rating": "",
+        "cover-url": ""
+      },
+      "shops": [
       ]
     }
   ]
