@@ -1465,6 +1465,35 @@
           "price": ""
         }
       ]
+    },
+
+    {
+      "release": {
+        "number": 50,
+        "title": "Парфенон #41: Он Путиным работает! От Леонардо до Лотрека. Книги сезона. «Русские грузины»",
+        "video-url": "https://www.youtube.com/watch?v=H7BUp-4TL4A",
+        "cover-url": "http://mikeozornin.ru/blog/pictures/cover-41@2x.jpg",
+        "show-release": true
+      },
+      "requirements": "—",
+      "wine": {
+        "lat": 44.6064182,
+        "lon": 8.0072039,
+        "region": "Италия, Пьемонт, Ланге",
+        "grape": "Неббиоло",
+        "color": "Красное",
+        "title": "Rivetto langhe nebbiolo (Парфенов), vino Rosso Rivetto (у винодельни)",
+        "vivino-url": "http://rivetto.it/it/vini/vino-rosso-rivetto/",
+        "vivino-rating": "",
+        "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-41@2x.png"
+      },
+      "shops": [
+        {
+          "title": "Винодельня",
+          "url": "http://rivetto.it/it/vini/vino-rosso-rivetto/",
+          "price": ""
+        }
+      ]
     }
   ]
 }
