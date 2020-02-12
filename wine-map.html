@@ -72,56 +72,27 @@
             }
         });
 
-        var redWineIcon             = new wineIcon({ iconUrl: './icons/red.svg' }),
-            whiteWineIcon           = new wineIcon({ iconUrl: './icons/white.svg' }),
-            amberWineIcon           = new wineIcon({ iconUrl: './icons/amber.svg' }),
-            roseWineIcon            = new wineIcon({ iconUrl: './icons/rose.svg' })
-            
-            redSparklingWineIcon    = new sparklingWineIcon({ iconUrl: './icons/red-sparkling.svg' })
-            whiteSparklingWineIcon  = new sparklingWineIcon({ iconUrl: './icons/white-sparkling.svg' })
-            amberSparklingWineIcon  = new sparklingWineIcon({ iconUrl: './icons/amber-sparkling.svg' })
-            roseSparklingWineIcon   = new sparklingWineIcon({ iconUrl: './icons/rose-sparkling.svg' });
+        const wineTypeIcons = {
+            'Красное':            new wineIcon({ iconUrl: './icons/red.svg' }),
+            'Белое':              new wineIcon({ iconUrl: './icons/white.svg' }),
+            'Оранжевое':          new wineIcon({ iconUrl: './icons/amber.svg' }),
+            'Розовое':            new wineIcon({ iconUrl: './icons/rose.svg' }),
 
+            'Красное игристое':   new sparklingWineIcon({ iconUrl: './icons/red-sparkling.svg' }),
+            'Белое игристое':     new sparklingWineIcon({ iconUrl: './icons/white-sparkling.svg' }),
+            'Оранжевое игристое': new sparklingWineIcon({ iconUrl: './icons/amber-sparkling.svg' }),
+            'Розовое игристое':   new sparklingWineIcon({ iconUrl: './icons/rose-sparkling.svg' })
+        }
+        
         $.getJSON("./data.json", function (winesJson) {
         // $.getJSON("https://raw.githubusercontent.com/mikeozornin/parthenon-wine/master/data.json", function (winesJson) {
             if (winesJson.wines) {
                 winesJson.wines.forEach(function (wineReleaseItem, i, arr) {
                     wineItem = wineReleaseItem['wine'];
-                    switch (wineItem.color) {
-                        case 'Красное':
-                            marker = L.marker([wineItem.lat, wineItem.lon], { icon: redWineIcon }).addTo(mymap);
-                            marker.bindPopup(getPopupText(wineReleaseItem));
-                            break;
-                        case 'Белое':
-                            marker = L.marker([wineItem.lat, wineItem.lon], { icon: whiteWineIcon }).addTo(mymap);
-                            marker.bindPopup(getPopupText(wineReleaseItem));
-                            break;
-                        case 'Оранжевое':
-                            marker = L.marker([wineItem.lat, wineItem.lon], { icon: amberWineIcon }).addTo(mymap);
-                            marker.bindPopup(getPopupText(wineReleaseItem));
-                            break;
-                        case 'Розовое':
-                            marker = L.marker([wineItem.lat, wineItem.lon], { icon: roseWineIcon }).addTo(mymap);
-                            marker.bindPopup(getPopupText(wineReleaseItem));
-                            break;
-
-                        case 'Красное игристое':
-                            marker = L.marker([wineItem.lat, wineItem.lon], { icon: redSparklingWineIcon }).addTo(mymap);
-                            marker.bindPopup(getPopupText(wineReleaseItem));
-                            break;
-                        case 'Белое игристое':
-                            marker = L.marker([wineItem.lat, wineItem.lon], { icon: whiteSparklingWineIcon }).addTo(mymap);
-                            marker.bindPopup(getPopupText(wineReleaseItem));
-                            break;
-                        case 'Оранжевое игристое':
-                            marker = L.marker([wineItem.lat, wineItem.lon], { icon: amberSparklingWineIcon }).addTo(mymap);
-                            marker.bindPopup(getPopupText(wineReleaseItem));
-                            break;
-                        case 'Розовое игристое':
-                            marker = L.marker([wineItem.lat, wineItem.lon], { icon: roseSparklingWineIcon }).addTo(mymap);
-                            marker.bindPopup(getPopupText(wineReleaseItem));
-                            break;
-                    }
+                    
+                    var markerIcon = wineTypeIcons[wineItem.color];
+                    var marker = L.marker([wineItem.lat, wineItem.lon], { icon: markerIcon }).addTo(mymap);
+                    marker.bindPopup(getPopupText(wineReleaseItem));
                 });
             }
         });
