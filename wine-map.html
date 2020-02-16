@@ -40,15 +40,6 @@
 
         var mymap = L.map('mapid').setView([25.505, 15.09], 3);
 
-        // L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
-        //     attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
-        //     minZoom: 2,
-        //     maxZoom: 16,
-        //     //detectRetina: true,
-        //     id: 'mapbox.outdoors',
-        //     accessToken: 'pk.eyJ1IjoibWlrZW96b3JuaW4iLCJhIjoiWXhJNXZwRSJ9.CerQgbE5s1B4FVMP_QyDlA'
-        // }).addTo(mymap);
-
         L.tileLayer('https://a.tile.openstreetmap.org/{z}/{x}/{y}.png', {
             attribution: '&copy; <a href="//www.openstreetmap.org/copyright" target="_blank">OpenStreetMap</a> contributors | Icons <a href="//sergeychikin.ru/365" target="_blank">by Sergey Chikin</a>',
             minZoom: 3,
@@ -90,9 +81,11 @@
                 winesJson.wines.forEach(function (wineReleaseItem, i, arr) {
                     wineItem = wineReleaseItem['wine'];
                     
-                    var markerIcon = wineTypeIcons[wineItem.color];
-                    var marker = L.marker([wineItem.lat, wineItem.lon], { icon: markerIcon }).addTo(mymap);
-                    marker.bindPopup(getPopupText(wineReleaseItem));
+                    if (wineItem['lat'] && wineItem['lon']) {
+                        var markerIcon = wineTypeIcons[wineItem.color];
+                        var marker = L.marker([wineItem.lat, wineItem.lon], { icon: markerIcon }).addTo(mymap);
+                        marker.bindPopup(getPopupText(wineReleaseItem));
+                    }
                 });
             }
         });
