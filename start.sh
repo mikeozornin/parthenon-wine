@@ -1,2 +1,2 @@
 #!/bin/sh
-python -m SimpleHTTPServer 8000
+python -m http.server --cgi 8000
