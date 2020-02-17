@@ -75,8 +75,8 @@
             'Розовое игристое':   new sparklingWineIcon({ iconUrl: './icons/rose-sparkling.svg' })
         }
 
-        // $.getJSON("./data.json", function (winesJson) {
-        $.getJSON("https://raw.githubusercontent.com/mikeozornin/parthenon-wine/master/data.json", function (winesJson) {
+        $.getJSON("./data.json", function (winesJson) {
+        // $.getJSON("https://raw.githubusercontent.com/mikeozornin/parthenon-wine/master/data.json", function (winesJson) {
             if (winesJson.wines) {
                 winesJson.wines.forEach(function (wineReleaseItem, i, arr) {
                     wineItem = wineReleaseItem['wine'];
