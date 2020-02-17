@@ -1466,7 +1466,6 @@
         }
       ]
     },
-
     {
       "release": {
         "number": 50,
@@ -1492,6 +1491,39 @@
           "title": "Винодельня",
           "url": "http://rivetto.it/it/vini/vino-rosso-rivetto/",
           "price": ""
+        }
+      ]
+    },
+    {
+      "release": {
+        "number": 51,
+        "title": "Парфенон #42: «Сеть». Спб как универ: Ахматова и Бродский. Новые «Намедни» и «Русские грузины»",
+        "video-url": "https://www.youtube.com/watch?v=KVApBY8qQI8",
+        "cover-url": "http://mikeozornin.ru/blog/pictures/cover-42@2x.jpg",
+        "show-release": true
+      },
+      "requirements": "По умолчанию — Пино нуар",
+      "wine": {
+        "lat": 46.5305742,
+        "lon": 11.247785,
+        "region": "Италия, Трентино-Альто Адидже",
+        "grape": "Пино Нуар",
+        "color": "Красное",
+        "title": "Pinot Noir, Cantina Terlan, 2018",
+        "vivino-url": "https://www.vivino.com/kellerei-terlan-pinot-noir/w/1263919?year=2018",
+        "vivino-rating": "3,8",
+        "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-42@2x.png"
+      },
+      "shops": [
+        {
+          "title": "Simplewine",
+          "url": "https://simplewine.ru/catalog/product/cantina_terlano_pinot_noir_2018_075/",
+          "price": "2990 ₽"
+        },
+        {
+          "title": "Winestyle",
+          "url": "https://winestyle.ru/products/Cantina-Terlano-Pinot-Noir-Alto-Adige-DOC-2018.html",
+          "price": "2990 ₽"
         }
       ]
     }
