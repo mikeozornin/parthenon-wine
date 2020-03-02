@@ -1531,6 +1531,39 @@
           "price": "2990 ₽"
         }
       ]
+    },
+    {
+      "release": {
+        "number": 55,
+        "title": "ЗВОРЫКИН-МУРОМЕЦ. Фильм первый. С предисловием Леонида Парфенова",
+        "video-url": "https://www.youtube.com/watch?v=J_0_NFCmQ_0",
+        "cover-url": "http://mikeozornin.ru/blog/pictures/zvorykin-cover-1@2x.jpg",
+        "show-release": true
+      },
+      "requirements": "Калифорнийское",
+      "wine": {
+        "lat": 37.0112129,
+        "lon": -122.1945806,
+        "region": "США, Калифорния, Центральное побережье",
+        "grape": "Сира",
+        "color": "Красное",
+        "title": "Syrah Le Pousseur, Bonny Doon Vineyards, 2013",
+        "vivino-url": "https://www.vivino.com/bonny-doon-le-pousseur-syrah/w/1128215?year=2013",
+        "vivino-rating": "3,8",
+        "cover-url": "http://mikeozornin.ru/blog/pictures/zvorykin-wine-cover-1@2x.png"
+      },
+      "shops": [
+        {
+          "title": "Simplewine",
+          "url": "https://simplewine.ru/catalog/product/bonny_doon_vineyards_syrah_le_pousseur_2013_075/",
+          "price": "4790 ₽"
+        },
+        {
+          "title": "Winestyle",
+          "url": "https://winestyle.ru/products/Syrah-Le-Pousseur-2013.html",
+          "price": "4790 ₽"
+        }
+      ]
     }
   ]
 }
