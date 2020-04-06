@@ -1564,6 +1564,35 @@
           "price": "4790 ₽"
         }
       ]
+    },
+
+    {
+      "release": {
+        "number": 56,
+        "title": "ЭФИР ВО ВРЕМЯ ЧУМЫ",
+        "video-url": "https://www.youtube.com/watch?v=MmytFWCSuE4",
+        "cover-url": "http://mikeozornin.ru/blog/pictures/corona-release-1@2x.jpg",
+        "show-release": true
+      },
+      "requirements": "Италия",
+      "wine": {
+        "lat": 43.0991616,
+        "lon": 11.4027841,
+        "region": "Италия, Тоскана, Брунелло ди Монтальчино",
+        "grape": "Санджовезе Гроссо",
+        "color": "Красное",
+        "title": "Tenute Silvio Nardi, Brunello Di Montalcino, 2012",
+        "vivino-url": "https://www.vivino.com/silvio-nardi-brunello-di-montalcino/w/1156767?year=2012",
+        "vivino-rating": "4,1",
+        "cover-url": "http://mikeozornin.ru/blog/pictures/wine-cover-corona-release-1@2x.jpg"
+      },
+      "shops": [
+        {
+          "title": "Winestyle",
+          "url": "https://winestyle.ru/products/Tenute-Silvio-Nardi-Brunello-di-Montalcino-DOCG-2012-750.html",
+          "price": "5273 ₽"
+        }
+      ]
     }
   ]
 }
