@@ -13,10 +13,6 @@
 </head>
 
 <body>
-<!--1. Data (json format!) -->
-<script>
-    var url='data.json'; // relative url : 'data.json'; protocole-relative absolute url: '//website.org/path/to/data.json';
-</script>
 
 <!-- 2. Anchor -->
 <div id="anchor">&nbsp;</div>
@@ -38,7 +34,7 @@
                 <td data-label="Выпуск">{{#if release.show-release}}<a href="{{release.video-url}}"><img class="parfenon-cover" src="{{release.cover-url}}" /><span class="parfenon-release-title">{{release.title}}</span></a>
                 {{/if}}</td>
                 <td data-label="Требования к&nbsp;вину">{{requirements}}</td>
-                <td data-label="Вино Парфенова">{{#if wine.title}}<a href="{{wine.vivino-url}}">{{#if wine.cover-url}}<img style="align: right; max-height: 117.5px; max-width: 35px; float: left; margin-right: 30px;" src="{{wine.cover-url}}"/>{{/if}}{{wine.title}}</a>{{#if wine.vivino-rating}}· {{wine.vivino-rating}} ★{{/if}}<br/>{{wine.color}}<br/>Регион: {{wine.region}}<br/>Виноград: {{wine.grape}}{{/if}}</td>
+                <td data-label="Вино Парфенова">{{#if wine.title}}<a href="{{wine.vivino-url}}">{{#if wine.cover-url}}<img style="align: right; max-height: 117.5px; max-width: 35px; float: left; margin-right: 30px;" src="http://mikeozornin.ru/parfenon-wine/wine-covers/{{wine.cover-url}}"/>{{/if}}{{wine.title}}</a>{{#if wine.vivino-rating}}· {{wine.vivino-rating}} ★{{/if}}<br/>{{wine.color}}<br/>Регион: {{wine.region}}<br/>Виноград: {{wine.grape}}{{/if}}</td>
                 <td data-label="Магазины">{{#shops}}
                     <a href="{{url}}" style="white-space: nowrap;">{{title}}</a> {{price}}</br>
                     {{/shops}}
@@ -62,7 +58,7 @@
         });
     }
     //4b.function firing
-    slingshot('data.json', '#tpl', '#anchor'); // since url = 'data.json' , we can use both notations.
+    slingshot('/src/assets/data/data.json', '#tpl', '#anchor'); // since url = 'data.json' , we can use both notations.
 </script>
 </body>
 </html>

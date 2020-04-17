@@ -12,13 +12,13 @@
       "wine": {
         "lat": 47.024180,
         "lon": 4.842422,
-        "region": "Франция, Бургундия",
-        "grape": "Пино Нуар",
+        "region": "Франция, Bourgogne",
+        "grape": "Pinot Noir",
         "color": "Красное",
         "title": "Bourgogne Pinot Noir La Vignee",
         "vivino-url": "https://www.vivino.com/bouchard-pere-and-fils-bourgogne-pinot-noir-la-vignee/w/4923426?year=2015",
         "vivino-rating": "3,6",
-        "cover-url": "http://mikeozornin.ru/parfenon-wine/wine-covers/wine-cover-1@2x.png"
+        "cover-url": "wine-cover-1@2x.png"
       },
       "shops": [
         {
@@ -40,13 +40,13 @@
       "wine": {
         "lat": 45.371075,
         "lon": -122.848092,
-        "region": "США, Уилламетт",
-        "grape": "Пино Нуар",
+        "region": "США, Willamette Valley",
+        "grape": "Pinot Noir",
         "color": "Красное",
         "title": "The Vegetable Lamb",
         "vivino-url": "https://www.vivino.com/wineries/fausse-piste/wines/fausse-piste-the-vegetable-lamb-uv",
         "vivino-rating": "3,8",
-        "cover-url": "http://mikeozornin.ru/parfenon-wine/wine-covers/wine-cover-2@2x.png"
+        "cover-url": "wine-cover-2@2x.png"
       },
       "shops": []
     },
@@ -63,12 +63,12 @@
         "lat": 43.166294,
         "lon": -79.477385,
         "region": "Канада, Beamsville Bench",
-        "grape": "Пино Нуар",
+        "grape": "Pinot Noir",
         "color": "Красное",
         "title": "Hidden Bench Pinot Noir",
         "vivino-url": "https://www.vivino.com/wineries/hidden-bench/wines/hidden-bench-pinot-noir-2014",
         "vivino-rating": "3,5",
-        "cover-url": "http://mikeozornin.ru/parfenon-wine/wine-covers/wine-cover-3@2x.png"
+        "cover-url": "wine-cover-3@2x.png"
       },
       "shops": []
     },
@@ -84,13 +84,13 @@
       "wine": {
         "lat": 39.51002,
         "lon": -3.251599,
-        "region": "Испания, Кастилия ла Манча",
+        "region": "Испания, Castilla-La Mancha",
         "grape": "Айрен",
         "color": "Оранжевое",
         "title": "Airen Pampaneo, 2016",
         "vivino-url": "https://www.vivino.com/wineries/ecologica-bruno-ruiz/wines/ecologica-bruno-ruiz-pampaneo-airen-natural-2016",
         "vivino-rating": "3,7",
-        "cover-url": "http://mikeozornin.ru/parfenon-wine/wine-covers/wine-cover-4@2x.png"
+        "cover-url": "wine-cover-4@2x.png"
       },
       "shops": [
         {
@@ -112,13 +112,13 @@
       "wine": {
         "lat": 42.4801323,
         "lon": -2.6385229,
-        "region": "Испания, Риоха",
-        "grape": "Темпранильо",
+        "region": "Испания, Rioja",
+        "grape": "Tempranillo",
         "color": "Красное",
         "title": "Marques de Caceres «Excellens» Crianza Cuvee Especial, Rioja DOC, 2014",
         "vivino-url": "https://www.vivino.com/wineries/marques-de-caceres/wines/marques-de-caceres-excellens-cuvee-especial-rioja-uv",
         "vivino-rating": "3,7",
-        "cover-url": "http://mikeozornin.ru/parfenon-wine/wine-covers/wine-cover-5@2x.png"
+        "cover-url": "wine-cover-5@2x.png"
       },
       "shops": [
         {
@@ -140,13 +140,13 @@
       "wine": {
         "lat": 43.522774,
         "lon": 11.3040573,
-        "region": "Италия, Тоскана",
-        "grape": "Санджовезе",
+        "region": "Италия, Toscana",
+        "grape": "Sangiovese",
         "color": "Красное",
         "title": "Chianti Classico",
         "vivino-url": "https://www.vivino.com/wineries/il-molino-di-grace/wines/il-molino-di-grace-chianti-classico-uv",
         "vivino-rating": "3,6",
-        "cover-url": "http://mikeozornin.ru/parfenon-wine/wine-covers/wine-cover-6@2x.png"
+        "cover-url": "wine-cover-6@2x.png"
       },
       "shops": [
         {
@@ -168,13 +168,13 @@
       "wine": {
         "lat": 44.583677,
         "lon": 7.9524246,
-        "region": "Италия, Пьемонт",
-        "grape": "Барбера",
+        "region": "Италия, Piemonte",
+        "grape": "Barbera",
         "color": "Красное",
         "title": "Gianfranco Alessandria Barbera d’Alba",
         "vivino-url": "https://www.vivino.com/wineries/gianfranco-alessandria/wines/gianfranco-alessandria-barbera-d-alba-uv",
         "vivino-rating": "3,7",
-        "cover-url": "http://mikeozornin.ru/parfenon-wine/wine-covers/wine-cover-7@2x.png"
+        "cover-url": "wine-cover-7@2x.png"
       },
       "shops": [
         {
@@ -196,13 +196,13 @@
       "wine": {
         "lat": 43.4719211,
         "lon": 5.4378578,
-        "region": "Франция, Прованс",
-        "grape": "65 ⁠% Гренаш, 20 ⁠% Сира, 5 ⁠% Каберне Совиньон, 5 ⁠% Кариньян, 5 ⁠% Сенсо",
+        "region": "Франция, Provance",
+        "grape": "65 ⁠% Grenache, 20 ⁠% Syrah, 5 ⁠% Cabernet Sauvignon, 5 ⁠% Carignan, 5 ⁠% Cinsaut",
         "color": "Розовое",
         "title": "Chateau Gassier Rose 946",
         "vivino-url": "https://www.vivino.com/wineries/gassier/wines/gassier-chateau-gassier-946-sainte-victoire-selection-parcellaire-rose-uv",
         "vivino-rating": "4,1",
-        "cover-url": "http://mikeozornin.ru/parfenon-wine/wine-covers/wine-cover-8@2x.png"
+        "cover-url": "wine-cover-8@2x.png"
       },
       "shops": [
         {
@@ -224,13 +224,13 @@
       "wine": {
         "lat": 47.816225,
         "lon": 3.7981573,
-        "region": "Франция, Бургундия, Шабли Гран Крю",
-        "grape": "Шардоне",
+        "region": "Франция, Bourgogne, Chablis Grand Cru",
+        "grape": "Chardonnay",
         "color": "Белое",
         "title": "Chablis Grand Cru Les Blanchots",
         "vivino-url": "https://www.vivino.com/wineries/domaine-laroche/wines/domaine-laroche-chablis-grand-cru-les-blanchots-uv",
         "vivino-rating": "4,2",
-        "cover-url": "http://mikeozornin.ru/parfenon-wine/wine-covers/wine-cover-9@2x.png"
+        "cover-url": "wine-cover-9@2x.png"
       },
       "shops": [
         {
@@ -252,13 +252,13 @@
       "wine": {
         "lat": 45.8179446,
         "lon": 12.0198191,
-        "region": "Италия, Венето, Тревизо",
-        "grape": "Глера",
+        "region": "Италия, Veneto, Treviso",
+        "grape": "Glera",
         "color": "Белое игристое",
         "title": "Villa Sandi Prosecco Il Fresco",
         "vivino-url": "https://www.vivino.com/wineries/villa-sandi/wines/villa-sandi-prosecco-il-fresco-nv",
         "vivino-rating": "3,6",
-        "cover-url": "http://mikeozornin.ru/parfenon-wine/wine-covers/wine-cover-jewish-1@2x.png"
+        "cover-url": "wine-cover-jewish-1@2x.png"
       },
       "shops": [
         {
@@ -280,13 +280,13 @@
       "wine": {
         "lat": 46.9358104,
         "lon": 4.7226862,
-        "region": "Франция, Бургундия",
-        "grape": "Пино Нуар",
+        "region": "Франция, Bourgogne",
+        "grape": "Pinot Noir",
         "color": "Красное",
         "title": "Domaine Paul Pillot Bourgogne Pinot Noir, 2014",
         "vivino-url": "https://www.vivino.com/azienda-agricola-gini-sandro-e-claudio-pinot-noir-bourgogne/w/1128668?year=2014",
         "vivino-rating": "3,4",
-        "cover-url": "http://mikeozornin.ru/parfenon-wine/wine-covers/wine-cover-10@2x.png"
+        "cover-url": "wine-cover-10@2x.png"
       },
       "shops": []
     },
@@ -302,13 +302,13 @@
       "wine": {
         "lat": 45.741807,
         "lon": 13.743443,
-        "region": "Италия, Фриули-Венеция-Джулия",
-        "grape": "Витовска",
+        "region": "Италия, Friuli Venezia Giulia",
+        "grape": "Vitovska",
         "color": "Оранжевое",
         "title": "Vodopivec Vitovska carso",
         "vivino-url": "https://www.vivino.com/wineries/vodopivec/wines/vodopivec-vitovska-2012",
         "vivino-rating": "3,8",
-        "cover-url": "http://mikeozornin.ru/parfenon-wine/wine-covers/wine-cover-jewish-2@2x.png"
+        "cover-url": "wine-cover-jewish-2@2x.png"
       },
       "shops": [
         {
@@ -330,13 +330,13 @@
       "wine": {
         "lat": 45.982689,
         "lon": 13.604379,
-        "region": "Италия, Фриули-Венеция-Джулия",
-        "grape": "Риболла Джалла",
+        "region": "Италия, Friuli Venezia Giulia",
+        "grape": "Ribolla Gialla",
         "color": "Оранжевое",
         "title": "Gravner Anfora Ribolla Gialla Venezia Giulia IGT, 2002",
         "vivino-url": "https://www.vivino.com/wineries/gravner/wines/gravner-anfora-ribolla-gialla-2002",
         "vivino-rating": "4,1",
-        "cover-url": "http://mikeozornin.ru/parfenon-wine/wine-covers/wine-cover-jewish-3@2x.png"
+        "cover-url": "wine-cover-jewish-3@2x.png"
       },
       "shops": [
         {
@@ -358,13 +358,13 @@
       "wine": {
         "lat": 42.6302168,
         "lon": -2.0066441,
-        "region": "Испания, Наварра",
-        "grape": "Темпранильо",
+        "region": "Испания, Navarra",
+        "grape": "Tempranillo",
         "color": "Красное",
         "title": "Arinzano Grand Vino, 2010",
         "vivino-url": "https://www.vivino.com/wineries/arinzano/wines/gran-vino-de-2010",
         "vivino-rating": "4,2",
-        "cover-url": "http://mikeozornin.ru/parfenon-wine/wine-covers/wine-cover-11@2x.png"
+        "cover-url": "wine-cover-11@2x.png"
       },
       "shops": []
     },
@@ -380,13 +380,13 @@
       "wine": {
         "lat": 41.811274,
         "lon": 45.705132,
-        "region": "Грузия, Кахетия",
-        "grape": "Ркацители",
+        "region": "Грузия, Kakheti",
+        "grape": "Rkatsiteli",
         "color": "Оранжевое",
         "title": "Askaneli Brothers, Rkatsiteli Qvevri",
         "vivino-url": "https://www.vivino.com/wineries/ge-askaneli-brothers/wines/ge-askaneli-brothers-rkatsiteli-qvevri-uv",
         "vivino-rating": "3,7",
-        "cover-url": "http://mikeozornin.ru/parfenon-wine/wine-covers/wine-cover-12@2x.png"
+        "cover-url": "wine-cover-12@2x.png"
       },
       "shops": [
         {
@@ -408,13 +408,13 @@
       "wine": {
         "lat": 44.9012075,
         "lon": -0.1556844,
-        "region": "Франция, Бордо, Сент-Эмилион",
-        "grape": "80 ⁠% Мерло, 20 ⁠% Каберне Фран",
+        "region": "Франция, Bordo, Saint-Émilion",
+        "grape": "80 ⁠% Merlo, 20 ⁠% Caberne Franc",
         "color": "Красное",
         "title": "Chateau Cadet Bon Grand Cru",
         "vivino-url": "https://www.vivino.com/cadet-bon-saint-emilion-grand-cru-grand-cru-classe/w/1232315",
         "vivino-rating": "4,0",
-        "cover-url": "http://mikeozornin.ru/parfenon-wine/wine-covers/wine-cover-13@2x.png"
+        "cover-url": "wine-cover-13@2x.png"
       },
       "shops": [
         {
@@ -442,12 +442,12 @@
         "lat": 45.283553,
         "lon": 36.990620,
         "region": "Россия, Краснодарский край",
-        "grape": "Пино Нуар",
+        "grape": "Pinot Noir",
         "color": "Красное",
         "title": "Fanagoria Cru Lermont Pinot Noir",
         "vivino-url": "https://www.vivino.com/wineries/fanagoria/wines/cru-lermont-pinot-noir-9999",
         "vivino-rating": "3,4",
-        "cover-url": "http://mikeozornin.ru/parfenon-wine/wine-covers/wine-cover-14@2x.png"
+        "cover-url": "wine-cover-14@2x.png"
       },
       "shops": [
         {
@@ -470,12 +470,12 @@
         "lat": 45.320253,
         "lon": 37.277794,
         "region": "Россия, Краснодарский край, Тамань",
-        "grape": "Пино Нуар",
+        "grape": "Pinot Noir",
         "color": "Красное",
         "title": "Villa Romanov Meotida Pinot Noir",
         "vivino-url": "https://www.vivino.com/golubitskoe-estate-villa-romanov-meotida-pinot-noir/w/6157144",
         "vivino-rating": "3,5",
-        "cover-url": "http://mikeozornin.ru/parfenon-wine/wine-covers/wine-cover-14-2@2x.png"
+        "cover-url": "wine-cover-14-2@2x.png"
       },
       "shops": [
         {
@@ -497,13 +497,13 @@
       "wine": {
         "lat": 45.4881336,
         "lon": 4.8045676,
-        "region": "Франция, Долина Роны",
-        "grape": "Сира",
+        "region": "Франция, Rhone valley, Saint Joseph",
+        "grape": "Syrah/Shiraz",
         "color": "Красное",
         "title": "Saint-Joseph Rouge Lieu-dit",
         "vivino-url": "https://www.vivino.com/wineries/e-guigal/wines/saint-joseph-lieu-dit-rouge-2015",
         "vivino-rating": "4.2",
-        "cover-url": "http://mikeozornin.ru/parfenon-wine/wine-covers/wine-cover-color-of-nation@2x.png"
+        "cover-url": "wine-cover-color-of-nation@2x.png"
       },
       "shops": [
         {
@@ -530,13 +530,13 @@
       "wine": {
         "lat": 42.0486864,
         "lon": 45.4829264,
-        "region": "Грузия, Кахетия",
-        "grape": "Хихви (khikhvi)",
+        "region": "Грузия, Kakheti",
+        "grape": "Хихви (Khikhvi)",
         "color": "Оранжевое",
         "title": "Tchotiashvili Khikhvi Rcheli Qvevri Dry",
         "vivino-url": "https://www.vivino.com/wineries/tchotiashvili/wines/tchotiashvili-khikhvi-rcheli-qvevri-dry-white-2014",
         "vivino-rating": "3.9",
-        "cover-url": "http://mikeozornin.ru/parfenon-wine/wine-covers/wine-cover-online-1@2x.png"
+        "cover-url": "wine-cover-online-1@2x.png"
       },
       "shops": []
     },
@@ -552,13 +552,13 @@
       "wine": {
         "lat": 42.630641,
         "lon": -1.995558,
-        "region": "Испания, Наварра",
-        "grape": "Шардоне",
+        "region": "Испания, Navarra",
+        "grape": "Chardonnay",
         "color": "Белое",
         "title": "Arínzano Gran Vino Blanco",
         "vivino-url": "https://www.vivino.com/wineries/arinzano/wines/arinzano-gran-vino-blanco-2014",
         "vivino-rating": "4.0",
-        "cover-url": "http://mikeozornin.ru/parfenon-wine/wine-covers/wine-cover-15@2x.png"
+        "cover-url": "wine-cover-15@2x.png"
       },
       "shops": [
         {
@@ -620,13 +620,13 @@
       "wine": {
         "lat": -33.0556089,
         "lon": -68.9084585,
-        "region": "Аргентина, Мендоса",
-        "grape": "Мальбек",
+        "region": "Аргентина, Mendoza Province",
+        "grape": "Malbec",
         "color": "Красное",
         "title": "Finca Altamira, 2014",
         "vivino-url": "https://www.vivino.com/achaval-ferrer-finca-altamira-malbec/w/1176258?year=2014",
         "vivino-rating": "4.5",
-        "cover-url": "http://mikeozornin.ru/parfenon-wine/wine-covers/wine-cover-16@2x.png"
+        "cover-url": "wine-cover-16@2x.png"
       },
       "shops": [
         {
@@ -648,13 +648,13 @@
       "wine": {
         "lat": 43.2115188,
         "lon": 10.6094568,
-        "region": "Италия, Тоскана, Болгери",
-        "grape": "51 ⁠% Каберне Совиньон, 32 ⁠% Мерло, 11 ⁠% Каберне Фран, 6 ⁠% Пти Вердо",
+        "region": "Италия, Toscana, Bolgheri",
+        "grape": "51 ⁠% Cabernet Sauvignon, 32 ⁠% Merlo, 11 ⁠% Cabernet Franc, 6 ⁠% Petit Verdot",
         "color": "Красное",
         "title": "Ornellaia, Bolgheri Superiore DOC, 2011",
         "vivino-url": "https://www.vivino.com/ornellaia-bolgheri-superiore/w/22447?year=2011",
         "vivino-rating": "4.6",
-        "cover-url": "http://mikeozornin.ru/parfenon-wine/wine-covers/wine-cover-17@2x.png"
+        "cover-url": "wine-cover-17@2x.png"
       },
       "shops": [
         {
@@ -676,13 +676,13 @@
       "wine": {
         "lat": 41.521948,
         "lon": 44.365780,
-        "region": "Грузия, Картли",
-        "grape": "Мцване",
+        "region": "Грузия, Kartli",
+        "grape": "Мцване (Mzvane)",
         "color": "Оранжевое",
         "title": "DO-RE-MI, Mtsvane, 2016",
         "vivino-url": "https://www.vivino.com/do-re-mi-emhaan-kisi-white-dry-kvevri-white-wine-v-0rm8y/w/3894429?year=2016",
         "vivino-rating": "4.1",
-        "cover-url": "http://mikeozornin.ru/parfenon-wine/wine-covers/wine-cover-18@2x.png"
+        "cover-url": "wine-cover-18@2x.png"
       },
       "shops": [
         {
@@ -697,20 +697,20 @@
         "number": 24,
         "title": "Парфенон #18: Жесть Слепакова. Духан Пиросмани. Опера - тоже мода. \"Берегись автомобиля!\".",
         "video-url": "https://www.youtube.com/watch?v=9Wsuml3SVDg",
-        "cover-url": "http://mikeozornin.ru/parfenon-wine/wine-covers/wine-cover-18@2x.jpg",
+        "cover-url": "wine-cover-18@2x.jpg",
         "show-release": false
       },
       "requirements": "",
       "wine": {
         "lat": 41.7,
         "lon": 45.6,
-        "region": "Грузия, Кахетия",
-        "grape": "Ркацители",
+        "region": "Грузия, Kakheti",
+        "grape": "Rkatsiteli",
         "color": "Оранжевое",
         "title": "DO-RE-MI, Rkatsiteli, 2016",
         "vivino-url": "https://www.vivino.com/do-re-mi-rk-acit-eli-k-arva-dri-rkatsiteli-unfiltered-amber-dry/w/6413251?year=2016",
         "vivino-rating": "3.9",
-        "cover-url": "http://mikeozornin.ru/parfenon-wine/wine-covers/wine-cover-18-2@2x.png"
+        "cover-url": "wine-cover-18-2@2x.png"
       },
       "shops": [
         {
@@ -732,13 +732,13 @@
       "wine": {
         "lat": 44.6722678,
         "lon": 7.9950725,
-        "region": "Италия, Пьемонт, Барбареско",
-        "grape": "Неббиоло",
+        "region": "Италия, Piemonte, Barbaresco",
+        "grape": "Nebbiolo",
         "color": "Красное",
         "title": "Barbaresco Bricco Asili Bernardot DOCG, 2008",
         "vivino-url": "https://www.vivino.com/ceretto-aziende-vitivinicole-srl-bricco-asili-barbaresco-bernadot/w/7138",
         "vivino-rating": "4.2",
-        "cover-url": "http://mikeozornin.ru/parfenon-wine/wine-covers/wine-cover-19@2x.png"
+        "cover-url": "wine-cover-19@2x.png"
       },
       "shops": [
         {
@@ -765,13 +765,13 @@
       "wine": {
         "lat": 43.0391804,
         "lon": 11.4052469,
-        "region": "Италия, Тоскана, Брунелло ди Монтальчино",
-        "grape": "Санджовезе",
+        "region": "Италия, Toscana, Brunello di Montalcino",
+        "grape": "Sangiovese",
         "color": "Красное",
         "title": "Brunello di Montalcino Castelgiocondo, 2013",
         "vivino-url": "https://www.vivino.com/it-castelgiocondo-brunello-di-montalcino/w/1098912",
         "vivino-rating": "4.2",
-        "cover-url": "http://mikeozornin.ru/parfenon-wine/wine-covers/wine-cover-20@2x.png"
+        "cover-url": "wine-cover-20@2x.png"
       },
       "shops": [
         {
@@ -789,17 +789,17 @@
         "cover-url": "http://mikeozornin.ru/parfenon-wine/youtube-covers/420/cover-21@2x.jpg",
         "show-release": true
       },
-      "requirements": "Пино нуар",
+      "requirements": "Pinot Noir",
       "wine": {
         "lat": 47.2251562,
         "lon": 4.9689676,
-        "region": "Франция, Бургундия, Жевре-Шамбертен",
-        "grape": "Пино Нуар",
+        "region": "Франция, Bourgogne, Gevrey-Chambertin",
+        "grape": "Pinot Noir",
         "color": "Красное",
         "title": "Domaine des Varoilles Gevrey-Chambertin Clos du Meix Ouches Monopole, 2013",
         "vivino-url": "https://www.vivino.com/domaine-des-varoilles-gevrey-chambertin-clos-du-meix-des-ouches/w/1164442",
         "vivino-rating": "3.9",
-        "cover-url": "http://mikeozornin.ru/parfenon-wine/wine-covers/wine-cover-21@2x.png"
+        "cover-url": "wine-cover-21@2x.png"
       },
       "shops": []
     },
@@ -815,13 +815,13 @@
       "wine": {
         "lat": 44.0428788,
         "lon": 4.8506675,
-        "region": "Франция, Долина Роны, Шатонёф-дю-Пап",
-        "grape": "Гренаш, Сира, Мурведр, Сенсо",
+        "region": "Франция, Rhone valley, Châteauneuf-du-Pape",
+        "grape": "Grenache, Syrah, Mourvèdre, Cinsaut",
         "color": "Красное",
         "title": "Chateauneuf-Du-Pape Télégramme, 2016",
         "vivino-url": "https://www.vivino.com/vieux-telegraphe-telegramme-chateauneuf-du-pape/w/77716?year=U.V.",
         "vivino-rating": "4.1",
-        "cover-url": "http://mikeozornin.ru/parfenon-wine/wine-covers/wine-cover-22@2x.png"
+        "cover-url": "wine-cover-22@2x.png"
       },
       "shops": [
         {
@@ -839,17 +839,17 @@
         "cover-url": "http://mikeozornin.ru/parfenon-wine/youtube-covers/420/cover-23@2x.jpg",
         "show-release": true
       },
-      "requirements": "Шардоне, зимнее",
+      "requirements": "Chardonnay, зимнее",
       "wine": {
         "lat": 47.069886,
         "lon": 4.8007257,
-        "region": "Франция, Бургундия",
-        "grape": "Шардоне",
+        "region": "Франция, Bourgogne",
+        "grape": "Chardonnay",
         "color": "Белое",
         "title": "Bourgogne Chardonnay 2016 Chantereve",
         "vivino-url": "https://www.vivino.com/chantereves-bourgogne-chardonnay/w/2740977?year=2016",
         "vivino-rating": "3.7",
-        "cover-url": "http://mikeozornin.ru/parfenon-wine/wine-covers/wine-cover-23@2x.png"
+        "cover-url": "wine-cover-23@2x.png"
       },
       "shops": []
     },
@@ -865,13 +865,13 @@
       "wine": {
         "lat": 42.6439499,
         "lon": 11.851626,
-        "region": "Италия, Лацио",
-        "grape": "Санджовезе, Мерло, Чильеджоло",
+        "region": "Италия, Lazio",
+        "grape": "Sangiovese, Merlo, Ciliegiolo",
         "color": "Красное",
         "title": "Le Coste Litrozzo VdT, 2018",
         "vivino-url": "https://www.vivino.com/it-le-coste-litrozzo-rosso/w/2269463",
         "vivino-rating": "3.6",
-        "cover-url": "http://mikeozornin.ru/parfenon-wine/wine-covers/wine-cover-24@2x.png"
+        "cover-url": "wine-cover-24@2x.png"
       },
       "shops": [
         {
@@ -893,13 +893,13 @@
       "wine": {
         "lat": 43.0444058,
         "lon": 11.4149645,
-        "region": "Италия, Тоскана, Брунелло ди Монтальчино",
-        "grape": "55 ⁠% Мерло, 45 ⁠% Санджовезе",
+        "region": "Италия, Toscana, Brunello Di Montalcino",
+        "grape": "55 ⁠% Merlo, 45 ⁠% Sangiovese",
         "color": "Красное",
         "title": "Luce della Vite, 2013",
         "vivino-url": "https://www.vivino.com/luce-della-vite-luce/w/83594?ref=nav-search",
         "vivino-rating": "4.3",
-        "cover-url": "http://mikeozornin.ru/parfenon-wine/wine-covers/wine-cover-25@2x.png"
+        "cover-url": "wine-cover-25@2x.png"
       },
       "shops": [
         {
@@ -921,13 +921,13 @@
       "wine": {
         "lat": -33.0066629,
         "lon": -68.5758043,
-        "region": "Аргентина, Мендоса",
-        "grape": "Мальбек",
+        "region": "Аргентина, Mendoza Province",
+        "grape": "Malbec",
         "color": "Красное",
         "title": "Achaval Ferrer, «Finca Mirador», Mendoza, 2013",
         "vivino-url": "https://www.vivino.com/achaval-ferrer-finca-mirador-medrano-mendoza-red-wine/w/6137652",
         "vivino-rating": "4.2",
-        "cover-url": "http://mikeozornin.ru/parfenon-wine/wine-covers/wine-cover-26@2x.png"
+        "cover-url": "wine-cover-26@2x.png"
       },
       "shops": [
         {
@@ -949,13 +949,13 @@
       "wine": {
         "lat": -33.0366629,
         "lon": -68.5958043,
-        "region": "Аргентина, Мендоса",
-        "grape": "Мальбек",
+        "region": "Аргентина, Mendoza Province",
+        "grape": "Malbec",
         "color": "Красное",
         "title": "Achaval-Ferrer Finca Altamira, 2014",
         "vivino-url": "https://www.vivino.com/achaval-ferrer-finca-altamira-malbec/w/1176258",
         "vivino-rating": "4,4",
-        "cover-url": "http://mikeozornin.ru/parfenon-wine/wine-covers/wine-cover-27@2x.png"
+        "cover-url": "wine-cover-27@2x.png"
       },
       "shops": [
         {
@@ -977,13 +977,13 @@
       "wine": {
         "lat": 44.635842,
         "lon": 7.9575493,
-        "region": "Италия, Пьемонт, Бароло",
+        "region": "Италия, Piemonte, Barolo",
         "grape": "Неббиоло",
         "color": "Красное",
         "title": "Mauro Molino, Barolo, 2014",
         "vivino-url": "https://www.vivino.com/mauro-molino-barolo/w/100372?year=2014",
         "vivino-rating": "4,1",
-        "cover-url": "http://mikeozornin.ru/parfenon-wine/wine-covers/wine-cover-28@2x.png"
+        "cover-url": "wine-cover-28@2x.png"
       },
       "shops": [
         {
@@ -1011,7 +1011,7 @@
         "title": "Tenuta delle Terre Nere, Etna Rosso DOC, 2015",
         "vivino-url": "https://www.vivino.com/tenuta-delle-terre-nere-etna-rosso/w/1225467?year=2015",
         "vivino-rating": "3,7",
-        "cover-url": "http://mikeozornin.ru/parfenon-wine/wine-covers/wine-cover-29@2x.png"
+        "cover-url": "wine-cover-29@2x.png"
       },
       "shops": [
         {
@@ -1039,7 +1039,7 @@
         "title": "Benanti, Etna Rosso DOC, 2015",
         "vivino-url": "https://www.vivino.com/benanti-etna-rosso/w/1758784",
         "vivino-rating": "3,7",
-        "cover-url": "http://mikeozornin.ru/parfenon-wine/wine-covers/wine-cover-29-2@2x.png"
+        "cover-url": "wine-cover-29-2@2x.png"
       },
       "shops": []
     },
@@ -1061,7 +1061,7 @@
         "title": "Graci Etna Rosso, 2016",
         "vivino-url": "https://www.vivino.com/graci-etna-rosso/w/75659",
         "vivino-rating": "3,7",
-        "cover-url": "http://mikeozornin.ru/parfenon-wine/wine-covers/wine-cover-29-3@2x.png"
+        "cover-url": "wine-cover-29-3@2x.png"
       },
       "shops": []
     },
@@ -1083,7 +1083,7 @@
         "title": "Etna Rosso DOC Arcuria, 2015",
         "vivino-url": "https://www.vivino.com/graci-arcuria-etna-rosso/w/2134507",
         "vivino-rating": "4,1",
-        "cover-url": "http://mikeozornin.ru/parfenon-wine/wine-covers/wine-cover-29-4@2x.png"
+        "cover-url": "wine-cover-29-4@2x.png"
       },
       "shops": []
     },
@@ -1099,13 +1099,13 @@
       "wine": {
         "lat": 47.0795302,
         "lon": 4.7341268,
-        "region": "Франция, Бургундия",
-        "grape": "Пино Нуар",
+        "region": "Франция, Bourgogne",
+        "grape": "Pinot Noir",
         "color": "Красное",
         "title": "Chanterêves Bourgogne Pinot Noir, 2016",
         "vivino-url": "https://www.vivino.com/chantereves-bourgogne-pinot-noir/w/2922322?year=2016",
         "vivino-rating": "3.5",
-        "cover-url": "http://mikeozornin.ru/parfenon-wine/wine-covers/wine-cover-30@2x.png"
+        "cover-url": "wine-cover-30@2x.png"
       },
       "shops": [
         {
@@ -1133,7 +1133,7 @@
         "title": "Girolamo Russo ‘San Lorenzo’ Etna Rosso, 2015",
         "vivino-url": "https://www.vivino.com/girolamo-russo-san-lorenzo-etna-rosso/w/1217639?year=2015",
         "vivino-rating": "4.1",
-        "cover-url": "http://mikeozornin.ru/parfenon-wine/wine-covers/wine-cover-30-2@2x.png"
+        "cover-url": "wine-cover-30-2@2x.png"
       },
       "shops": [
         {
@@ -1161,7 +1161,7 @@
         "title": "Girolamo Russo ‘San Lorenzo’ Etna Rosso, 2015",
         "vivino-url": "https://www.vivino.com/ciro-biondi-cisterna-fuori-contrada-ronzini/w/1926101",
         "vivino-rating": "4.0",
-        "cover-url": "http://mikeozornin.ru/parfenon-wine/wine-covers/wine-cover-30-3@2x.png"
+        "cover-url": "wine-cover-30-3@2x.png"
       },
       "shops": [
         {
@@ -1188,13 +1188,13 @@
       "wine": {
         "lat": 43.105494,
         "lon": 11.8486643,
-        "region": "Италия, Тоскана, Нобиле ди Монтепульчано",
-        "grape": "85% Санджовезе, 5% Маммоло, 5% Канайоло, 5% Колорино",
+        "region": "Италия, Toscana, Нобиле ди Монтепульчано",
+        "grape": "85% Sangiovese, 5% Маммоло, 5% Канайоло, 5% Колорино",
         "color": "Красное",
         "title": "Poderi Boscarelli Vino Nobile di Montepulciano 2015",
         "vivino-url": "https://www.vivino.com/podere-boscarelli-vino-nobile-di-montepulciano-costa-grande/w/6835233?year=2015",
         "vivino-rating": "4.5",
-        "cover-url": "http://mikeozornin.ru/parfenon-wine/wine-covers/wine-cover-31@2x.png"
+        "cover-url": "wine-cover-31@2x.png"
       },
       "shops": [
         {
@@ -1222,7 +1222,7 @@
         "title": "Ronco Severo Ribolla Gialla delle Venezie IGT, 2016",
         "vivino-url": "https://www.vivino.com/ronco-severo-ribolla-gialla/w/3566460?year=2016",
         "vivino-rating": "4,5",
-        "cover-url": "http://mikeozornin.ru/parfenon-wine/wine-covers/wine-cover-32@2x.png"
+        "cover-url": "wine-cover-32@2x.png"
       },
       "shops": []
     },
@@ -1238,13 +1238,13 @@
       "wine": {
         "lat": 42.3515325,
         "lon": 10.8833204,
-        "region": "Италия, Тоскана, Остров Джилья",
+        "region": "Италия, Toscana, Остров Джилья",
         "grape": "Ансоника",
         "color": "Белое",
         "title": "Vigneto Altura Ansonaco dell’ Isola del Giglio Toscana",
         "vivino-url": "https://www.vivino.com/altura-30027-ansonaco/w/1842084?year=2017",
         "vivino-rating": "4,3",
-        "cover-url": "http://mikeozornin.ru/parfenon-wine/wine-covers/wine-cover-32-2@2x.png"
+        "cover-url": "wine-cover-32-2@2x.png"
       },
       "shops": []
     },
@@ -1266,7 +1266,7 @@
         "title": "Pieropan, Amarone della Valpolicella DOCG, 2013 ",
         "vivino-url": "https://www.vivino.com/pieropan-amarone-della-valpolicella/w/4398766?price_id=11886870&year=2013",
         "vivino-rating": "4.4",
-        "cover-url": "http://mikeozornin.ru/parfenon-wine/wine-covers/wine-cover-33@2x.png"
+        "cover-url": "wine-cover-33@2x.png"
       },
       "shops": [
         {
@@ -1288,13 +1288,13 @@
       "wine": {
         "lat": 42.545015,
         "lon": -2.6681537,
-        "region": "Испания, Риоха",
+        "region": "Испания, Rioja",
         "grape": "Гренаш",
         "color": "Розовое",
         "title": "Izadi Larrosa DOCa Rioja Bodegas Izadi, 2017",
         "vivino-url": "https://www.vivino.com/izadi-rioja-larrosa/w/2211676?year=2017",
         "vivino-rating": "3,8",
-        "cover-url": "http://mikeozornin.ru/parfenon-wine/wine-covers/wine-cover-34@2x.png"
+        "cover-url": "wine-cover-34@2x.png"
       },
       "shops": [
         {
@@ -1322,12 +1322,12 @@
         "lat": 41.6431265,
         "lon": -4.1530853,
         "region": "Испания, Рибера-дель-Дуэро",
-        "grape": "Темпранильо",
+        "grape": "Tempranillo",
         "color": "Красное",
         "title": "Emilio Moro Malleolus, 2015",
         "vivino-url": "https://www.vivino.com/emilio-moro-malleolus/w/11604?year=2015",
         "vivino-rating": "4,3",
-        "cover-url": "http://mikeozornin.ru/parfenon-wine/wine-covers/wine-cover-35@2x.png"
+        "cover-url": "wine-cover-35@2x.png"
       },
       "shops": [
         {
@@ -1355,7 +1355,7 @@
         "title": "Iago's Wine Chinuri",
         "vivino-url": "https://www.vivino.com/iagos-iago-chinuri-unknown-v-0sr8p/w/5714269",
         "vivino-rating": "4.0",
-        "cover-url": "http://mikeozornin.ru/parfenon-wine/wine-covers/wine-cover-online-3@2x.png"
+        "cover-url": "wine-cover-online-3@2x.png"
       },
       "shops": []
     },
@@ -1372,12 +1372,12 @@
         "lat": 45.0817137,
         "lon": -0.6055759,
         "region": "Франция, Бордо, Кот де Бур",
-        "grape": "65% Мерло, 30% Каберне Совиньон, 5% Мальбек",
+        "grape": "65% Merlo, 30% Cabernet Sauvignon, 5% Мальбек",
         "color": "Красное",
         "title": "Chateau La Grolet, Cotes de Bourg AOC",
         "vivino-url": "https://www.vivino.com/la-grolet-cotes-de-bourg/w/1154419",
         "vivino-rating": "3,5",
-        "cover-url": "http://mikeozornin.ru/parfenon-wine/wine-covers/wine-cover-37@2x.png"
+        "cover-url": "wine-cover-37@2x.png"
       },
       "shops": [
         {
@@ -1428,7 +1428,7 @@
         "title": "Tenuta di Aglaea, «Contrada Santo Spirito», Etna DOC, 2015",
         "vivino-url": "https://www.vivino.com/aglaea-contrada-santo-spirito-etna/w/6033472?year=2015",
         "vivino-rating": "3,8",
-        "cover-url": "http://mikeozornin.ru/parfenon-wine/wine-covers/wine-cover-39@2x.png"
+        "cover-url": "wine-cover-39@2x.png"
       },
       "shops": [
         {
@@ -1456,7 +1456,7 @@
         "title": "Gvymarani Mtsvane",
         "vivino-url": "https://www.vivino.com/gvymarani-mtsvane-unknown-v-luoex/w/2376280",
         "vivino-rating": "4,1",
-        "cover-url": "http://mikeozornin.ru/parfenon-wine/wine-covers/wine-cover-online-2019@2x.png"
+        "cover-url": "wine-cover-online-2019@2x.png"
       },
       "shops": [
         {
@@ -1478,13 +1478,13 @@
       "wine": {
         "lat": 44.6064182,
         "lon": 8.0072039,
-        "region": "Италия, Пьемонт, Ланге",
-        "grape": "Неббиоло",
+        "region": "Италия, Piemonte, Ланге",
+        "grape": "Nebbiolo",
         "color": "Красное",
         "title": "Rivetto langhe nebbiolo (Парфенов), vino Rosso Rivetto (у винодельни)",
         "vivino-url": "http://rivetto.it/it/vini/vino-rosso-rivetto/",
         "vivino-rating": "",
-        "cover-url": "http://mikeozornin.ru/parfenon-wine/wine-covers/wine-cover-41@2x.png"
+        "cover-url": "wine-cover-41@2x.png"
       },
       "shops": [
         {
@@ -1506,13 +1506,13 @@
       "wine": {
         "lat": 46.5305742,
         "lon": 11.247785,
-        "region": "Италия, Трентино-Альто Адидже",
-        "grape": "Пино Нуар",
+        "region": "Италия, Trentino-Alto Adige",
+        "grape": "Pinot Noir",
         "color": "Красное",
         "title": "Pinot Noir, Cantina Terlan, 2018",
         "vivino-url": "https://www.vivino.com/kellerei-terlan-pinot-noir/w/1263919?year=2018",
         "vivino-rating": "3,8",
-        "cover-url": "http://mikeozornin.ru/parfenon-wine/wine-covers/wine-cover-42@2x.png"
+        "cover-url": "wine-cover-42@2x.png"
       },
       "shops": [
         {
@@ -1544,13 +1544,13 @@
       "wine": {
         "lat": 37.0112129,
         "lon": -122.1945806,
-        "region": "США, Калифорния, Центральное побережье",
-        "grape": "Сира",
+        "region": "США, California, Central Coast",
+        "grape": "Syrah/Shiraz",
         "color": "Красное",
         "title": "Syrah Le Pousseur, Bonny Doon Vineyards, 2013",
         "vivino-url": "https://www.vivino.com/bonny-doon-le-pousseur-syrah/w/1128215?year=2013",
         "vivino-rating": "3,8",
-        "cover-url": "http://mikeozornin.ru/parfenon-wine/wine-covers/zvorykin-wine-cover-1@2x.png"
+        "cover-url": "zvorykin-wine-cover-1@2x.png"
       },
       "shops": [
         {
@@ -1578,13 +1578,13 @@
       "wine": {
         "lat": 43.0991616,
         "lon": 11.4027841,
-        "region": "Италия, Тоскана, Брунелло ди Монтальчино",
-        "grape": "Санджовезе Гроссо",
+        "region": "Италия, Toscana, Brunello Di Montalcino",
+        "grape": "Sangiovese grosso",
         "color": "Красное",
         "title": "Tenute Silvio Nardi, Brunello Di Montalcino, 2012",
         "vivino-url": "https://www.vivino.com/silvio-nardi-brunello-di-montalcino/w/1156767?year=2012",
         "vivino-rating": "4,1",
-        "cover-url": "http://mikeozornin.ru/parfenon-wine/wine-covers/wine-cover-corona-release-1@2x.jpg"
+        "cover-url": "wine-cover-corona-release-1@2x.jpg"
       },
       "shops": [
         {
