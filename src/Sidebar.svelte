@@ -106,7 +106,7 @@
   }
 
   .filter-search {
-    background-color: white;
+    background-color: var(--backgroundColor);
     position: sticky;
     top: 0;
 
@@ -144,7 +144,7 @@
     width: calc(100% - 20px);
     padding: 5px 10px;
 
-    background-color: white;
+    background-color: var(--backgroundColor);
     border-top: 1px solid var(--border-light-color);
   }
 

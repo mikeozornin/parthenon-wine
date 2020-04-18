@@ -17,6 +17,7 @@
 		--text-color: black;
 		--text-light-color: rgba(0, 0, 0, 0.5);
 		--border-light-color: rgba(0, 0, 0, 0.2);
+		--backgroundColor: rgb(250, 246, 240);
 		--hover-background-color: rgba(0, 137, 255, 0.2);
 		--link-color: rgb(0, 137, 255);
 		--link-border-color: rgba(0, 137, 255, 0.32);

@@ -29,8 +29,10 @@
 <style type="text/less">
   .wine-card {
     width: calc(100% - 20px);
-    border-bottom: 1px solid var(--border-light-color);
     padding: 10px;
+
+    background-color: var(--backgroundColor);
+    border-bottom: 1px solid var(--border-light-color);
 
     &:hover {
       background-color: var(--hover-background-color);
