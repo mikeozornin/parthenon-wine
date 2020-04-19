@@ -1,64 +1,69 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="utf-8">
-    <title>Concise Handlebars.js</title>
-    <!-- 0a. CSS -->
-    <link rel="stylesheet" href="http://mikeozornin.ru/blog/themes/plain/styles/main.css?1511434730">
-    <link rel="stylesheet" href="http://mikeozornin.ru/blog/themes/my/styles/style.css">
+  <meta charset="utf-8">
+  <title>Concise Handlebars.js</title>
+  <!-- 0a. CSS -->
+  <link href="//mikeozornin.ru/blog/themes/plain/styles/main.css" rel="stylesheet">
+  <link href="//mikeozornin.ru/blog/themes/my/styles/style.css" rel="stylesheet">
 
-    <!-- 0a. JS -->
-    <script src="//code.jquery.com/jquery-2.0.3.min.js"></script><!-- online jquery.js -->
-    <script src="//cdnjs.cloudflare.com/ajax/libs/handlebars.js/1.1.2/handlebars.min.js"></script><!-- online handlebars.js-->
+  <!-- 0a. JS -->
+  <script src="//code.jquery.com/jquery-2.0.3.min.js"></script><!-- online jquery.js -->
+  <script src="//cdnjs.cloudflare.com/ajax/libs/handlebars.js/1.1.2/handlebars.min.js"></script><!-- online handlebars.js-->
 </head>
 
 <body>
 
-<!-- 2. Anchor -->
 <div id="anchor">&nbsp;</div>
 
-<!-- 3. Template -->
 <script id="tpl" type="text/template">
-    <div class="e2-text-table" style="font-size: 80%; line-height: 1.4; margin-left: -20px; margin-right: -20px;">
-        <table cellpadding="0" cellspacing="0" border="0" class="sticky-header parfenon-table">
-            <thead><tr>
-                <td>Выпуск</td>
-                <td>Требования к&nbsp;вину</td>
-                <td>Вино Парфенова</td>
-                <td>Магазины</td>
-            </tr>
-        </thead>
-        <tbody>
-            {{#wines}}
-            <tr>
-                <td data-label="Выпуск">{{#if release.show-release}}<a href="{{release.video-url}}"><img class="parfenon-cover" src="{{release.cover-url}}" /><span class="parfenon-release-title">{{release.title}}</span></a>
-                {{/if}}</td>
-                <td data-label="Требования к&nbsp;вину">{{requirements}}</td>
-                <td data-label="Вино Парфенова">{{#if wine.title}}<a href="{{wine.vivino-url}}">{{#if wine.cover-url}}<img style="align: right; max-height: 117.5px; max-width: 35px; float: left; margin-right: 30px;" src="http://mikeozornin.ru/parfenon-wine/assets/wine-covers/{{wine.cover-url}}"/>{{/if}}{{wine.title}}</a>{{#if wine.vivino-rating}}· {{wine.vivino-rating}} ★{{/if}}<br/>{{wine.color}}<br/>Регион: {{wine.region}}<br/>Виноград: {{wine.grape}}{{/if}}</td>
-                <td data-label="Магазины">{{#shops}}
-                    <a href="{{url}}" style="white-space: nowrap;">{{title}}</a> {{price}}</br>
-                    {{/shops}}
-                    {{#unless shops.length}}&nbsp;{{/unless}}
-                </td>
-            </tr>
-            {{/wines}}
-            </tbody></table>
-    </div>
+  <div class="e2-text-table" style="font-size: 80%; line-height: 1.4; margin-left: -20px; margin-right: -20px;">
+    <table cellpadding="0" cellspacing="0" border="0" class="sticky-header parfenon-table">
+      <thead>
+      <tr>
+        <td>Выпуск</td>
+        <td>Требования к&nbsp;вину</td>
+        <td>Вино Парфенова</td>
+        <td>Магазины</td>
+      </tr>
+      </thead>
+      <tbody>
+      {{#wines}}
+      <tr>
+        <td data-label="Выпуск">{{#if release.show-release}}<a href="{{release.video-url}}"><img class="parfenon-cover"
+                                                                                                 src="{{release.cover-url}}"/><span
+                class="parfenon-release-title">{{release.title}}</span></a>
+          {{/if}}
+        </td>
+        <td data-label="Требования к&nbsp;вину">{{requirements}}</td>
+        <td data-label="Вино Парфенова">{{#if wine.title}}<a href="{{wine.vivino-url}}">{{#if wine.cover-url}}<img
+                style="align: right; max-height: 117.5px; max-width: 35px; float: left; margin-right: 30px;"
+                src="//mikeozornin.ru/parfenon-wine/assets/wine-covers/{{wine.cover-url}}"/>{{/if}}{{wine.title}}</a>{{#if
+          wine.vivino-rating}}· {{wine.vivino-rating}} ★{{/if}}<br/>{{wine.color}}<br/>Регион: {{wine.region}}<br/>Виноград:
+          {{wine.grape}}{{/if}}
+        </td>
+        <td data-label="Магазины">{{#shops}}
+          <a href="{{url}}" style="white-space: nowrap;">{{title}}</a> {{price}}</br>
+          {{/shops}}
+          {{#unless shops.length}}&nbsp;{{/unless}}
+        </td>
+      </tr>
+      {{/wines}}
+      </tbody>
+    </table>
+  </div>
 
 </script>
 
-<!--4. Handlebars.js slingshot -->
 <script>
-    //4a.function creation
-    var slingshot = function (url, tplId, anchor) {
-        $.getJSON(url, function(data) {
-            var template = $(tplId).html();
-            var stone = Handlebars.compile(template)(data);
-            $(anchor).append(stone);
-        });
-    }
-    //4b.function firing
-    slingshot('/src/assets/data/data.json', '#tpl', '#anchor'); // since url = 'data.json' , we can use both notations.
+  var slingshot = function (url, tplId, anchor) {
+    $.getJSON(url, function (data) {
+      let template = $(tplId).html();
+      let stone = Handlebars.compile(template)(data);
+      $(anchor).append(stone);
+    });
+  }
+  slingshot('/src/assets/data/data.json', '#tpl', '#anchor');
 </script>
 </body>
 </html>
