@@ -95,6 +95,8 @@
     width: 25%;
     overflow-y: scroll;
 
+    background-color: var(--backgroundColor);
+
     &[data-shown='false'] {
       width: 0;
     }
