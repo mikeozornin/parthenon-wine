@@ -10,9 +10,8 @@
   export let sidebarShown;
 
   function filterWine(wine, query) {
-    let wineSearchable = [wine.wineInfo.title, wine.wineInfo.color, wine.wineInfo.region, wine.wineInfo.grape, wine.wineInfo.releaseTitle].join(' ').toLowerCase();
-
-    wineSearchable += ' ' + wineSearchable.normalize('NFKD').replace(/[^\w\s.-_\/]/g, '');
+    let wineSearchable = [wine.wineInfo.title, wine.wineInfo.color, wine.wineInfo.region, wine.wineInfo.grape, wine.wineInfo.releaseTitle].join(' ');
+    wineSearchable = normalizeTextForSearch(wineSearchable);
 
     let result = true;
     query.split(/(\S*(?:(['"`]).*?\2)\S*)\s?|\s/g) // Этот сложный код, чтобы разрешить поиск в кавычках
@@ -20,13 +19,18 @@
             .map(e => e.replaceAll('"', '').trim())
             .filter(e => e)
             .forEach(function (queryItem) {
-              result = result && wineSearchable.includes(queryItem.toLowerCase());
+              result = result && wineSearchable.includes(normalizeTextForSearch(queryItem));
             });
     return result;
   }
 
-  function sortWineByName(a, b){
-    let nameA = a.wineInfo.title.toLowerCase(), nameB=b.wineInfo.title.toLowerCase();
+  function normalizeTextForSearch(value) {
+    return value.normalize('NFKD').replace(/[^\w\s.-_\/]/g, '').toLocaleLowerCase();
+  }
+
+  function sortWineByName(wineA, wineB){
+    let nameA = normalizeTextForSearch(wineA.wineInfo.title); //case insensitive and diacritic ignoring sort
+    let nameB = normalizeTextForSearch(wineB.wineInfo.title);
 
     if (nameA < nameB) return -1
     if (nameA > nameB) return 1
