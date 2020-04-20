@@ -1240,13 +1240,19 @@
         "lon": 10.8833204,
         "region": "Италия, Toscana, Остров Джилья",
         "grape": "Ансоника",
-        "color": "Белое",
+        "color": "Оранжевое",
         "title": "Vigneto Altura Ansonaco dell’ Isola del Giglio Toscana",
         "vivino-url": "https://www.vivino.com/altura-30027-ansonaco/w/1842084?year=2017",
         "vivino-rating": "4,3",
         "cover-url": "wine-cover-32-2@2x.png"
       },
-      "shops": []
+      "shops": [
+        {
+          "title": "Real authentic wine",
+          "url": "//realauthenticwine.ru/catalog/product/o8266/",
+          "price": "8550 ₽"
+        }
+      ]
     },
     {
       "release": {
