@@ -16,7 +16,7 @@
     let result = true;
     query.split(/(\S*(?:(['"`]).*?\2)\S*)\s?|\s/g) // Этот сложный код, чтобы разрешить поиск в кавычках
             .filter(e => e)                        // "chianti docg"
-            .map(e => e.replaceAll('"', '').trim())
+            .map(e => e.replace(/"/g, '').trim())
             .filter(e => e)
             .forEach(function (queryItem) {
               result = result && wineSearchable.includes(normalizeTextForSearch(queryItem));
