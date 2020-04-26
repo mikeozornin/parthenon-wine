@@ -2,6 +2,9 @@
 	import Sidebar from './Sidebar.svelte';
 	import Map from './Map.svelte';
 
+	import "../node_modules/leaflet/dist/leaflet.css";
+	import "../node_modules/leaflet.markercluster/dist/MarkerCluster.Default.css";
+
 	let sidebarShown = true;
 
 	function handleMessage(event) {

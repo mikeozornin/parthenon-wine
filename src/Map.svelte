@@ -11,35 +11,26 @@
   const dispatch = createEventDispatcher();
 
   onMount(() => {
-    const link = document.createElement('link');
-    link.rel = 'stylesheet';
-    link.href = 'https://unpkg.com/leaflet@1.6.0/dist/leaflet.css';
+    map = L.map('map').setView([25.505, 15.09], 3);
 
-    link.onload = () => {
-      map = L.map('map').setView([25.505, 15.09], 3);
+    L.tileLayer('https://c.osm.rrze.fau.de/osmhd/{z}/{x}/{y}.png', {
+      attribution: `&copy; <a href='//www.openstreetmap.org/copyright' target='_blank'>OpenStreetMap</a> contributors | Used icons <a href='//sergeychikin.ru/365' target='_blank'>by Sergey Chikin</a>`,
+      minZoom: 2,
+      maxZoom: 16,
+    }).addTo(map);
 
-      L.tileLayer('https://c.osm.rrze.fau.de/osmhd/{z}/{x}/{y}.png', {
-        attribution: `&copy; <a href='//www.openstreetmap.org/copyright' target='_blank'>OpenStreetMap</a> contributors | Used icons <a href='//sergeychikin.ru/365' target='_blank'>by Sergey Chikin</a>`,
-        minZoom: 2,
-        maxZoom: 16,
-      }).addTo(map);
+    L.easyButton( '<span class="sidebar-list-icons">&equiv;</span>', function(){
+        dispatch('message', {
+          text: 'sidebar-collapse'
+        });
+    }).addTo(map);
 
-      L.easyButton( '<span class="sidebar-list-icons">&equiv;</span>', function(){
-          dispatch('message', {
-            text: 'sidebar-collapse'
-          });
-      }).addTo(map);
+    map.on('popupclose', clearHash);
 
-      map.on('popupclose', clearHash);
-
-      loadGeoData();
-    };
-
-    document.head.appendChild(link);
+    loadGeoData();
 
     return () => {
       map.remove();
-      link.parentNode.removeChild(link);
     };
 
   });

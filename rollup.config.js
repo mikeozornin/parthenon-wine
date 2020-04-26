@@ -5,6 +5,8 @@ import livereload from 'rollup-plugin-livereload';
 import { terser } from 'rollup-plugin-terser';
 import rollup_start_dev from './rollup_start_dev';
 
+import css from "rollup-plugin-css-only";
+
 import { less } from 'svelte-preprocess-less';
 import copy from "rollup-plugin-copy-assets";
 
@@ -19,6 +21,7 @@ export default {
 		file: 'public/bundle.js'
 	},
 	plugins: [
+		css({ output: "public/vendors.css" }),
 		copy({
 			assets: [
 				// You can include directories
