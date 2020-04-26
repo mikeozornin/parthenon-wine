@@ -2,6 +2,7 @@
   import {onMount, createEventDispatcher} from 'svelte';
   import L from 'leaflet';
   import "leaflet-easybutton";
+  import "leaflet.markercluster"
 
   import {sheetUrl, wines} from './store/store.js';
   import {getPopupText, wineTypeIcons, setHash, clearHash} from './utils/utils.js';
@@ -39,6 +40,11 @@
     const res = await fetch(sheetUrl);
     const data = await res.json();
 
+    // let markerClusters = L.markerClusterGroup({
+    //           maxClusterRadius: 15
+    //         }
+    // );
+
     if (res.ok) {
       data.wines.forEach(function (wineReleaseItem, i, arr) {
         let entryItem = wineReleaseItem.wine;
@@ -67,11 +73,13 @@
                   .addTo(map)
                   .options['id'] = i;
           wine.marker = marker;
-
+          // markerClusters.addLayer(marker);
           let newWines = [...$wines, wine];
           wines.update(wines => newWines);
         }
       });
+
+      // map.addLayer( markerClusters );
 
       initPopup();
 
