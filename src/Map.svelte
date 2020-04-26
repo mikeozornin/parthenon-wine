@@ -85,7 +85,10 @@
   }
 
   function popupMarker(index) {
-    $wines[index].marker.openPopup();
+    let res = $wines.filter(wine => wine.marker.options.id == index);
+    if (res) (
+      res[0].marker.openPopup()
+    )
   }
 
   function initPopup() {
