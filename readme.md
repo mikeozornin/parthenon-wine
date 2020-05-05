@@ -4,10 +4,10 @@
 Таблица с винами в человекочитаемом формате публикуется по адресу:
 http://mikeozornin.ru/blog/all/vino-iz-parfenona/
 
-![Карта вин Парфенона][readme-parfenon-table@2x.png]
+![Карта вин Парфенона](https://github.com/mikeozornin/parthenon-wine/blob/master/readme-parfenon-table@2x.png?raw=true)
 
 По тому же адресу доступна карта:
-![Карта вин Парфенона][readme-parfenon-map@2x.png]
+![Карта вин Парфенона](https://github.com/mikeozornin/parthenon-wine/blob/master/readme-parfenon-map@2x.png?raw=true)
 
 # Чем может быть полезен репозиторий
 В файле ```src/assets/data/data.json``` хранятся данные по винам в машиночитаемом виде, его можно подключать себе, пожалуйста не копируйте его, я периодически нахожу в нем ошибки и поддерживаю его актуальным.
